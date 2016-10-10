@@ -1,0 +1,53 @@
+Label: Total Cash & ST Investments/Total Assets % [FY 1997]
+Min Error: 	0.190992
+Mean Error: 	2.516740
+Median Error: 	0.545270
+Max Error: 	10.260139
+Feature importance:
+	Avg. Days Sales Out.  (Days): 0.034566
+	Cash from Ops./EBITDA % : 0.033848
+	Rev YOY % : 0.033178
+	Net Property, Plant & Equipment/ Total Assets % : 0.033070
+	Total Asset Turnover : 0.032181
+	Avg. Cash Conversion Cycle  (Days): 0.030150
+	Cash from Ops./Net Income% : 0.029640
+	Net Income Margin % : 0.029555
+	Return on Assets % : 0.029249
+	Gross Margin % : 0.028808
+	Capex/Rev %: 0.028518
+	Total Liabilities/Total Assets % : 0.028503
+	Total Debt/Equity % : 0.028484
+	Total Assets  ($USDmm, Current rate): 0.027769
+	Return on Equity % : 0.027686
+	Total Liabilities  ($USDmm, Current rate): 0.027442
+	Avg. Days Payable Out.  (Days): 0.026169
+	Depreciation & Amort., Total  ($USDmm, Current rate): 0.026035
+	R&D Exp./Total Revenue % : 0.025122
+	Capital Expenditure  ($USDmm, Current rate): 0.025041
+	Other Operating Exp. Total  ($USDmm, Current rate): 0.024390
+	Net Property, Plant & Equipment  ($USDmm, Current rate): 0.023748
+	Avg. Days Inventory Out.  (Days): 0.023586
+	Total Revenue  ($USDmm, Current rate): 0.023350
+	Net Income  ($USDmm, Current rate): 0.023252
+	EBITDA Margin % : 0.023097
+	Goodwill/Total Asset % : 0.022880
+	Cash from Ops.  ($USDmm, Current rate): 0.022507
+	Repurchase of Common Stock ($USDmm, Current rate): 0.020431
+	Cash Acquisitions/Total Revenue % : 0.019765
+	Year Founded: 0.019713
+	Cost Of Goods Sold  ($USDmm, Current rate): 0.019689
+	R&D Exp.  ($USDmm, Current rate): 0.019102
+	Payout Ratio  (%): 0.018618
+	Goodwill/Total Revenue % : 0.018609
+	EBITDA  ($USDmm, Current rate): 0.018354
+	Number of Employees (Latest): 0.017677
+	Cash Acquisitions ($USDmm, Current rate): 0.017659
+	Goodwill ($USDmm, Current rate): 0.017116
+	cash flow risk: 0.015157
+	准入资本市场难度: 0.004709
+	Cash flow risk(0:low; 1: high): 0.001576
+
+Total Min: 0.190992
+Total Mean: 2.516740
+Total Median: 0.545270
+Total Max: 10.260139

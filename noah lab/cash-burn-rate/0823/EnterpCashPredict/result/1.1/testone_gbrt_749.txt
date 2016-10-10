@@ -1,0 +1,54 @@
+Label: Total Cash & ST Investments/Total Assets % [FY 2011]
+Min Error: 	2.917518
+Mean Error: 	11.262681
+Median Error: 	6.189811
+Max Error: 	36.787722
+Feature importance:
+	Cash from Ops./EBITDA % [FY 2010]: 0.036398
+	Net Property, Plant & Equipment/ Total Assets % [FY 2010]: 0.032713
+	Rev YOY % [FY2010]: 0.032424
+	Cash from Ops./Net Income% [FY 2010]: 0.032076
+	Avg. Days Payable Out. [FY 2010] (Days): 0.032008
+	Total Liabilities/Total Assets % [FY 2010]: 0.031098
+	Capex/Rev %[FY 2010]: 0.029746
+	Avg. Cash Conversion Cycle [FY 2010] (Days): 0.029662
+	Total Asset Turnover [FY 2010]: 0.028544
+	Return on Equity % [FY 2010]: 0.028251
+	Return on Assets % [FY 2010]: 0.028023
+	Repurchase of Common Stock [FY 2010]($USDmm, Current rate): 0.027781
+	Net Income Margin % [FY 2010]: 0.027016
+	Avg. Days Sales Out. [FY 2010] (Days): 0.026932
+	Cash Acquisitions [FY 2010]($USDmm, Current rate): 0.026906
+	Cash from Ops. [FY 2010] ($USDmm, Current rate): 0.025335
+	EBITDA Margin % [FY 2010]: 0.025193
+	Net Income [FY 2010] ($USDmm, Current rate): 0.024955
+	Cash Acquisitions/Total Revenue % [FY 2010]: 0.024903
+	Gross Margin % [FY 2010]: 0.024786
+	Total Debt/Equity % [FY 2010]: 0.024589
+	Total Assets [FY 2010] ($USDmm, Current rate): 0.023611
+	Cost Of Goods Sold [FY 2010] ($USDmm, Current rate): 0.023517
+	Goodwill/Total Revenue % [FY 2010]: 0.023415
+	Capital Expenditure [FY 2010] ($USDmm, Current rate): 0.023125
+	Total Liabilities [FY 2010] ($USDmm, Current rate): 0.022981
+	EBITDA [FY 2010] ($USDmm, Current rate): 0.022891
+	Avg. Days Inventory Out. [FY 2010] (Days): 0.022782
+	Total Revenue [FY 2010] ($USDmm, Current rate): 0.022750
+	Net Property, Plant & Equipment [FY 2010] ($USDmm, Current rate): 0.022588
+	R&D Exp./Total Revenue % [FY 2010]: 0.022577
+	Goodwill/Total Asset % [FY 2010]: 0.022572
+	Other Operating Exp. Total [FY 2010] ($USDmm, Current rate): 0.022252
+	Depreciation & Amort., Total [FY 2010] ($USDmm, Current rate): 0.020938
+	Payout Ratio [FY 2010] (%): 0.019894
+	Goodwill [FY 2010]($USDmm, Current rate): 0.019428
+	R&D Exp. [FY 2010] ($USDmm, Current rate): 0.018281
+	Year Founded: 0.014322
+	Number of Employees (Latest): 0.012733
+	cash flow risk: 0.010814
+	准入资本市场难度: 0.005274
+	Industry Dummy: 0.002224
+	Cash flow risk(0:low; 1: high): 0.001692
+
+Total Min: 2.917518
+Total Mean: 11.262681
+Total Median: 6.189811
+Total Max: 36.787722

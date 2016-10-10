@@ -1,0 +1,53 @@
+Label: Total Cash & ST Investments/Total Assets % [FY 2010]
+Min Error: 	1.631057
+Mean Error: 	4.197643
+Median Error: 	4.360522
+Max Error: 	6.354400
+Feature importance:
+	Cash from Ops./EBITDA % : 0.038134
+	Rev YOY % : 0.033777
+	Capex/Rev %: 0.032589
+	Return on Assets % : 0.032129
+	Cash from Ops./Net Income% : 0.029159
+	Net Property, Plant & Equipment/ Total Assets % : 0.029139
+	Avg. Cash Conversion Cycle  (Days): 0.029133
+	Net Income Margin % : 0.028881
+	Avg. Days Payable Out.  (Days): 0.028733
+	Return on Equity % : 0.028557
+	Total Debt/Equity % : 0.028371
+	Avg. Days Sales Out.  (Days): 0.027674
+	Repurchase of Common Stock ($USDmm, Current rate): 0.026786
+	Total Liabilities/Total Assets % : 0.026178
+	Total Asset Turnover : 0.025794
+	Net Income  ($USDmm, Current rate): 0.025667
+	Capital Expenditure  ($USDmm, Current rate): 0.025589
+	Cash from Ops.  ($USDmm, Current rate): 0.025574
+	Depreciation & Amort., Total  ($USDmm, Current rate): 0.025365
+	EBITDA Margin % : 0.025355
+	Total Assets  ($USDmm, Current rate): 0.025192
+	Goodwill/Total Asset % : 0.025184
+	Net Property, Plant & Equipment  ($USDmm, Current rate): 0.024972
+	Total Liabilities  ($USDmm, Current rate): 0.024878
+	Gross Margin % : 0.023604
+	R&D Exp./Total Revenue % : 0.023352
+	Other Operating Exp. Total  ($USDmm, Current rate): 0.023030
+	EBITDA  ($USDmm, Current rate): 0.022387
+	Cash Acquisitions ($USDmm, Current rate): 0.022366
+	Total Revenue  ($USDmm, Current rate): 0.021728
+	Cash Acquisitions/Total Revenue % : 0.021702
+	Avg. Days Inventory Out.  (Days): 0.021355
+	Goodwill/Total Revenue % : 0.021232
+	Payout Ratio  (%): 0.020755
+	Cost Of Goods Sold  ($USDmm, Current rate): 0.019584
+	Goodwill ($USDmm, Current rate): 0.019249
+	Year Founded: 0.018714
+	R&D Exp.  ($USDmm, Current rate): 0.016610
+	Number of Employees (Latest): 0.016122
+	cash flow risk: 0.010741
+	准入资本市场难度: 0.003784
+	Cash flow risk(0:low; 1: high): 0.000874
+
+Total Min: 1.631057
+Total Mean: 4.197643
+Total Median: 4.360522
+Total Max: 6.354400

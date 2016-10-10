@@ -1,0 +1,53 @@
+Label: Net Cash Burn Ratio 1=Net Cash 1/ Avg. monthly cash outflow %[FY 1997]
+Min Error: 	0.294456
+Mean Error: 	2.457595
+Median Error: 	2.592914
+Max Error: 	7.015888
+Feature importance:
+	Rev YOY % : 0.038914
+	Net Income Margin % : 0.037517
+	Cash from Ops./EBITDA % : 0.035761
+	Total Liabilities/Total Assets % : 0.035665
+	Cash from Ops./Net Income% : 0.033610
+	EBITDA Margin % : 0.030403
+	Gross Margin % : 0.029696
+	Return on Assets % : 0.029393
+	Net Property, Plant & Equipment/ Total Assets % : 0.029264
+	Cash Acquisitions/Total Revenue % : 0.029178
+	Avg. Days Sales Out.  (Days): 0.028229
+	Total Liabilities  ($USDmm, Current rate): 0.026948
+	Goodwill/Total Asset % : 0.026362
+	Total Revenue  ($USDmm, Current rate): 0.026083
+	Total Asset Turnover : 0.025874
+	Capex/Rev %: 0.025322
+	Total Debt/Equity % : 0.025198
+	Cash Acquisitions ($USDmm, Current rate): 0.024782
+	Other Operating Exp. Total  ($USDmm, Current rate): 0.024585
+	Net Property, Plant & Equipment  ($USDmm, Current rate): 0.024281
+	Capital Expenditure  ($USDmm, Current rate): 0.023686
+	Return on Equity % : 0.023337
+	Net Income  ($USDmm, Current rate): 0.023319
+	Avg. Days Payable Out.  (Days): 0.023309
+	Cash from Ops.  ($USDmm, Current rate): 0.022589
+	Repurchase of Common Stock ($USDmm, Current rate): 0.022473
+	Avg. Cash Conversion Cycle  (Days): 0.022409
+	Depreciation & Amort., Total  ($USDmm, Current rate): 0.021961
+	Total Assets  ($USDmm, Current rate): 0.021497
+	Cost Of Goods Sold  ($USDmm, Current rate): 0.021144
+	Goodwill/Total Revenue % : 0.021086
+	cash flow risk: 0.020447
+	R&D Exp./Total Revenue % : 0.019709
+	EBITDA  ($USDmm, Current rate): 0.018757
+	Payout Ratio  (%): 0.018641
+	Year Founded: 0.017734
+	Goodwill ($USDmm, Current rate): 0.017217
+	Number of Employees (Latest): 0.016354
+	Avg. Days Inventory Out.  (Days): 0.013745
+	R&D Exp.  ($USDmm, Current rate): 0.013567
+	准入资本市场难度: 0.005943
+	Cash flow risk(0:low; 1: high): 0.004013
+
+Total Min: 0.294456
+Total Mean: 2.457595
+Total Median: 2.592914
+Total Max: 7.015888

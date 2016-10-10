@@ -1,0 +1,26 @@
+Label: Total Cash & ST Investments/Total Revenue % [FY 1997]
+Min Error: 	0.323234
+Mean Error: 	3.708170
+Median Error: 	1.192634
+Max Error: 	14.553415
+Feature importance:
+	Net Income Margin % : 0.099091
+	Gross Margin % : 0.088254
+	Rev YOY % : 0.085283
+	Cash from Ops./Net Income% : 0.084307
+	Total Liabilities/Total Assets % : 0.080872
+	Total Asset Turnover : 0.079427
+	Net Property, Plant & Equipment/ Total Assets % : 0.075748
+	Avg. Cash Conversion Cycle  (Days): 0.072116
+	Return on Equity % : 0.070336
+	R&D Exp./Total Revenue % : 0.069460
+	Goodwill/Total Revenue % : 0.068746
+	Total Debt/Equity % : 0.062368
+	Payout Ratio  (%): 0.038214
+	准入资本市场难度: 0.016904
+	Cash flow risk(0:low; 1: high): 0.008874
+
+Total Min: 0.323234
+Total Mean: 3.708170
+Total Median: 1.192634
+Total Max: 14.553415

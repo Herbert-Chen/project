@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8273895b-6937-4552-b683-6bb0f6b99dcd" name="Default" comment="" />
+    <ignored path="src.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/src$1_2_reduced_x_2_phase_Y3.coverage" NAME="1.2_reduced-x&amp;2-phase_Y3 Coverage Results" MODIFIED="1472133611608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$1_1_ori_x_10_16.coverage" NAME="1.1_ori-x&amp;10-16 Coverage Results" MODIFIED="1472040341550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$debugtest.coverage" NAME="debugtest Coverage Results" MODIFIED="1472107400987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$1_2_reduced_x_2_phase_Y2_Y3.coverage" NAME="1.2_reduced-x&amp;2-phase_Y2&amp;Y3 Coverage Results" MODIFIED="1472109178130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$API.coverage" NAME="API Coverage Results" MODIFIED="1472143463451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$exp.coverage" NAME="exp Coverage Results" MODIFIED="1471938696481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="exp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="78" column="12" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#265#272#0" expanded="false" />
+                <element signature="e#547#977#0" expanded="false" />
+                <element signature="e#980#987#0" expanded="false" />
+                <element signature="e#1192#1549#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="debugtest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/debugtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="API.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="e#323#332#0" expanded="false" />
+                <element signature="e#755#767#0" expanded="false" />
+                <element signature="e#2594#3052#0" expanded="false" />
+                <element signature="e#3054#3061#0" expanded="false" />
+                <element signature="e#3296#4484#0" expanded="false" />
+                <element signature="e#3575#3593#0" expanded="false" />
+                <element signature="e#4487#4494#0" expanded="false" />
+                <element signature="e#4666#4748#0" expanded="false" />
+                <element signature="e#4752#4759#0" expanded="false" />
+                <element signature="e#4945#5070#0" expanded="false" />
+                <element signature="e#7505#9308#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.1_ori-x&amp;10-16.py" />
+        <option value="$PROJECT_DIR$/1.1/debugtest.py" />
+        <option value="$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py" />
+        <option value="$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py" />
+        <option value="$PROJECT_DIR$/plot.py" />
+        <option value="$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py" />
+        <option value="$PROJECT_DIR$/debugtest.py" />
+        <option value="$PROJECT_DIR$/API.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../8.27/EnterpCashPredict/src" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/debugtest.py" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="C:\Anaconda2\python.exe">
+        <option name="mySdkHome" value="C:\Anaconda2\python.exe" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.API">
+    <configuration default="false" name="1.1_ori-x&amp;10-16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.1_ori-x&amp;10-16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1.2_reduced-x&amp;2-phase_Y2&amp;Y3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1.2_reduced-x&amp;2-phase_Y3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="debugtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debugtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="API" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="src" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.1.1_ori-x&amp;10-16" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1.2_reduced-x&amp;2-phase_Y2&amp;Y3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1.2_reduced-x&amp;2-phase_Y3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.debugtest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.API" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.API" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1.2_reduced-x&amp;2-phase_Y3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1.2_reduced-x&amp;2-phase_Y2&amp;Y3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.debugtest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1.1_ori-x&amp;10-16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8273895b-6937-4552-b683-6bb0f6b99dcd" name="Default" comment="" />
+      <created>1471917113168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471917113168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25110132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3409091" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30844155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py</url>
+          <line>315</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/debugtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#323#332#0" expanded="false" />
+            <element signature="e#755#767#0" expanded="false" />
+            <element signature="e#2594#3052#0" expanded="false" />
+            <element signature="e#3054#3061#0" expanded="false" />
+            <element signature="e#3296#4484#0" expanded="false" />
+            <element signature="e#3575#3593#0" expanded="false" />
+            <element signature="e#4487#4494#0" expanded="false" />
+            <element signature="e#4666#4748#0" expanded="false" />
+            <element signature="e#4752#4759#0" expanded="false" />
+            <element signature="e#4945#5070#0" expanded="false" />
+            <element signature="e#7505#9308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#265#272#0" expanded="false" />
+            <element signature="e#547#977#0" expanded="false" />
+            <element signature="e#980#987#0" expanded="false" />
+            <element signature="e#1192#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <element signature="e#434#478#0" expanded="false" />
+            <element signature="e#798#1256#0" expanded="false" />
+            <element signature="e#1259#1266#0" expanded="false" />
+            <element signature="e#1471#1828#0" expanded="false" />
+            <element signature="e#1830#1837#0" expanded="false" />
+            <element signature="e#2622#2629#0" expanded="false" />
+            <element signature="e#2801#2883#0" expanded="false" />
+            <element signature="e#2886#2893#0" expanded="false" />
+            <element signature="e#3079#3204#0" expanded="false" />
+            <element signature="e#9469#9642#0" expanded="false" />
+            <element signature="e#9684#9881#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="124" column="95" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="95" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#405#449#0" expanded="false" />
+            <element signature="e#1230#1237#0" expanded="false" />
+            <element signature="e#1442#1799#0" expanded="false" />
+            <element signature="e#1801#1808#0" expanded="false" />
+            <element signature="e#2036#2591#0" expanded="false" />
+            <element signature="e#2593#2600#0" expanded="false" />
+            <element signature="e#2772#2854#0" expanded="false" />
+            <element signature="e#2857#2864#0" expanded="false" />
+            <element signature="e#3050#3175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_ori-x&amp;10-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="106" column="45" selection-start-line="104" selection-start-column="19" selection-end-line="106" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#316#323#0" expanded="false" />
+            <element signature="e#1051#1058#0" expanded="false" />
+            <element signature="e#1263#1620#0" expanded="false" />
+            <element signature="e#1622#1629#0" expanded="false" />
+            <element signature="e#4819#4820#0" expanded="false" />
+            <element signature="e#5082#5083#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#8223#8520#0" expanded="false" />
+            <element signature="e#8555#8556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="150" column="97" selection-start-line="150" selection-start-column="97" selection-end-line="150" selection-end-column="97" />
+          <folding>
+            <element signature="e#485#529#0" expanded="false" />
+            <element signature="e#849#1307#0" expanded="false" />
+            <element signature="e#1310#1317#0" expanded="false" />
+            <element signature="e#1522#1879#0" expanded="false" />
+            <element signature="e#1609#1845#0" expanded="false" />
+            <element signature="e#1684#1749#0" expanded="false" />
+            <element signature="e#1776#1845#0" expanded="false" />
+            <element signature="e#1881#1888#0" expanded="false" />
+            <element signature="e#2116#2671#0" expanded="false" />
+            <element signature="e#2674#2681#0" expanded="false" />
+            <element signature="e#2908#3329#0" expanded="false" />
+            <element signature="e#3332#3339#0" expanded="false" />
+            <element signature="e#3511#3593#0" expanded="false" />
+            <element signature="e#3596#3603#0" expanded="false" />
+            <element signature="e#3789#3914#0" expanded="false" />
+            <element signature="e#10695#10868#0" expanded="false" />
+            <element signature="e#10910#11107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="78" column="12" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#265#272#0" expanded="false" />
+            <element signature="e#547#977#0" expanded="false" />
+            <element signature="e#980#987#0" expanded="false" />
+            <element signature="e#1192#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <element signature="e#434#478#0" expanded="false" />
+            <element signature="e#798#1256#0" expanded="false" />
+            <element signature="e#1259#1266#0" expanded="false" />
+            <element signature="e#1471#1828#0" expanded="false" />
+            <element signature="e#1830#1837#0" expanded="false" />
+            <element signature="e#2622#2629#0" expanded="false" />
+            <element signature="e#2801#2883#0" expanded="false" />
+            <element signature="e#2886#2893#0" expanded="false" />
+            <element signature="e#3079#3204#0" expanded="false" />
+            <element signature="e#9469#9642#0" expanded="false" />
+            <element signature="e#9684#9881#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="124" column="95" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="95" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#405#449#0" expanded="false" />
+            <element signature="e#1230#1237#0" expanded="false" />
+            <element signature="e#1442#1799#0" expanded="false" />
+            <element signature="e#1801#1808#0" expanded="false" />
+            <element signature="e#2036#2591#0" expanded="false" />
+            <element signature="e#2593#2600#0" expanded="false" />
+            <element signature="e#2772#2854#0" expanded="false" />
+            <element signature="e#2857#2864#0" expanded="false" />
+            <element signature="e#3050#3175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_ori-x&amp;10-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="106" column="45" selection-start-line="104" selection-start-column="19" selection-end-line="106" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#316#323#0" expanded="false" />
+            <element signature="e#1051#1058#0" expanded="false" />
+            <element signature="e#1263#1620#0" expanded="false" />
+            <element signature="e#1622#1629#0" expanded="false" />
+            <element signature="e#4819#4820#0" expanded="false" />
+            <element signature="e#5082#5083#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#8223#8520#0" expanded="false" />
+            <element signature="e#8555#8556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="150" column="97" selection-start-line="150" selection-start-column="97" selection-end-line="150" selection-end-column="97" />
+          <folding>
+            <element signature="e#485#529#0" expanded="false" />
+            <element signature="e#849#1307#0" expanded="false" />
+            <element signature="e#1310#1317#0" expanded="false" />
+            <element signature="e#1522#1879#0" expanded="false" />
+            <element signature="e#1609#1845#0" expanded="false" />
+            <element signature="e#1684#1749#0" expanded="false" />
+            <element signature="e#1776#1845#0" expanded="false" />
+            <element signature="e#1881#1888#0" expanded="false" />
+            <element signature="e#2116#2671#0" expanded="false" />
+            <element signature="e#2674#2681#0" expanded="false" />
+            <element signature="e#2908#3329#0" expanded="false" />
+            <element signature="e#3332#3339#0" expanded="false" />
+            <element signature="e#3511#3593#0" expanded="false" />
+            <element signature="e#3596#3603#0" expanded="false" />
+            <element signature="e#3789#3914#0" expanded="false" />
+            <element signature="e#10695#10868#0" expanded="false" />
+            <element signature="e#10910#11107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debugtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#323#332#0" expanded="false" />
+            <element signature="e#755#767#0" expanded="false" />
+            <element signature="e#2594#3052#0" expanded="false" />
+            <element signature="e#3054#3061#0" expanded="false" />
+            <element signature="e#3296#4484#0" expanded="false" />
+            <element signature="e#3575#3593#0" expanded="false" />
+            <element signature="e#4487#4494#0" expanded="false" />
+            <element signature="e#4666#4748#0" expanded="false" />
+            <element signature="e#4752#4759#0" expanded="false" />
+            <element signature="e#4945#5070#0" expanded="false" />
+            <element signature="e#7505#9308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#265#272#0" expanded="false" />
+            <element signature="e#547#977#0" expanded="false" />
+            <element signature="e#980#987#0" expanded="false" />
+            <element signature="e#1192#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="127" column="91" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="91" />
+          <folding>
+            <element signature="e#434#478#0" expanded="false" />
+            <element signature="e#798#1256#0" expanded="false" />
+            <element signature="e#1259#1266#0" expanded="false" />
+            <element signature="e#1471#1828#0" expanded="false" />
+            <element signature="e#1830#1837#0" expanded="false" />
+            <element signature="e#2622#2629#0" expanded="false" />
+            <element signature="e#2801#2883#0" expanded="false" />
+            <element signature="e#2886#2893#0" expanded="false" />
+            <element signature="e#3079#3204#0" expanded="false" />
+            <element signature="e#9469#9642#0" expanded="false" />
+            <element signature="e#9684#9881#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="124" column="95" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="95" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#405#449#0" expanded="false" />
+            <element signature="e#1230#1237#0" expanded="false" />
+            <element signature="e#1442#1799#0" expanded="false" />
+            <element signature="e#1801#1808#0" expanded="false" />
+            <element signature="e#2036#2591#0" expanded="false" />
+            <element signature="e#2593#2600#0" expanded="false" />
+            <element signature="e#2772#2854#0" expanded="false" />
+            <element signature="e#2857#2864#0" expanded="false" />
+            <element signature="e#3050#3175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_ori-x&amp;10-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="106" column="45" selection-start-line="104" selection-start-column="19" selection-end-line="106" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#316#323#0" expanded="false" />
+            <element signature="e#1051#1058#0" expanded="false" />
+            <element signature="e#1263#1620#0" expanded="false" />
+            <element signature="e#1622#1629#0" expanded="false" />
+            <element signature="e#4819#4820#0" expanded="false" />
+            <element signature="e#5082#5083#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#8223#8520#0" expanded="false" />
+            <element signature="e#8555#8556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="150" column="97" selection-start-line="150" selection-start-column="97" selection-end-line="150" selection-end-column="97" />
+          <folding>
+            <element signature="e#485#529#0" expanded="false" />
+            <element signature="e#849#1307#0" expanded="false" />
+            <element signature="e#1310#1317#0" expanded="false" />
+            <element signature="e#1522#1879#0" expanded="false" />
+            <element signature="e#1609#1845#0" expanded="false" />
+            <element signature="e#1684#1749#0" expanded="false" />
+            <element signature="e#1776#1845#0" expanded="false" />
+            <element signature="e#1881#1888#0" expanded="false" />
+            <element signature="e#2116#2671#0" expanded="false" />
+            <element signature="e#2674#2681#0" expanded="false" />
+            <element signature="e#2908#3329#0" expanded="false" />
+            <element signature="e#3332#3339#0" expanded="false" />
+            <element signature="e#3511#3593#0" expanded="false" />
+            <element signature="e#3596#3603#0" expanded="false" />
+            <element signature="e#3789#3914#0" expanded="false" />
+            <element signature="e#10695#10868#0" expanded="false" />
+            <element signature="e#10910#11107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="137" column="24" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#265#272#0" expanded="false" />
+            <element signature="e#547#977#0" expanded="false" />
+            <element signature="e#980#987#0" expanded="false" />
+            <element signature="e#1192#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#434#478#0" expanded="false" />
+            <element signature="e#798#1256#0" expanded="false" />
+            <element signature="e#1259#1266#0" expanded="false" />
+            <element signature="e#1471#1828#0" expanded="false" />
+            <element signature="e#1830#1837#0" expanded="false" />
+            <element signature="e#2622#2629#0" expanded="false" />
+            <element signature="e#2801#2883#0" expanded="false" />
+            <element signature="e#2886#2893#0" expanded="false" />
+            <element signature="e#3079#3204#0" expanded="false" />
+            <element signature="e#9469#9642#0" expanded="false" />
+            <element signature="e#9684#9881#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4731">
+          <caret line="317" column="20" selection-start-line="317" selection-start-column="20" selection-end-line="317" selection-end-column="20" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#405#449#0" expanded="false" />
+            <element signature="e#1230#1237#0" expanded="false" />
+            <element signature="e#1442#1799#0" expanded="false" />
+            <element signature="e#1801#1808#0" expanded="false" />
+            <element signature="e#2036#2591#0" expanded="false" />
+            <element signature="e#2593#2600#0" expanded="false" />
+            <element signature="e#2772#2854#0" expanded="false" />
+            <element signature="e#2857#2864#0" expanded="false" />
+            <element signature="e#3050#3175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_ori-x&amp;10-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="106" column="45" selection-start-line="104" selection-start-column="19" selection-end-line="106" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#316#323#0" expanded="false" />
+            <element signature="e#1051#1058#0" expanded="false" />
+            <element signature="e#1263#1620#0" expanded="false" />
+            <element signature="e#1622#1629#0" expanded="false" />
+            <element signature="e#4819#4820#0" expanded="false" />
+            <element signature="e#5082#5083#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#8223#8520#0" expanded="false" />
+            <element signature="e#8555#8556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="150" column="97" selection-start-line="150" selection-start-column="97" selection-end-line="150" selection-end-column="97" />
+          <folding>
+            <element signature="e#485#529#0" expanded="false" />
+            <element signature="e#849#1307#0" expanded="false" />
+            <element signature="e#1310#1317#0" expanded="false" />
+            <element signature="e#1522#1879#0" expanded="false" />
+            <element signature="e#1609#1845#0" expanded="false" />
+            <element signature="e#1684#1749#0" expanded="false" />
+            <element signature="e#1776#1845#0" expanded="false" />
+            <element signature="e#1881#1888#0" expanded="false" />
+            <element signature="e#2116#2671#0" expanded="false" />
+            <element signature="e#2674#2681#0" expanded="false" />
+            <element signature="e#2908#3329#0" expanded="false" />
+            <element signature="e#3332#3339#0" expanded="false" />
+            <element signature="e#3511#3593#0" expanded="false" />
+            <element signature="e#3596#3603#0" expanded="false" />
+            <element signature="e#3789#3914#0" expanded="false" />
+            <element signature="e#10695#10868#0" expanded="false" />
+            <element signature="e#10910#11107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debugtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="22" selection-start-line="15" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#323#332#0" expanded="false" />
+            <element signature="e#755#767#0" expanded="false" />
+            <element signature="e#2594#3052#0" expanded="false" />
+            <element signature="e#3054#3061#0" expanded="false" />
+            <element signature="e#3296#4484#0" expanded="false" />
+            <element signature="e#3575#3593#0" expanded="false" />
+            <element signature="e#4487#4494#0" expanded="false" />
+            <element signature="e#4666#4748#0" expanded="false" />
+            <element signature="e#4752#4759#0" expanded="false" />
+            <element signature="e#4945#5070#0" expanded="false" />
+            <element signature="e#7505#9308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#265#272#0" expanded="false" />
+            <element signature="e#547#977#0" expanded="false" />
+            <element signature="e#980#987#0" expanded="false" />
+            <element signature="e#1192#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda2/Lib/site-packages/sklearn/cross_validation.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/sklearn/ensemble/forest.py" />
+    <entry file="file://$PROJECT_DIR$/1.1/cv_gbrt_469_.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_775.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1/cv_gbrt_689_.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="178" column="25" selection-start-line="178" selection-start-column="25" selection-end-line="178" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1/debugtest.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/numpy/lib/function_base.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/pandas/core/generic.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/IPython/core/interactiveshell.py" />
+    <entry file="file://$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="150" column="97" selection-start-line="150" selection-start-column="97" selection-end-line="150" selection-end-column="97" />
+          <folding>
+            <element signature="e#485#529#0" expanded="false" />
+            <element signature="e#849#1307#0" expanded="false" />
+            <element signature="e#1310#1317#0" expanded="false" />
+            <element signature="e#1522#1879#0" expanded="false" />
+            <element signature="e#1609#1845#0" expanded="false" />
+            <element signature="e#1684#1749#0" expanded="false" />
+            <element signature="e#1776#1845#0" expanded="false" />
+            <element signature="e#1881#1888#0" expanded="false" />
+            <element signature="e#2116#2671#0" expanded="false" />
+            <element signature="e#2674#2681#0" expanded="false" />
+            <element signature="e#2908#3329#0" expanded="false" />
+            <element signature="e#3332#3339#0" expanded="false" />
+            <element signature="e#3511#3593#0" expanded="false" />
+            <element signature="e#3596#3603#0" expanded="false" />
+            <element signature="e#3789#3914#0" expanded="false" />
+            <element signature="e#10695#10868#0" expanded="false" />
+            <element signature="e#10910#11107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../numpy-1.11.1/setup.py" />
+    <entry file="file://$PROJECT_DIR$/1.1_ori-x&amp;10-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#316#323#0" expanded="false" />
+            <element signature="e#1051#1058#0" expanded="false" />
+            <element signature="e#1263#1620#0" expanded="false" />
+            <element signature="e#1622#1629#0" expanded="false" />
+            <element signature="e#4819#4820#0" expanded="false" />
+            <element signature="e#5082#5083#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#8223#8520#0" expanded="false" />
+            <element signature="e#8555#8556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="124" column="95" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="95" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+            <element signature="e#405#449#0" expanded="false" />
+            <element signature="e#1230#1237#0" expanded="false" />
+            <element signature="e#1442#1799#0" expanded="false" />
+            <element signature="e#1801#1808#0" expanded="false" />
+            <element signature="e#2036#2591#0" expanded="false" />
+            <element signature="e#2593#2600#0" expanded="false" />
+            <element signature="e#2772#2854#0" expanded="false" />
+            <element signature="e#2857#2864#0" expanded="false" />
+            <element signature="e#3050#3175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <element signature="e#434#478#0" expanded="false" />
+            <element signature="e#798#1256#0" expanded="false" />
+            <element signature="e#1259#1266#0" expanded="false" />
+            <element signature="e#1471#1828#0" expanded="false" />
+            <element signature="e#1830#1837#0" expanded="false" />
+            <element signature="e#2622#2629#0" expanded="false" />
+            <element signature="e#2801#2883#0" expanded="false" />
+            <element signature="e#2886#2893#0" expanded="false" />
+            <element signature="e#3079#3204#0" expanded="false" />
+            <element signature="e#9469#9642#0" expanded="false" />
+            <element signature="e#9684#9881#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="78" column="12" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#265#272#0" expanded="false" />
+            <element signature="e#547#977#0" expanded="false" />
+            <element signature="e#980#987#0" expanded="false" />
+            <element signature="e#1192#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#323#332#0" expanded="false" />
+            <element signature="e#755#767#0" expanded="false" />
+            <element signature="e#2594#3052#0" expanded="false" />
+            <element signature="e#3054#3061#0" expanded="false" />
+            <element signature="e#3296#4484#0" expanded="false" />
+            <element signature="e#3575#3593#0" expanded="false" />
+            <element signature="e#4487#4494#0" expanded="false" />
+            <element signature="e#4666#4748#0" expanded="false" />
+            <element signature="e#4752#4759#0" expanded="false" />
+            <element signature="e#4945#5070#0" expanded="false" />
+            <element signature="e#7505#9308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debugtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

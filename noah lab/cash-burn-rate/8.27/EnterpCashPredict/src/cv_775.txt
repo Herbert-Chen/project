@@ -1,0 +1,480 @@
+#现金收入比Y8模型
+按照规定选择变量，分析了3个行业和总行业在两个时间段的情况，分别从交叉验证，预测误差，预测与真实情况的对比来展现结果
+
+
+
+##交叉验证
+###ICT
+#####98-15
+![](cv_Y8_label_[]_gbrt_from_1998_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1998] ($USDmm, Current rate)
+	Average Min Error: 	1.187194
+	Average Mean Error: 	657.589759
+	Average Median Error: 	257.569008
+	Average Error: 	12778.879964
+
+#####99-01
+![](cv_Y8_label_[]_gbrt_from_1999_to_2002.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1999] ($USDmm, Current rate)
+	Average Min Error: 	0.342377
+	Average Mean Error: 	421.864536
+	Average Median Error: 	228.589351
+	Average Error: 	2666.674201
+
+#####07-09
+![](cv_Y8_label_[]_gbrt_from_2007_to_2010.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2007] ($USDmm, Current rate)
+	Average Min Error: 	8.736283
+	Average Mean Error: 	807.187270
+	Average Median Error: 	465.167618
+	Average Error: 	5004.121065
+
+#####10-15
+![](cv_Y8_label_[]_gbrt_from_2010_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Average Min Error: 	15.642029
+	Average Mean Error: 	972.173367
+	Average Median Error: 	417.360864
+	Average Error: 	8790.927116
+
+
+###ICT-Semiconductors and Semiconductor Equipment
+#####98-15
+![](cv_Y8_label_2_gbrt_from_1998_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1998] ($USDmm, Current rate)
+	Average Min Error: 	8.137595
+	Average Mean Error: 	438.377362
+	Average Median Error: 	273.947920
+	Average Error: 	3146.377359
+
+#####99-01
+![](cv_Y8_label_2_gbrt_from_1999_to_2002.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1999] ($USDmm, Current rate)
+	Average Min Error: 	38.574875
+	Average Mean Error: 	352.534285
+	Average Median Error: 	224.488122
+	Average Error: 	1043.394205
+
+#####07-09
+![](cv_Y8_label_2_gbrt_from_2007_to_2010.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2007] ($USDmm, Current rate)
+	Average Min Error: 	84.592312
+	Average Mean Error: 	873.168443
+	Average Median Error: 	496.732092
+	Average Error: 	3644.804613
+
+#####10-15
+![](cv_Y8_label_2_gbrt_from_2010_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Average Min Error: 	50.822883
+	Average Mean Error: 	1094.931849
+	Average Median Error: 	393.800856
+	Average Error: 	6552.632303
+
+
+
+##预测误差
+###ICT
+#####98-15
+![](test_Y8_label_[]_gbrt_from_1998_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1998] ($USDmm, Current rate)
+	Min Error: 	0.047723
+	Mean Error: 	424.644413
+	Median Error: 	465.635374
+	Max Error: 	1762.567422
+	Feature importance:
+		Total Assets YOY %  : 0.103613
+		Rev YOY % : 0.091186
+		∆Gross Margin % : 0.090713
+		Capex/Rev %: 0.090665
+		∆EBITDA Margin % : 0.081709
+		Cash Acquisitions/Total Revenue % : 0.075577
+		R&D Exp./Total Revenue % : 0.074981
+		Cash flow risk: 0.074497
+		Payout Ratio  (%): 0.066549
+		Inflation (CPI) % in 1998: 0.047602
+		准入资本市场难度: 0.033580
+		USD LIBOR 3M % 1998: 0.029597
+		USD LIBOR 3M YOY % 1998: 0.028398
+		EUR LIBOR 3M YOY % 1998: 0.027201
+		∆EUR LIBOR 3M % 1998: 0.025953
+		∆USD LIBOR 3M % 1998: 0.023093
+		EUR LIBOR 3M %1998: 0.022683
+		Industry Dummy: 0.012403
+		是否支付股利或股票回购1998: 0.000000
+
+	Total Min: 0.047723
+	Total Mean: 424.644413
+	Total Median: 465.635374
+	Total Max: 1762.567422
+	prediction and real value:
+	1999:	8.644860    -1.000000
+	2000:	-0.952277    -1.000000
+	2001:	12.971259    -1.000000
+	2002:	18.734983    -1.000000
+	2003:	21.288899    -1.000000
+	2004:	39.333513    -1.000000
+	2005:	31.403419    -1.000000
+	2006:	-5.517848    -1.000000
+	2007:	-309.787501    173.077000
+	2008:	8.037795    836.160000
+	2009:	1894.350618    2611.803230
+	2010:	1530.347192    988.539760
+	2011:	1118.496778    2881.064200
+	2012:	373.719895    1039.423820
+	2013:	1870.911004    1405.275630
+	2014:	2241.299850    1554.455010
+	2015:	2712.667176    3637.681380
+
+#####99-01
+![](test_Y8_label_[]_gbrt_from_1999_to_2002.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1999] ($USDmm, Current rate)
+	Min Error: 	12.333001
+	Mean Error: 	16.552192
+	Median Error: 	16.363379
+	Max Error: 	20.960196
+	Feature importance:
+		Cash flow risk: 0.125459
+		Rev YOY % : 0.095218
+		Inflation (CPI) % in 1999: 0.093588
+		Capex/Rev %: 0.089195
+		Total Assets YOY % : 0.087325
+		∆Gross Margin % : 0.081921
+		∆EBITDA Margin % : 0.073831
+		R&D Exp./Total Revenue % : 0.066812
+		Payout Ratio  (%): 0.066196
+		Cash Acquisitions/Total Revenue % : 0.055189
+		准入资本市场难度: 0.048876
+		Industry Dummy: 0.029805
+		∆EUR LIBOR 3M % 1999: 0.020044
+		EUR LIBOR 3M %1999: 0.018614
+		USD LIBOR 3M % 1999: 0.012372
+		USD LIBOR 3M YOY % 1999: 0.012229
+		EUR LIBOR 3M YOY % 1999: 0.012192
+		∆USD LIBOR 3M % 1999: 0.011134
+		是否支付股利或股票回购1999: 0.000000
+
+	Total Min: 12.333001
+	Total Mean: 16.552192
+	Total Median: 16.363379
+	Total Max: 20.960196
+	prediction and real value:
+	2000:	11.333001    -1.000000
+	2001:	15.363379    -1.000000
+	2002:	19.960196    -1.000000
+
+#####07-09
+![](test_Y8_label_[]_gbrt_from_2007_to_2010.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2007] ($USDmm, Current rate)
+	Min Error: 	337.505756
+	Mean Error: 	922.248985
+	Median Error: 	536.145430
+	Max Error: 	1893.095770
+	Feature importance:
+		Total Assets YOY %  : 0.107312
+		∆EBITDA Margin % : 0.102121
+		∆Gross Margin % : 0.102069
+		Capex/Rev %: 0.101888
+		Rev YOY % : 0.093961
+		Cash Acquisitions/Total Revenue % : 0.086585
+		Cash flow risk: 0.084988
+		R&D Exp./Total Revenue % : 0.079462
+		Payout Ratio  (%): 0.073432
+		Inflation (CPI) % in 2007: 0.048618
+		准入资本市场难度: 0.036886
+		Industry Dummy: 0.019773
+		USD LIBOR 3M % 2007: 0.011078
+		EUR LIBOR 3M YOY % 2007: 0.010807
+		USD LIBOR 3M YOY % 2007: 0.010783
+		EUR LIBOR 3M % 2007: 0.010289
+		∆EUR LIBOR 3M % 2007: 0.010028
+		∆USD LIBOR 3M % 2007: 0.009920
+		是否支付股利或股票回购2007: 0.000000
+
+	Total Min: 337.505756
+	Total Mean: 922.248985
+	Total Median: 536.145430
+	Total Max: 1893.095770
+	prediction and real value:
+	2008:	300.014570    836.160000
+	2009:	718.707460    2611.803230
+	2010:	651.034004    988.539760
+
+#####10-15
+![](test_Y8_label_[]_gbrt_from_2010_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Min Error: 	696.758303
+	Mean Error: 	1120.551823
+	Median Error: 	1013.578176
+	Max Error: 	1883.692746
+	Feature importance:
+		Total Assets YOY %  : 0.109848
+		Capex/Rev %: 0.100312
+		∆Gross Margin % : 0.095603
+		Rev YOY % : 0.092714
+		Cash Acquisitions/Total Revenue % : 0.091725
+		∆EBITDA Margin % : 0.089797
+		Cash flow risk: 0.080887
+		R&D Exp./Total Revenue % : 0.078070
+		Payout Ratio  (%): 0.070665
+		Inflation (CPI) % in 2010: 0.046438
+		准入资本市场难度: 0.034989
+		EUR LIBOR 3M YOY % 2010: 0.016808
+		EUR LIBOR 3M % 2010: 0.016121
+		USD LIBOR 3M % 2010: 0.015575
+		Industry Dummy: 0.015504
+		∆USD LIBOR 3M % 2010: 0.015193
+		USD LIBOR 3M YOY % 2010: 0.014942
+		∆EUR LIBOR 3M % 2010: 0.014810
+		是否支付股利或股票回购2010: 0.000000
+
+	Total Min: 696.758303
+	Total Mean: 1120.551823
+	Total Median: 1013.578176
+	Total Max: 1883.692746
+	prediction and real value:
+	2011:	997.371454    2881.064200
+	2012:	1965.582962    1039.423820
+	2013:	2418.853806    1405.275630
+	2014:	2637.025758    1554.455010
+	2015:	2940.923077    3637.681380
+
+
+###ICT-Semiconductors and Semiconductor Equipment
+#####98-15
+![](test_Y8_label_2_gbrt_from_1998_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1998] ($USDmm, Current rate)
+	Min Error: 	13.684386
+	Mean Error: 	557.138038
+	Median Error: 	199.210709
+	Max Error: 	2177.208686
+	Feature importance:
+		Capex/Rev %: 0.095743
+		∆Gross Margin % : 0.094634
+		Total Assets YOY %  : 0.090329
+		R&D Exp./Total Revenue % : 0.087136
+		∆EBITDA Margin % : 0.083426
+		Rev YOY % : 0.081943
+		Cash flow risk: 0.071057
+		Payout Ratio  (%): 0.063532
+		Inflation (CPI) % in 1998: 0.062963
+		Cash Acquisitions/Total Revenue % : 0.057657
+		USD LIBOR 3M % 1998: 0.034998
+		∆USD LIBOR 3M % 1998: 0.033432
+		USD LIBOR 3M YOY % 1998: 0.030517
+		EUR LIBOR 3M %1998: 0.029606
+		准入资本市场难度: 0.029078
+		EUR LIBOR 3M YOY % 1998: 0.028198
+		∆EUR LIBOR 3M % 1998: 0.025750
+		是否支付股利或股票回购1998: 0.000000
+		Industry Dummy: 0.000000
+
+	Total Min: 13.684386
+	Total Mean: 557.138038
+	Total Median: 199.210709
+	Total Max: 2177.208686
+	prediction and real value:
+	1999:	-200.210709    -1.000000
+	2000:	-100.113581    -1.000000
+	2001:	-37.807457    -1.000000
+	2002:	-89.433178    -1.000000
+	2003:	-63.662778    -1.000000
+	2004:	-33.344851    -1.000000
+	2005:	-14.684386    -1.000000
+	2006:	-448.681355    -1.000000
+	2007:	-319.441660    173.077000
+	2008:	744.524571    836.160000
+	2009:	709.056795    2611.803230
+	2010:	1039.070480    988.539760
+	2011:	1395.749685    2881.064200
+	2012:	470.423200    1039.423820
+	2013:	464.413886    1405.275630
+	2014:	772.863462    1554.455010
+	2015:	1460.472694    3637.681380
+
+#####99-01
+![](test_Y8_label_2_gbrt_from_1999_to_2002.png)
+
+	Label: ∆Total Cash & ST Investments [FY 1999] ($USDmm, Current rate)
+	Min Error: 	6.177701
+	Mean Error: 	7.025005
+	Median Error: 	7.429115
+	Max Error: 	7.468200
+	Feature importance:
+		Total Assets YOY % : 0.037149
+		∆Gross Margin % : 0.033374
+		∆EBITDA Margin % : 0.032928
+		Cash flow risk: 0.032452
+		Rev YOY % : 0.030073
+		Capex/Rev %: 0.028794
+		R&D Exp./Total Revenue % : 0.028042
+		Cash Acquisitions/Total Revenue % : 0.027511
+		Inflation (CPI) % in 1999: 0.022470
+		Payout Ratio  (%): 0.016256
+		准入资本市场难度: 0.011925
+		USD LIBOR 3M % 1999: 0.005300
+		EUR LIBOR 3M %1999: 0.005211
+		∆EUR LIBOR 3M % 1999: 0.004423
+		EUR LIBOR 3M YOY % 1999: 0.004067
+		∆USD LIBOR 3M % 1999: 0.003913
+		USD LIBOR 3M YOY % 1999: 0.003111
+		是否支付股利或股票回购1999: 0.000000
+		Industry Dummy: 0.000000
+
+	Total Min: 6.177701
+	Total Mean: 7.025005
+	Total Median: 7.429115
+	Total Max: 7.468200
+	prediction and real value:
+	2000:	5.177701    -1.000000
+	2001:	6.429115    -1.000000
+	2002:	6.468200    -1.000000
+
+#####07-09
+![](test_Y8_label_2_gbrt_from_2007_to_2010.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2007] ($USDmm, Current rate)
+	Min Error: 	398.611350
+	Mean Error: 	1238.866249
+	Median Error: 	825.420324
+	Max Error: 	2492.567071
+	Feature importance:
+		Total Assets YOY %  : 0.037658
+		Rev YOY % : 0.030551
+		Capex/Rev %: 0.027502
+		R&D Exp./Total Revenue % : 0.026571
+		∆Gross Margin % : 0.026255
+		Cash flow risk: 0.022733
+		∆EBITDA Margin % : 0.022382
+		Payout Ratio  (%): 0.021953
+		Cash Acquisitions/Total Revenue % : 0.021757
+		Inflation (CPI) % in 2007: 0.013378
+		准入资本市场难度: 0.009587
+		USD LIBOR 3M YOY % 2007: 0.003585
+		USD LIBOR 3M % 2007: 0.003505
+		EUR LIBOR 3M YOY % 2007: 0.003412
+		EUR LIBOR 3M % 2007: 0.003340
+		∆EUR LIBOR 3M % 2007: 0.003168
+		∆USD LIBOR 3M % 2007: 0.002662
+		是否支付股利或股票回购2007: 0.000000
+		Industry Dummy: 0.000000
+
+	Total Min: 398.611350
+	Total Mean: 1238.866249
+	Total Median: 825.420324
+	Total Max: 2492.567071
+	prediction and real value:
+	2008:	1234.771350    836.160000
+	2009:	119.236159    2611.803230
+	2010:	163.119436    988.539760
+
+#####10-15
+![](test_Y8_label_2_gbrt_from_2010_to_2015.png)
+
+	Label: ∆Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Min Error: 	794.533127
+	Mean Error: 	1450.411329
+	Median Error: 	1224.321536
+	Max Error: 	2514.657884
+	Feature importance:
+		Total Assets YOY %  : 0.049393
+		Capex/Rev %: 0.043219
+		∆Gross Margin % : 0.041915
+		Payout Ratio  (%): 0.041083
+		Rev YOY % : 0.037832
+		∆EBITDA Margin % : 0.036873
+		R&D Exp./Total Revenue % : 0.036870
+		Cash flow risk: 0.032992
+		Cash Acquisitions/Total Revenue % : 0.026795
+		Inflation (CPI) % in 2010: 0.017498
+		准入资本市场难度: 0.013980
+		EUR LIBOR 3M % 2010: 0.008695
+		USD LIBOR 3M % 2010: 0.008217
+		∆EUR LIBOR 3M % 2010: 0.007756
+		USD LIBOR 3M YOY % 2010: 0.007370
+		EUR LIBOR 3M YOY % 2010: 0.006899
+		∆USD LIBOR 3M % 2010: 0.005614
+		是否支付股利或股票回购2010: 0.000000
+		Industry Dummy: 0.000000
+
+	Total Min: 794.533127
+	Total Mean: 1450.411329
+	Total Median: 1224.321536
+	Total Max: 2514.657884
+	prediction and real value:
+	2011:	1227.217733    2881.064200
+	2012:	-184.897716    1039.423820
+	2013:	610.742503    1405.275630
+	2014:	489.757378    1554.455010
+	2015:	1123.023496    3637.681380
+
+
+
+##预测与真实值对比
+###ICT
+#####98-15
+![](contrast_Y8_label_[]_gbrt_from_1998_to_2015.png)
+#####99-01
+![](contrast_Y8_label_[]_gbrt_from_1999_to_2002.png)
+#####07-09
+![](contrast_Y8_label_[]_gbrt_from_2007_to_2010.png)
+#####10-15
+![](contrast_Y8_label_[]_gbrt_from_2010_to_2015.png)
+
+###ICT-Semiconductors and Semiconductor Equipment
+#####98-15
+![](contrast_Y8_label_2_gbrt_from_1998_to_2015.png)
+#####99-01
+![](contrast_Y8_label_2_gbrt_from_1999_to_2002.png)
+#####07-09
+![](contrast_Y8_label_2_gbrt_from_2007_to_2010.png)
+#####10-15
+![](contrast_Y8_label_2_gbrt_from_2010_to_2015.png)
+
+
+##预测16-20
+
+	year:1998-2015
+		industry_label:[]
+		[ 155.39545381  439.88416983  265.64266222  186.55749636   46.00138895]
+
+		industry_label:0
+		[  911.25646892  1042.5764704   -134.6872162    745.94962663   978.13044711]
+
+	year:2010-2015
+		industry_label:[]
+		[ 513.46354044  511.60045319  -98.96656594 -332.62483793  122.43200439]
+
+		industry_label:0
+		[ 1287.0037056    613.05927537   785.707343     449.52560089   507.88544454]
+
+	year:1999-2002
+		industry_label:[]
+		[ 1152.33013841   655.75825812   341.65204876   482.88733948   148.33834093]
+
+		industry_label:0
+		[ -87.75765762 -126.14455312 -133.88008048 -132.0850577  -142.61332155]
+
+	year:2007-2010
+		industry_label:[]
+		[ 347.29294605  316.2011361   299.20758875  244.94184432  223.82906131]
+
+		industry_label:0
+		[  690.35849874   901.92385163  1100.23297141  1095.46028435  1633.78177981]
+
+
+
+

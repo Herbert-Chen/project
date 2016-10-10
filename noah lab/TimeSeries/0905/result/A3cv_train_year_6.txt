@@ -1,0 +1,1032 @@
+company name: 1
+	Average Min Error: 	1.692999
+	Average Mean Error: 	3.425603
+	Average Median Error: 	3.425603
+	Average Max Error: 	5.158207
+
+company name: 2
+	Average Min Error: 	0.014649
+	Average Mean Error: 	0.050102
+	Average Median Error: 	0.050102
+	Average Max Error: 	0.085556
+
+company name: 3
+	Average Min Error: 	0.072642
+	Average Mean Error: 	0.142988
+	Average Median Error: 	0.142988
+	Average Max Error: 	0.213335
+
+company name: 4
+	Average Min Error: 	0.014714
+	Average Mean Error: 	0.043748
+	Average Median Error: 	0.043748
+	Average Max Error: 	0.072781
+
+company name: 5
+	Average Min Error: 	0.098220
+	Average Mean Error: 	0.285134
+	Average Median Error: 	0.285134
+	Average Max Error: 	0.472049
+
+company name: 6
+	Average Min Error: 	0.004272
+	Average Mean Error: 	0.009171
+	Average Median Error: 	0.009171
+	Average Max Error: 	0.014070
+
+company name: 7
+	Average Min Error: 	0.099921
+	Average Mean Error: 	0.280520
+	Average Median Error: 	0.280520
+	Average Max Error: 	0.461119
+
+company name: 8
+	Average Min Error: 	0.000077
+	Average Mean Error: 	0.000101
+	Average Median Error: 	0.000101
+	Average Max Error: 	0.000125
+
+company name: 9
+	Average Min Error: 	0.538054
+	Average Mean Error: 	1.534685
+	Average Median Error: 	1.534685
+	Average Max Error: 	2.531317
+
+company name: 10
+	Average Min Error: 	0.005188
+	Average Mean Error: 	0.009114
+	Average Median Error: 	0.009114
+	Average Max Error: 	0.013040
+
+company name: 11
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 12
+	Average Min Error: 	0.705191
+	Average Mean Error: 	1.555573
+	Average Median Error: 	1.555573
+	Average Max Error: 	2.405956
+
+company name: 13
+	Average Min Error: 	0.003594
+	Average Mean Error: 	0.013194
+	Average Median Error: 	0.013194
+	Average Max Error: 	0.022794
+
+company name: 14
+	Average Min Error: 	0.013017
+	Average Mean Error: 	0.022616
+	Average Median Error: 	0.022616
+	Average Max Error: 	0.032216
+
+company name: 15
+	Average Min Error: 	0.000018
+	Average Mean Error: 	0.000047
+	Average Median Error: 	0.000047
+	Average Max Error: 	0.000076
+
+company name: 16
+	Average Min Error: 	0.003238
+	Average Mean Error: 	0.018100
+	Average Median Error: 	0.018100
+	Average Max Error: 	0.032963
+
+company name: 17
+	Average Min Error: 	0.022155
+	Average Mean Error: 	0.034201
+	Average Median Error: 	0.034201
+	Average Max Error: 	0.046247
+
+company name: 18
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 19
+	Average Min Error: 	0.000764
+	Average Mean Error: 	0.002046
+	Average Median Error: 	0.002046
+	Average Max Error: 	0.003328
+
+company name: 20
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000056
+	Average Median Error: 	0.000056
+	Average Max Error: 	0.000112
+
+company name: 21
+	Average Min Error: 	0.017016
+	Average Mean Error: 	0.034523
+	Average Median Error: 	0.034523
+	Average Max Error: 	0.052031
+
+company name: 22
+	Average Min Error: 	0.000956
+	Average Mean Error: 	0.002079
+	Average Median Error: 	0.002079
+	Average Max Error: 	0.003202
+
+company name: 23
+	Average Min Error: 	0.000030
+	Average Mean Error: 	0.000242
+	Average Median Error: 	0.000242
+	Average Max Error: 	0.000455
+
+company name: 24
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 25
+	Average Min Error: 	0.006383
+	Average Mean Error: 	0.014736
+	Average Median Error: 	0.014736
+	Average Max Error: 	0.023089
+
+company name: 26
+	Average Min Error: 	0.149229
+	Average Mean Error: 	0.753182
+	Average Median Error: 	0.753182
+	Average Max Error: 	1.357135
+
+company name: 27
+	Average Min Error: 	0.000448
+	Average Mean Error: 	0.000725
+	Average Median Error: 	0.000725
+	Average Max Error: 	0.001002
+
+company name: 28
+	Average Min Error: 	0.288462
+	Average Mean Error: 	1.142598
+	Average Median Error: 	1.142598
+	Average Max Error: 	1.996733
+
+company name: 29
+	Average Min Error: 	0.025987
+	Average Mean Error: 	0.050462
+	Average Median Error: 	0.050462
+	Average Max Error: 	0.074937
+
+company name: 30
+	Average Min Error: 	0.184758
+	Average Mean Error: 	0.271819
+	Average Median Error: 	0.271819
+	Average Max Error: 	0.358881
+
+company name: 31
+	Average Min Error: 	0.001061
+	Average Mean Error: 	0.001929
+	Average Median Error: 	0.001929
+	Average Max Error: 	0.002797
+
+company name: 32
+	Average Min Error: 	0.245751
+	Average Mean Error: 	0.737044
+	Average Median Error: 	0.737044
+	Average Max Error: 	1.228338
+
+company name: 33
+	Average Min Error: 	0.036740
+	Average Mean Error: 	0.072835
+	Average Median Error: 	0.072835
+	Average Max Error: 	0.108930
+
+company name: 34
+	Average Min Error: 	0.386813
+	Average Mean Error: 	0.660245
+	Average Median Error: 	0.660245
+	Average Max Error: 	0.933677
+
+company name: 35
+	Average Min Error: 	0.139342
+	Average Mean Error: 	0.207434
+	Average Median Error: 	0.207434
+	Average Max Error: 	0.275526
+
+company name: 36
+	Average Min Error: 	0.456115
+	Average Mean Error: 	0.800039
+	Average Median Error: 	0.800039
+	Average Max Error: 	1.143962
+
+company name: 37
+	Average Min Error: 	0.039141
+	Average Mean Error: 	0.063989
+	Average Median Error: 	0.063989
+	Average Max Error: 	0.088837
+
+company name: 38
+	Average Min Error: 	0.005931
+	Average Mean Error: 	0.010342
+	Average Median Error: 	0.010342
+	Average Max Error: 	0.014752
+
+company name: 39
+	Average Min Error: 	0.038425
+	Average Mean Error: 	0.062344
+	Average Median Error: 	0.062344
+	Average Max Error: 	0.086263
+
+company name: 40
+	Average Min Error: 	0.105978
+	Average Mean Error: 	0.202118
+	Average Median Error: 	0.202118
+	Average Max Error: 	0.298257
+
+company name: 41
+	Average Min Error: 	0.011260
+	Average Mean Error: 	0.031836
+	Average Median Error: 	0.031836
+	Average Max Error: 	0.052413
+
+company name: 42
+	Average Min Error: 	0.000031
+	Average Mean Error: 	0.000038
+	Average Median Error: 	0.000038
+	Average Max Error: 	0.000046
+
+company name: 43
+	Average Min Error: 	0.006822
+	Average Mean Error: 	0.017763
+	Average Median Error: 	0.017763
+	Average Max Error: 	0.028704
+
+company name: 44
+	Average Min Error: 	0.000342
+	Average Mean Error: 	0.005976
+	Average Median Error: 	0.005976
+	Average Max Error: 	0.011610
+
+company name: 45
+	Average Min Error: 	0.059134
+	Average Mean Error: 	0.092549
+	Average Median Error: 	0.092549
+	Average Max Error: 	0.125963
+
+company name: 46
+	Average Min Error: 	4.694437
+	Average Mean Error: 	8.786683
+	Average Median Error: 	8.786683
+	Average Max Error: 	12.878929
+
+company name: 47
+	Average Min Error: 	0.000590
+	Average Mean Error: 	0.002539
+	Average Median Error: 	0.002539
+	Average Max Error: 	0.004487
+
+company name: 48
+	Average Min Error: 	0.002417
+	Average Mean Error: 	0.005557
+	Average Median Error: 	0.005557
+	Average Max Error: 	0.008698
+
+company name: 49
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 50
+	Average Min Error: 	0.043754
+	Average Mean Error: 	0.066498
+	Average Median Error: 	0.066498
+	Average Max Error: 	0.089242
+
+company name: 51
+	Average Min Error: 	0.001861
+	Average Mean Error: 	0.004608
+	Average Median Error: 	0.004608
+	Average Max Error: 	0.007355
+
+company name: 52
+	Average Min Error: 	0.001595
+	Average Mean Error: 	0.004243
+	Average Median Error: 	0.004243
+	Average Max Error: 	0.006891
+
+company name: 53
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.016512
+	Average Median Error: 	0.016512
+	Average Max Error: 	0.033025
+
+company name: 54
+	Average Min Error: 	0.141338
+	Average Mean Error: 	0.602256
+	Average Median Error: 	0.602256
+	Average Max Error: 	1.063173
+
+company name: 55
+	Average Min Error: 	0.000157
+	Average Mean Error: 	0.000310
+	Average Median Error: 	0.000310
+	Average Max Error: 	0.000462
+
+company name: 56
+	Average Min Error: 	0.000503
+	Average Mean Error: 	0.000711
+	Average Median Error: 	0.000711
+	Average Max Error: 	0.000918
+
+company name: 57
+	Average Min Error: 	0.162109
+	Average Mean Error: 	0.263076
+	Average Median Error: 	0.263076
+	Average Max Error: 	0.364042
+
+company name: 58
+	Average Min Error: 	0.000114
+	Average Mean Error: 	0.000114
+	Average Median Error: 	0.000114
+	Average Max Error: 	0.000114
+
+company name: 59
+	Average Min Error: 	0.012434
+	Average Mean Error: 	0.025535
+	Average Median Error: 	0.025535
+	Average Max Error: 	0.038637
+
+company name: 60
+	Average Min Error: 	0.000254
+	Average Mean Error: 	0.000943
+	Average Median Error: 	0.000943
+	Average Max Error: 	0.001632
+
+company name: 61
+	Average Min Error: 	0.000119
+	Average Mean Error: 	0.000119
+	Average Median Error: 	0.000119
+	Average Max Error: 	0.000119
+
+company name: 62
+	Average Min Error: 	0.000245
+	Average Mean Error: 	0.000875
+	Average Median Error: 	0.000875
+	Average Max Error: 	0.001505
+
+company name: 63
+	Average Min Error: 	0.185783
+	Average Mean Error: 	0.300042
+	Average Median Error: 	0.300042
+	Average Max Error: 	0.414302
+
+company name: 64
+	Average Min Error: 	0.065114
+	Average Mean Error: 	0.096220
+	Average Median Error: 	0.096220
+	Average Max Error: 	0.127327
+
+company name: 65
+	Average Min Error: 	0.111429
+	Average Mean Error: 	0.210947
+	Average Median Error: 	0.210947
+	Average Max Error: 	0.310464
+
+company name: 66
+	Average Min Error: 	0.019527
+	Average Mean Error: 	0.039784
+	Average Median Error: 	0.039784
+	Average Max Error: 	0.060041
+
+company name: 67
+	Average Min Error: 	0.000289
+	Average Mean Error: 	0.000649
+	Average Median Error: 	0.000649
+	Average Max Error: 	0.001010
+
+company name: 68
+	Average Min Error: 	0.000215
+	Average Mean Error: 	0.000348
+	Average Median Error: 	0.000348
+	Average Max Error: 	0.000481
+
+company name: 69
+	Average Min Error: 	0.013264
+	Average Mean Error: 	0.020905
+	Average Median Error: 	0.020905
+	Average Max Error: 	0.028546
+
+company name: 70
+	Average Min Error: 	0.000598
+	Average Mean Error: 	0.001062
+	Average Median Error: 	0.001062
+	Average Max Error: 	0.001526
+
+company name: 71
+	Average Min Error: 	0.074183
+	Average Mean Error: 	0.115206
+	Average Median Error: 	0.115206
+	Average Max Error: 	0.156230
+
+company name: 72
+	Average Min Error: 	0.049237
+	Average Mean Error: 	0.084549
+	Average Median Error: 	0.084549
+	Average Max Error: 	0.119862
+
+company name: 73
+	Average Min Error: 	0.002264
+	Average Mean Error: 	0.007681
+	Average Median Error: 	0.007681
+	Average Max Error: 	0.013098
+
+company name: 74
+	Average Min Error: 	0.068238
+	Average Mean Error: 	0.124726
+	Average Median Error: 	0.124726
+	Average Max Error: 	0.181214
+
+company name: 75
+	Average Min Error: 	0.015041
+	Average Mean Error: 	0.047828
+	Average Median Error: 	0.047828
+	Average Max Error: 	0.080616
+
+company name: 76
+	Average Min Error: 	0.002544
+	Average Mean Error: 	0.005905
+	Average Median Error: 	0.005905
+	Average Max Error: 	0.009265
+
+company name: 77
+	Average Min Error: 	0.090758
+	Average Mean Error: 	0.313528
+	Average Median Error: 	0.313528
+	Average Max Error: 	0.536299
+
+company name: 78
+	Average Min Error: 	0.143888
+	Average Mean Error: 	0.330441
+	Average Median Error: 	0.330441
+	Average Max Error: 	0.516993
+
+company name: 79
+	Average Min Error: 	0.001630
+	Average Mean Error: 	0.002819
+	Average Median Error: 	0.002819
+	Average Max Error: 	0.004008
+
+company name: 80
+	Average Min Error: 	0.008697
+	Average Mean Error: 	0.028745
+	Average Median Error: 	0.028745
+	Average Max Error: 	0.048793
+
+company name: 81
+	Average Min Error: 	0.000370
+	Average Mean Error: 	0.000503
+	Average Median Error: 	0.000503
+	Average Max Error: 	0.000636
+
+company name: 82
+	Average Min Error: 	0.010428
+	Average Mean Error: 	0.013157
+	Average Median Error: 	0.013157
+	Average Max Error: 	0.015885
+
+company name: 83
+	Average Min Error: 	0.024400
+	Average Mean Error: 	0.069837
+	Average Median Error: 	0.069837
+	Average Max Error: 	0.115274
+
+company name: 84
+	Average Min Error: 	0.106235
+	Average Mean Error: 	0.177069
+	Average Median Error: 	0.177069
+	Average Max Error: 	0.247904
+
+company name: 85
+	Average Min Error: 	0.267426
+	Average Mean Error: 	0.968014
+	Average Median Error: 	0.968014
+	Average Max Error: 	1.668601
+
+company name: 86
+	Average Min Error: 	0.115022
+	Average Mean Error: 	0.206249
+	Average Median Error: 	0.206249
+	Average Max Error: 	0.297476
+
+company name: 87
+	Average Min Error: 	0.456023
+	Average Mean Error: 	0.662680
+	Average Median Error: 	0.662680
+	Average Max Error: 	0.869337
+
+company name: 88
+	Average Min Error: 	0.027232
+	Average Mean Error: 	0.054995
+	Average Median Error: 	0.054995
+	Average Max Error: 	0.082757
+
+company name: 89
+	Average Min Error: 	0.298027
+	Average Mean Error: 	0.615378
+	Average Median Error: 	0.615378
+	Average Max Error: 	0.932729
+
+company name: 90
+	Average Min Error: 	0.226465
+	Average Mean Error: 	0.379819
+	Average Median Error: 	0.379819
+	Average Max Error: 	0.533174
+
+company name: 91
+	Average Min Error: 	0.120073
+	Average Mean Error: 	0.161777
+	Average Median Error: 	0.161777
+	Average Max Error: 	0.203480
+
+company name: 92
+	Average Min Error: 	0.022004
+	Average Mean Error: 	0.061597
+	Average Median Error: 	0.061597
+	Average Max Error: 	0.101189
+
+company name: 93
+	Average Min Error: 	0.010063
+	Average Mean Error: 	0.012000
+	Average Median Error: 	0.012000
+	Average Max Error: 	0.013937
+
+company name: 94
+	Average Min Error: 	0.067097
+	Average Mean Error: 	0.155783
+	Average Median Error: 	0.155783
+	Average Max Error: 	0.244470
+
+company name: 95
+	Average Min Error: 	0.012171
+	Average Mean Error: 	0.025630
+	Average Median Error: 	0.025630
+	Average Max Error: 	0.039090
+
+company name: 96
+	Average Min Error: 	0.145031
+	Average Mean Error: 	0.248617
+	Average Median Error: 	0.248617
+	Average Max Error: 	0.352202
+
+company name: 97
+	Average Min Error: 	0.000073
+	Average Mean Error: 	0.000154
+	Average Median Error: 	0.000154
+	Average Max Error: 	0.000236
+
+company name: 98
+	Average Min Error: 	0.035748
+	Average Mean Error: 	0.050438
+	Average Median Error: 	0.050438
+	Average Max Error: 	0.065127
+
+company name: 99
+	Average Min Error: 	0.042247
+	Average Mean Error: 	0.118728
+	Average Median Error: 	0.118728
+	Average Max Error: 	0.195209
+
+company name: 100
+	Average Min Error: 	0.005819
+	Average Mean Error: 	0.008367
+	Average Median Error: 	0.008367
+	Average Max Error: 	0.010915
+
+company name: 101
+	Average Min Error: 	0.006371
+	Average Mean Error: 	0.015932
+	Average Median Error: 	0.015932
+	Average Max Error: 	0.025493
+
+company name: 102
+	Average Min Error: 	0.041288
+	Average Mean Error: 	0.106508
+	Average Median Error: 	0.106508
+	Average Max Error: 	0.171727
+
+company name: 103
+	Average Min Error: 	0.010685
+	Average Mean Error: 	0.014833
+	Average Median Error: 	0.014833
+	Average Max Error: 	0.018981
+
+company name: 104
+	Average Min Error: 	0.002872
+	Average Mean Error: 	0.009712
+	Average Median Error: 	0.009712
+	Average Max Error: 	0.016552
+
+company name: 105
+	Average Min Error: 	0.174094
+	Average Mean Error: 	0.243440
+	Average Median Error: 	0.243440
+	Average Max Error: 	0.312786
+
+company name: 106
+	Average Min Error: 	0.000311
+	Average Mean Error: 	0.000513
+	Average Median Error: 	0.000513
+	Average Max Error: 	0.000714
+
+company name: 107
+	Average Min Error: 	0.015190
+	Average Mean Error: 	0.024479
+	Average Median Error: 	0.024479
+	Average Max Error: 	0.033767
+
+company name: 108
+	Average Min Error: 	0.010447
+	Average Mean Error: 	0.015274
+	Average Median Error: 	0.015274
+	Average Max Error: 	0.020102
+
+company name: 109
+	Average Min Error: 	0.000951
+	Average Mean Error: 	0.001430
+	Average Median Error: 	0.001430
+	Average Max Error: 	0.001909
+
+company name: 110
+	Average Min Error: 	0.000729
+	Average Mean Error: 	0.002969
+	Average Median Error: 	0.002969
+	Average Max Error: 	0.005209
+
+company name: 111
+	Average Min Error: 	0.000206
+	Average Mean Error: 	0.000325
+	Average Median Error: 	0.000325
+	Average Max Error: 	0.000444
+
+company name: 112
+	Average Min Error: 	0.000762
+	Average Mean Error: 	0.001234
+	Average Median Error: 	0.001234
+	Average Max Error: 	0.001706
+
+company name: 113
+	Average Min Error: 	0.017260
+	Average Mean Error: 	0.027438
+	Average Median Error: 	0.027438
+	Average Max Error: 	0.037615
+
+company name: 114
+	Average Min Error: 	0.000041
+	Average Mean Error: 	0.000041
+	Average Median Error: 	0.000041
+	Average Max Error: 	0.000041
+
+company name: 115
+	Average Min Error: 	0.000252
+	Average Mean Error: 	0.001290
+	Average Median Error: 	0.001290
+	Average Max Error: 	0.002328
+
+company name: 116
+	Average Min Error: 	0.006525
+	Average Mean Error: 	0.011945
+	Average Median Error: 	0.011945
+	Average Max Error: 	0.017365
+
+company name: 117
+	Average Min Error: 	0.014426
+	Average Mean Error: 	0.022186
+	Average Median Error: 	0.022186
+	Average Max Error: 	0.029945
+
+company name: 118
+	Average Min Error: 	0.023485
+	Average Mean Error: 	0.030436
+	Average Median Error: 	0.030436
+	Average Max Error: 	0.037387
+
+company name: 119
+	Average Min Error: 	0.901490
+	Average Mean Error: 	1.268327
+	Average Median Error: 	1.268327
+	Average Max Error: 	1.635164
+
+company name: 120
+	Average Min Error: 	0.002584
+	Average Mean Error: 	0.004416
+	Average Median Error: 	0.004416
+	Average Max Error: 	0.006249
+
+company name: 121
+	Average Min Error: 	0.000794
+	Average Mean Error: 	0.001351
+	Average Median Error: 	0.001351
+	Average Max Error: 	0.001908
+
+company name: 122
+	Average Min Error: 	0.002541
+	Average Mean Error: 	0.004410
+	Average Median Error: 	0.004410
+	Average Max Error: 	0.006279
+
+company name: 123
+	Average Min Error: 	0.007334
+	Average Mean Error: 	0.009748
+	Average Median Error: 	0.009748
+	Average Max Error: 	0.012161
+
+company name: 124
+	Average Min Error: 	0.003598
+	Average Mean Error: 	0.006443
+	Average Median Error: 	0.006443
+	Average Max Error: 	0.009287
+
+company name: 125
+	Average Min Error: 	0.000358
+	Average Mean Error: 	0.000496
+	Average Median Error: 	0.000496
+	Average Max Error: 	0.000634
+
+company name: 126
+	Average Min Error: 	0.008030
+	Average Mean Error: 	0.014126
+	Average Median Error: 	0.014126
+	Average Max Error: 	0.020222
+
+company name: 127
+	Average Min Error: 	0.000103
+	Average Mean Error: 	0.000184
+	Average Median Error: 	0.000184
+	Average Max Error: 	0.000265
+
+company name: 128
+	Average Min Error: 	0.000825
+	Average Mean Error: 	0.002161
+	Average Median Error: 	0.002161
+	Average Max Error: 	0.003496
+
+company name: 129
+	Average Min Error: 	0.000015
+	Average Mean Error: 	0.000020
+	Average Median Error: 	0.000020
+	Average Max Error: 	0.000024
+
+company name: 130
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000197
+	Average Median Error: 	0.000197
+	Average Max Error: 	0.000395
+
+company name: 131
+	Average Min Error: 	0.000218
+	Average Mean Error: 	0.004831
+	Average Median Error: 	0.004831
+	Average Max Error: 	0.009444
+
+company name: 132
+	Average Min Error: 	0.000117
+	Average Mean Error: 	0.000170
+	Average Median Error: 	0.000170
+	Average Max Error: 	0.000222
+
+company name: 133
+	Average Min Error: 	0.000234
+	Average Mean Error: 	0.000406
+	Average Median Error: 	0.000406
+	Average Max Error: 	0.000579
+
+company name: 134
+	Average Min Error: 	0.001339
+	Average Mean Error: 	0.002887
+	Average Median Error: 	0.002887
+	Average Max Error: 	0.004435
+
+company name: 135
+	Average Min Error: 	0.002804
+	Average Mean Error: 	0.013447
+	Average Median Error: 	0.013447
+	Average Max Error: 	0.024090
+
+company name: 136
+	Average Min Error: 	0.352159
+	Average Mean Error: 	0.423699
+	Average Median Error: 	0.423699
+	Average Max Error: 	0.495239
+
+company name: 137
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 138
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 139
+	Average Min Error: 	0.000056
+	Average Mean Error: 	0.000090
+	Average Median Error: 	0.000090
+	Average Max Error: 	0.000123
+
+company name: 140
+	Average Min Error: 	0.003619
+	Average Mean Error: 	0.010522
+	Average Median Error: 	0.010522
+	Average Max Error: 	0.017424
+
+company name: 141
+	Average Min Error: 	0.003600
+	Average Mean Error: 	0.005297
+	Average Median Error: 	0.005297
+	Average Max Error: 	0.006994
+
+company name: 142
+	Average Min Error: 	0.008489
+	Average Mean Error: 	0.036199
+	Average Median Error: 	0.036199
+	Average Max Error: 	0.063909
+
+company name: 143
+	Average Min Error: 	0.020540
+	Average Mean Error: 	0.027742
+	Average Median Error: 	0.027742
+	Average Max Error: 	0.034944
+
+company name: 144
+	Average Min Error: 	0.041741
+	Average Mean Error: 	0.069757
+	Average Median Error: 	0.069757
+	Average Max Error: 	0.097773
+
+company name: 145
+	Average Min Error: 	0.001749
+	Average Mean Error: 	0.004987
+	Average Median Error: 	0.004987
+	Average Max Error: 	0.008225
+
+company name: 146
+	Average Min Error: 	0.000361
+	Average Mean Error: 	0.000531
+	Average Median Error: 	0.000531
+	Average Max Error: 	0.000702
+
+company name: 147
+	Average Min Error: 	0.105243
+	Average Mean Error: 	0.195030
+	Average Median Error: 	0.195030
+	Average Max Error: 	0.284817
+
+company name: 148
+	Average Min Error: 	0.024343
+	Average Mean Error: 	0.055625
+	Average Median Error: 	0.055625
+	Average Max Error: 	0.086908
+
+company name: 149
+	Average Min Error: 	0.145125
+	Average Mean Error: 	0.184164
+	Average Median Error: 	0.184164
+	Average Max Error: 	0.223203
+
+company name: 150
+	Average Min Error: 	0.462217
+	Average Mean Error: 	0.791253
+	Average Median Error: 	0.791253
+	Average Max Error: 	1.120289
+
+company name: 151
+	Average Min Error: 	0.157137
+	Average Mean Error: 	0.290064
+	Average Median Error: 	0.290064
+	Average Max Error: 	0.422991
+
+company name: 152
+	Average Min Error: 	0.237078
+	Average Mean Error: 	0.318215
+	Average Median Error: 	0.318215
+	Average Max Error: 	0.399351
+
+company name: 153
+	Average Min Error: 	0.011260
+	Average Mean Error: 	0.015869
+	Average Median Error: 	0.015869
+	Average Max Error: 	0.020479
+
+company name: 154
+	Average Min Error: 	0.985682
+	Average Mean Error: 	1.857565
+	Average Median Error: 	1.857565
+	Average Max Error: 	2.729448
+
+company name: 155
+	Average Min Error: 	0.000187
+	Average Mean Error: 	0.000283
+	Average Median Error: 	0.000283
+	Average Max Error: 	0.000379
+
+company name: 156
+	Average Min Error: 	0.047928
+	Average Mean Error: 	0.091039
+	Average Median Error: 	0.091039
+	Average Max Error: 	0.134149
+
+company name: 157
+	Average Min Error: 	0.009422
+	Average Mean Error: 	0.027900
+	Average Median Error: 	0.027900
+	Average Max Error: 	0.046377
+
+company name: 158
+	Average Min Error: 	0.048879
+	Average Mean Error: 	0.115493
+	Average Median Error: 	0.115493
+	Average Max Error: 	0.182106
+
+company name: 159
+	Average Min Error: 	0.000957
+	Average Mean Error: 	0.001836
+	Average Median Error: 	0.001836
+	Average Max Error: 	0.002714
+
+company name: 160
+	Average Min Error: 	0.000931
+	Average Mean Error: 	0.003011
+	Average Median Error: 	0.003011
+	Average Max Error: 	0.005092
+
+company name: 161
+	Average Min Error: 	0.045608
+	Average Mean Error: 	0.070675
+	Average Median Error: 	0.070675
+	Average Max Error: 	0.095741
+
+company name: 162
+	Average Min Error: 	0.018482
+	Average Mean Error: 	0.034853
+	Average Median Error: 	0.034853
+	Average Max Error: 	0.051223
+
+company name: 163
+	Average Min Error: 	0.001821
+	Average Mean Error: 	0.002741
+	Average Median Error: 	0.002741
+	Average Max Error: 	0.003661
+
+company name: 164
+	Average Min Error: 	0.030308
+	Average Mean Error: 	0.084453
+	Average Median Error: 	0.084453
+	Average Max Error: 	0.138599
+
+company name: 165
+	Average Min Error: 	0.001337
+	Average Mean Error: 	0.002925
+	Average Median Error: 	0.002925
+	Average Max Error: 	0.004513
+
+company name: 166
+	Average Min Error: 	0.002297
+	Average Mean Error: 	0.005230
+	Average Median Error: 	0.005230
+	Average Max Error: 	0.008162
+
+company name: 167
+	Average Min Error: 	0.000580
+	Average Mean Error: 	0.001880
+	Average Median Error: 	0.001880
+	Average Max Error: 	0.003180
+
+company name: 168
+	Average Min Error: 	0.000000
+	Average Mean Error: 	0.000000
+	Average Median Error: 	0.000000
+	Average Max Error: 	0.000000
+
+company name: 169
+	Average Min Error: 	0.036879
+	Average Mean Error: 	0.095907
+	Average Median Error: 	0.095907
+	Average Max Error: 	0.154935
+
+company name: 170
+	Average Min Error: 	0.070990
+	Average Mean Error: 	0.148323
+	Average Median Error: 	0.148323
+	Average Max Error: 	0.225656
+
+company name: 171
+	Average Min Error: 	0.001781
+	Average Mean Error: 	0.002961
+	Average Median Error: 	0.002961
+	Average Max Error: 	0.004140
+
+company name: 172
+	Average Min Error: 	0.009420
+	Average Mean Error: 	0.023114
+	Average Median Error: 	0.023114
+	Average Max Error: 	0.036808
+

@@ -1,0 +1,53 @@
+Label: Net Cash 1/ Sales %[FY 1997]
+Min Error: 	0.371629
+Mean Error: 	2.628310
+Median Error: 	1.106801
+Max Error: 	11.175626
+Feature importance:
+	Total Liabilities/Total Assets % : 0.037836
+	Total Debt/Equity % : 0.035454
+	Gross Margin % : 0.034208
+	Cash from Ops./EBITDA % : 0.033018
+	Total Asset Turnover : 0.032469
+	Net Property, Plant & Equipment/ Total Assets % : 0.031891
+	Avg. Days Sales Out.  (Days): 0.031596
+	Cash from Ops./Net Income% : 0.030848
+	Net Income Margin % : 0.030688
+	Capex/Rev %: 0.030345
+	Avg. Cash Conversion Cycle  (Days): 0.029916
+	Return on Assets % : 0.029766
+	Avg. Days Payable Out.  (Days): 0.029752
+	Rev YOY % : 0.029311
+	EBITDA Margin % : 0.026988
+	Total Assets  ($USDmm, Current rate): 0.025971
+	Total Liabilities  ($USDmm, Current rate): 0.024358
+	Goodwill/Total Asset % : 0.024319
+	R&D Exp./Total Revenue % : 0.023771
+	Return on Equity % : 0.023610
+	Capital Expenditure  ($USDmm, Current rate): 0.023404
+	Total Revenue  ($USDmm, Current rate): 0.023329
+	Depreciation & Amort., Total  ($USDmm, Current rate): 0.022944
+	Cash from Ops.  ($USDmm, Current rate): 0.022459
+	Avg. Days Inventory Out.  (Days): 0.022063
+	EBITDA  ($USDmm, Current rate): 0.021723
+	Other Operating Exp. Total  ($USDmm, Current rate): 0.021687
+	Cost Of Goods Sold  ($USDmm, Current rate): 0.021316
+	Net Property, Plant & Equipment  ($USDmm, Current rate): 0.020809
+	Net Income  ($USDmm, Current rate): 0.020722
+	Goodwill/Total Revenue % : 0.020166
+	Cash Acquisitions/Total Revenue % : 0.020043
+	Repurchase of Common Stock ($USDmm, Current rate): 0.019250
+	cash flow risk: 0.018397
+	R&D Exp.  ($USDmm, Current rate): 0.017861
+	Year Founded: 0.017132
+	Payout Ratio  (%): 0.016906
+	Number of Employees (Latest): 0.016148
+	Goodwill ($USDmm, Current rate): 0.015453
+	Cash Acquisitions ($USDmm, Current rate): 0.015202
+	准入资本市场难度: 0.005393
+	Cash flow risk(0:low; 1: high): 0.001478
+
+Total Min: 0.371629
+Total Mean: 2.628310
+Total Median: 1.106801
+Total Max: 11.175626

@@ -1,0 +1,27 @@
+Label: Total Cash & ST Investments/Avg. monthly cash outflow Month[FY 2010]
+Min Error: 	0.269887
+Mean Error: 	1.075608
+Median Error: 	1.198419
+Max Error: 	1.973252
+Feature importance:
+	Total Liabilities/Total Assets % : 0.079437
+	Net Property, Plant & Equipment/ Total Assets % : 0.076902
+	Cash from Ops./Net Income% : 0.076787
+	Net Income Margin % : 0.075904
+	Rev YOY % : 0.075792
+	Goodwill/Total Revenue % : 0.073112
+	Total Asset Turnover : 0.070399
+	Gross Margin % : 0.069828
+	Avg. Cash Conversion Cycle  (Days): 0.069583
+	Avg. Days Payable Out.  (Days): 0.068155
+	Return on Equity % : 0.066167
+	Total Debt/Equity % : 0.065566
+	R&D Exp./Total Revenue % : 0.056713
+	Payout Ratio  (%): 0.048278
+	准入资本市场难度: 0.021462
+	Cash flow risk(0:low; 1: high): 0.005917
+
+Total Min: 0.269887
+Total Mean: 1.075608
+Total Median: 1.198419
+Total Max: 1.973252

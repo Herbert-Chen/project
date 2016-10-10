@@ -1,0 +1,254 @@
+Label: 	Net Cash 1/ Sales %[FY 2011]
+Min Error: 	0.322082
+Mean Error: 	16.797951
+Median Error: 	10.075107
+Max Error: 	86.695471
+Feature importance:
+	 Cash from Ops./EBITDA % : 	0.033238
+	 Avg. Cash Conversion Cycle  (Days): 	0.033007
+	 Capex/Rev %: 	0.032313
+	 Rev YOY % : 	0.031969
+	 Total Asset Turnover : 	0.031734
+	 Avg. Days Payable Out.  (Days): 	0.031344
+	 Total Debt/Equity % : 	0.031273
+	 Total Liabilities/Total Assets % : 	0.030695
+	 Return on Assets % : 	0.030205
+	 Cash from Ops./Net Income% : 	0.029339
+	 Net Property, Plant & Equipment/ Total Assets % : 	0.028797
+	 Avg. Days Sales Out.  (Days): 	0.027407
+	 Return on Equity % : 	0.027320
+	 Gross Margin % : 	0.027209
+	 Cash from Ops.  ($USDmm, Current rate): 	0.027008
+	 Goodwill/Total Asset % : 	0.026943
+	 Net Income  ($USDmm, Current rate): 	0.026236
+	 Other Operating Exp. Total  ($USDmm, Current rate): 	0.026159
+	 Capital Expenditure  ($USDmm, Current rate): 	0.026106
+	 Net Income Margin % : 	0.025828
+	 Goodwill/Total Revenue % : 	0.025241
+	 Repurchase of Common Stock ($USDmm, Current rate): 	0.024702
+	 Cash Acquisitions ($USDmm, Current rate): 	0.024011
+	 Cost Of Goods Sold  ($USDmm, Current rate): 	0.023612
+	 Total Liabilities  ($USDmm, Current rate): 	0.023574
+	 Avg. Days Inventory Out.  (Days): 	0.022724
+	 Depreciation & Amort., Total  ($USDmm, Current rate): 	0.022623
+	 Cash Acquisitions/Total Revenue % : 	0.022594
+	 EBITDA Margin % : 	0.022306
+	 EBITDA  ($USDmm, Current rate): 	0.021909
+	 Total Assets  ($USDmm, Current rate): 	0.021608
+	 Goodwill ($USDmm, Current rate): 	0.021529
+	 Net Property, Plant & Equipment  ($USDmm, Current rate): 	0.021409
+	 Total Revenue  ($USDmm, Current rate): 	0.021247
+	 Payout Ratio  (%): 	0.020947
+	 R&D Exp.  ($USDmm, Current rate): 	0.017680
+	 R&D Exp./Total Revenue % : 	0.016571
+	 Year Founded: 	0.015633
+	 cash flow risk: 	0.011158
+	 Number of Employees (Latest): 	0.008415
+	 准入资本市场难度: 	0.003520
+	 Industry Dummy: 	0.001881
+	 Cash flow risk(0:low; 1: high): 	0.000978
+
+Label: 	Net Cash 1/ Sales %[FY 2011]
+Min Error: 	0.190561
+Mean Error: 	20.177364
+Median Error: 	10.464191
+Max Error: 	204.070917
+Feature importance:
+	 Rev YOY % : 	0.036381
+	 Cash from Ops./EBITDA % : 	0.032796
+	 Total Liabilities/Total Assets % : 	0.032712
+	 Goodwill/Total Asset % : 	0.032213
+	 Net Property, Plant & Equipment/ Total Assets % : 	0.031050
+	 Capex/Rev %: 	0.030940
+	 Cash from Ops./Net Income% : 	0.030804
+	 Net Income Margin % : 	0.029656
+	 Total Debt/Equity % : 	0.028824
+	 Avg. Cash Conversion Cycle  (Days): 	0.028533
+	 Net Income  ($USDmm, Current rate): 	0.028124
+	 Return on Assets % : 	0.027930
+	 Return on Equity % : 	0.027795
+	 Avg. Days Sales Out.  (Days): 	0.026901
+	 Cash from Ops.  ($USDmm, Current rate): 	0.026857
+	 Total Asset Turnover : 	0.026116
+	 Cash Acquisitions ($USDmm, Current rate): 	0.025894
+	 Other Operating Exp. Total  ($USDmm, Current rate): 	0.025396
+	 Avg. Days Payable Out.  (Days): 	0.024823
+	 Capital Expenditure  ($USDmm, Current rate): 	0.024686
+	 EBITDA Margin % : 	0.024497
+	 Goodwill/Total Revenue % : 	0.024133
+	 Repurchase of Common Stock ($USDmm, Current rate): 	0.024029
+	 EBITDA  ($USDmm, Current rate): 	0.023854
+	 Total Assets  ($USDmm, Current rate): 	0.023632
+	 Avg. Days Inventory Out.  (Days): 	0.023251
+	 Gross Margin % : 	0.023112
+	 Cost Of Goods Sold  ($USDmm, Current rate): 	0.023075
+	 Total Revenue  ($USDmm, Current rate): 	0.022279
+	 Total Liabilities  ($USDmm, Current rate): 	0.022200
+	 Payout Ratio  (%): 	0.021722
+	 Net Property, Plant & Equipment  ($USDmm, Current rate): 	0.021544
+	 Depreciation & Amort., Total  ($USDmm, Current rate): 	0.020708
+	 Cash Acquisitions/Total Revenue % : 	0.020631
+	 R&D Exp./Total Revenue % : 	0.020227
+	 Goodwill ($USDmm, Current rate): 	0.019898
+	 R&D Exp.  ($USDmm, Current rate): 	0.017358
+	 Year Founded: 	0.014485
+	 cash flow risk: 	0.013023
+	 Number of Employees (Latest): 	0.009592
+	 准入资本市场难度: 	0.004570
+	 Industry Dummy: 	0.001921
+	 Cash flow risk(0:low; 1: high): 	0.001827
+
+Label: 	Net Cash 1/ Sales %[FY 2011]
+Min Error: 	0.063356
+Mean Error: 	14.089410
+Median Error: 	8.917345
+Max Error: 	91.527303
+Feature importance:
+	 Rev YOY % : 	0.036295
+	 Cash from Ops./EBITDA % : 	0.033765
+	 Return on Equity % : 	0.031168
+	 Cash from Ops./Net Income% : 	0.031081
+	 Net Income Margin % : 	0.029920
+	 Net Property, Plant & Equipment/ Total Assets % : 	0.029583
+	 Avg. Days Sales Out.  (Days): 	0.028783
+	 Avg. Cash Conversion Cycle  (Days): 	0.028664
+	 Total Debt/Equity % : 	0.028507
+	 Total Liabilities/Total Assets % : 	0.028338
+	 Avg. Days Payable Out.  (Days): 	0.028306
+	 Capex/Rev %: 	0.028218
+	 Cash Acquisitions/Total Revenue % : 	0.027885
+	 Net Income  ($USDmm, Current rate): 	0.027383
+	 Total Asset Turnover : 	0.026946
+	 Capital Expenditure  ($USDmm, Current rate): 	0.026713
+	 Return on Assets % : 	0.026696
+	 EBITDA Margin % : 	0.025934
+	 Goodwill/Total Asset % : 	0.025889
+	 Other Operating Exp. Total  ($USDmm, Current rate): 	0.025073
+	 Cash from Ops.  ($USDmm, Current rate): 	0.024906
+	 Cash Acquisitions ($USDmm, Current rate): 	0.024658
+	 Goodwill/Total Revenue % : 	0.024047
+	 Repurchase of Common Stock ($USDmm, Current rate): 	0.023451
+	 Gross Margin % : 	0.023094
+	 Payout Ratio  (%): 	0.022763
+	 Total Assets  ($USDmm, Current rate): 	0.022668
+	 Total Liabilities  ($USDmm, Current rate): 	0.022332
+	 Avg. Days Inventory Out.  (Days): 	0.022310
+	 Total Revenue  ($USDmm, Current rate): 	0.022225
+	 Goodwill ($USDmm, Current rate): 	0.021286
+	 Net Property, Plant & Equipment  ($USDmm, Current rate): 	0.021199
+	 R&D Exp./Total Revenue % : 	0.021051
+	 EBITDA  ($USDmm, Current rate): 	0.020696
+	 Cost Of Goods Sold  ($USDmm, Current rate): 	0.020655
+	 Depreciation & Amort., Total  ($USDmm, Current rate): 	0.019966
+	 Year Founded: 	0.019524
+	 R&D Exp.  ($USDmm, Current rate): 	0.017057
+	 cash flow risk: 	0.012244
+	 Number of Employees (Latest): 	0.010947
+	 准入资本市场难度: 	0.003765
+	 Industry Dummy: 	0.002112
+	 Cash flow risk(0:low; 1: high): 	0.001897
+
+Label: 	Net Cash 1/ Sales %[FY 2011]
+Min Error: 	0.000441
+Mean Error: 	12.609481
+Median Error: 	6.809660
+Max Error: 	80.526457
+Feature importance:
+	 Rev YOY % : 	0.032805
+	 Avg. Cash Conversion Cycle  (Days): 	0.032611
+	 Net Property, Plant & Equipment/ Total Assets % : 	0.031545
+	 Capex/Rev %: 	0.031220
+	 Cash from Ops./Net Income% : 	0.030899
+	 Cash from Ops./EBITDA % : 	0.030579
+	 Total Asset Turnover : 	0.029506
+	 Total Liabilities/Total Assets % : 	0.029325
+	 Avg. Days Sales Out.  (Days): 	0.028687
+	 Goodwill/Total Asset % : 	0.028639
+	 Avg. Days Payable Out.  (Days): 	0.028513
+	 Return on Equity % : 	0.028322
+	 Net Income Margin % : 	0.027727
+	 Total Liabilities  ($USDmm, Current rate): 	0.027576
+	 Repurchase of Common Stock ($USDmm, Current rate): 	0.027006
+	 Total Debt/Equity % : 	0.026911
+	 Capital Expenditure  ($USDmm, Current rate): 	0.026391
+	 Total Assets  ($USDmm, Current rate): 	0.025266
+	 Depreciation & Amort., Total  ($USDmm, Current rate): 	0.025199
+	 Cash from Ops.  ($USDmm, Current rate): 	0.025193
+	 Goodwill/Total Revenue % : 	0.025189
+	 Gross Margin % : 	0.025092
+	 Cash Acquisitions ($USDmm, Current rate): 	0.024863
+	 EBITDA Margin % : 	0.024605
+	 Cash Acquisitions/Total Revenue % : 	0.024352
+	 EBITDA  ($USDmm, Current rate): 	0.024031
+	 Avg. Days Inventory Out.  (Days): 	0.023804
+	 Return on Assets % : 	0.023724
+	 Other Operating Exp. Total  ($USDmm, Current rate): 	0.023378
+	 Net Income  ($USDmm, Current rate): 	0.022820
+	 Total Revenue  ($USDmm, Current rate): 	0.022623
+	 Net Property, Plant & Equipment  ($USDmm, Current rate): 	0.022046
+	 Payout Ratio  (%): 	0.021219
+	 Goodwill ($USDmm, Current rate): 	0.020923
+	 Cost Of Goods Sold  ($USDmm, Current rate): 	0.020457
+	 R&D Exp.  ($USDmm, Current rate): 	0.018566
+	 R&D Exp./Total Revenue % : 	0.016260
+	 Year Founded: 	0.012303
+	 cash flow risk: 	0.010906
+	 Number of Employees (Latest): 	0.010591
+	 准入资本市场难度: 	0.004124
+	 Industry Dummy: 	0.002879
+	 Cash flow risk(0:low; 1: high): 	0.001324
+
+Label: 	Net Cash 1/ Sales %[FY 2011]
+Min Error: 	0.341343
+Mean Error: 	20.976163
+Median Error: 	10.138844
+Max Error: 	188.477293
+Feature importance:
+	 Rev YOY % : 	0.036258
+	 Net Property, Plant & Equipment/ Total Assets % : 	0.032999
+	 Total Liabilities/Total Assets % : 	0.032185
+	 Cash from Ops./EBITDA % : 	0.031659
+	 Capex/Rev %: 	0.031513
+	 Total Debt/Equity % : 	0.031318
+	 Total Asset Turnover : 	0.030457
+	 Cash from Ops./Net Income% : 	0.030102
+	 Avg. Days Sales Out.  (Days): 	0.029203
+	 Repurchase of Common Stock ($USDmm, Current rate): 	0.028566
+	 Return on Equity % : 	0.027890
+	 Return on Assets % : 	0.027258
+	 Goodwill/Total Asset % : 	0.027244
+	 Net Income Margin % : 	0.027069
+	 Net Income  ($USDmm, Current rate): 	0.026909
+	 Cash from Ops.  ($USDmm, Current rate): 	0.026360
+	 Capital Expenditure  ($USDmm, Current rate): 	0.026081
+	 Total Liabilities  ($USDmm, Current rate): 	0.026060
+	 Avg. Cash Conversion Cycle  (Days): 	0.025237
+	 Other Operating Exp. Total  ($USDmm, Current rate): 	0.025172
+	 Cash Acquisitions ($USDmm, Current rate): 	0.024727
+	 EBITDA Margin % : 	0.024662
+	 Total Assets  ($USDmm, Current rate): 	0.024581
+	 Cash Acquisitions/Total Revenue % : 	0.024510
+	 Net Property, Plant & Equipment  ($USDmm, Current rate): 	0.023939
+	 Avg. Days Payable Out.  (Days): 	0.023430
+	 Payout Ratio  (%): 	0.023287
+	 EBITDA  ($USDmm, Current rate): 	0.023285
+	 Goodwill/Total Revenue % : 	0.022108
+	 Goodwill ($USDmm, Current rate): 	0.021649
+	 Gross Margin % : 	0.020801
+	 Avg. Days Inventory Out.  (Days): 	0.020787
+	 Depreciation & Amort., Total  ($USDmm, Current rate): 	0.020559
+	 Cost Of Goods Sold  ($USDmm, Current rate): 	0.020409
+	 R&D Exp./Total Revenue % : 	0.019858
+	 Total Revenue  ($USDmm, Current rate): 	0.019828
+	 R&D Exp.  ($USDmm, Current rate): 	0.016551
+	 Year Founded: 	0.016182
+	 cash flow risk: 	0.011163
+	 Number of Employees (Latest): 	0.011073
+	 准入资本市场难度: 	0.003572
+	 Industry Dummy: 	0.002168
+	 Cash flow risk(0:low; 1: high): 	0.001333
+
+Total Min: 	0.183557
+Total Mean: 	16.930074
+Total Median: 	9.281030
+Total Max: 	130.259488

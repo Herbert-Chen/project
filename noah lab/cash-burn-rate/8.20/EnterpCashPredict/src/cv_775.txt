@@ -1,0 +1,254 @@
+Label: Net Cash 1/ Sales %
+Min Error: 0.058865
+Mean Error: 23.694706
+Median Error: 9.692064
+Max Error: 830.052321
+Feature importance:
+Net Income Margin % : 0.038049
+Rev YOY % : 0.037499
+Total Liabilities/Total Assets % : 0.037130
+Cash from Ops./Net Income% : 0.034650
+Total Debt/Equity % : 0.034392
+Net Property, Plant & Equipment/ Total Assets % : 0.033944
+Cash from Ops./EBITDA % : 0.033882
+Gross Margin % : 0.031444
+Total Asset Turnover : 0.031064
+Return on Assets % : 0.029814
+Avg. Days Sales Out.  (Days): 0.029610
+Avg. Cash Conversion Cycle  (Days): 0.028778
+Total Liabilities  ($USDmm, Current rate): 0.027781
+Return on Equity % : 0.027759
+EBITDA Margin % : 0.026811
+Capital Expenditure  ($USDmm, Current rate): 0.026669
+Avg. Days Payable Out.  (Days): 0.025925
+Total Revenue  ($USDmm, Current rate): 0.025832
+Other Operating Exp. Total  ($USDmm, Current rate): 0.025786
+Total Assets  ($USDmm, Current rate): 0.025626
+Goodwill/Total Revenue % : 0.024827
+R&D Exp./Total Revenue % : 0.024803
+Cash from Ops.  ($USDmm, Current rate): 0.024740
+Cost Of Goods Sold  ($USDmm, Current rate): 0.024456
+Avg. Days Inventory Out.  (Days): 0.024407
+Net Property, Plant & Equipment  ($USDmm, Current rate): 0.023882
+Net Income  ($USDmm, Current rate): 0.023062
+EBITDA  ($USDmm, Current rate): 0.022095
+Depreciation & Amort., Total  ($USDmm, Current rate): 0.021387
+Repurchase of Common Stock ($USDmm, Current rate): 0.020519
+Cash Acquisitions/Total Revenue % : 0.020456
+Goodwill ($USDmm, Current rate): 0.020031
+Payout Ratio  (%): 0.018868
+Year Founded: 0.018402
+R&D Exp.  ($USDmm, Current rate): 0.018361
+Number of Employees / Total Revenue [LTM]  (Latest): 0.017686
+Cash Acquisitions ($USDmm, Current rate): 0.016695
+Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.009401
+准入资本市场难度: 0.004407
+Development Phase : 0.003094
+Industry Dummy: 0.002928
+Share Bonus : 0.001807
+Cash flow risk(0:low; 1: high): 0.001239
+
+Label: Net Cash 1/ Sales %
+Min Error: 0.012207
+Mean Error: 45.828303
+Median Error: 7.847195
+Max Error: 6663.144318
+Feature importance:
+Total Liabilities/Total Assets % : 0.038935
+Rev YOY % : 0.036436
+Cash from Ops./Net Income% : 0.035967
+Return on Assets % : 0.034589
+Net Income Margin % : 0.033441
+Net Property, Plant & Equipment/ Total Assets % : 0.032020
+Cash from Ops./EBITDA % : 0.031920
+EBITDA Margin % : 0.030835
+Other Operating Exp. Total  ($USDmm, Current rate): 0.030446
+Total Asset Turnover : 0.029908
+Avg. Cash Conversion Cycle  (Days): 0.029811
+Gross Margin % : 0.029723
+Total Debt/Equity % : 0.028521
+Avg. Days Payable Out.  (Days): 0.028480
+Avg. Days Sales Out.  (Days): 0.027325
+Return on Equity % : 0.027015
+Total Revenue  ($USDmm, Current rate): 0.026849
+Total Assets  ($USDmm, Current rate): 0.026258
+Cost Of Goods Sold  ($USDmm, Current rate): 0.025639
+Total Liabilities  ($USDmm, Current rate): 0.025035
+Capital Expenditure  ($USDmm, Current rate): 0.024601
+Cash from Ops.  ($USDmm, Current rate): 0.024539
+Net Income  ($USDmm, Current rate): 0.024211
+R&D Exp./Total Revenue % : 0.023889
+Cash Acquisitions ($USDmm, Current rate): 0.023532
+Goodwill/Total Revenue % : 0.023239
+Net Property, Plant & Equipment  ($USDmm, Current rate): 0.023132
+Payout Ratio  (%): 0.022925
+EBITDA  ($USDmm, Current rate): 0.022852
+Avg. Days Inventory Out.  (Days): 0.022845
+Depreciation & Amort., Total  ($USDmm, Current rate): 0.022774
+Goodwill ($USDmm, Current rate): 0.020422
+Repurchase of Common Stock ($USDmm, Current rate): 0.020307
+Cash Acquisitions/Total Revenue % : 0.019523
+Number of Employees / Total Revenue [LTM]  (Latest): 0.017056
+R&D Exp.  ($USDmm, Current rate): 0.016899
+Year Founded: 0.016694
+Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.007123
+Industry Dummy: 0.003958
+准入资本市场难度: 0.003253
+Development Phase : 0.002652
+Share Bonus : 0.002341
+Cash flow risk(0:low; 1: high): 0.002080
+
+Label: Net Cash 1/ Sales %
+Min Error: 0.010105
+Mean Error: 13.781211
+Median Error: 6.248952
+Max Error: 177.972024
+Feature importance:
+Rev YOY % : 0.037502
+Total Liabilities/Total Assets % : 0.037211
+Net Income Margin % : 0.037058
+Cash from Ops./Net Income% : 0.034596
+Total Asset Turnover : 0.033870
+Cash from Ops./EBITDA % : 0.033084
+Return on Assets % : 0.032086
+Gross Margin % : 0.031510
+Total Assets  ($USDmm, Current rate): 0.030474
+Avg. Days Sales Out.  (Days): 0.029911
+Avg. Cash Conversion Cycle  (Days): 0.029783
+Avg. Days Payable Out.  (Days): 0.029136
+Total Debt/Equity % : 0.028966
+Net Property, Plant & Equipment/ Total Assets % : 0.028921
+Total Revenue  ($USDmm, Current rate): 0.027567
+Other Operating Exp. Total  ($USDmm, Current rate): 0.027440
+Total Liabilities  ($USDmm, Current rate): 0.027013
+Capital Expenditure  ($USDmm, Current rate): 0.026684
+Return on Equity % : 0.025994
+Avg. Days Inventory Out.  (Days): 0.025894
+Repurchase of Common Stock ($USDmm, Current rate): 0.024810
+EBITDA Margin % : 0.024053
+Net Income  ($USDmm, Current rate): 0.023558
+R&D Exp./Total Revenue % : 0.023319
+Cash from Ops.  ($USDmm, Current rate): 0.023166
+Goodwill/Total Revenue % : 0.023007
+Cost Of Goods Sold  ($USDmm, Current rate): 0.022952
+EBITDA  ($USDmm, Current rate): 0.022932
+Cash Acquisitions/Total Revenue % : 0.022801
+Net Property, Plant & Equipment  ($USDmm, Current rate): 0.022579
+Depreciation & Amort., Total  ($USDmm, Current rate): 0.021355
+Cash Acquisitions ($USDmm, Current rate): 0.019981
+Year Founded: 0.018158
+Goodwill ($USDmm, Current rate): 0.018090
+Number of Employees / Total Revenue [LTM]  (Latest): 0.017880
+R&D Exp.  ($USDmm, Current rate): 0.017302
+Payout Ratio  (%): 0.017186
+Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.007964
+Industry Dummy: 0.004353
+准入资本市场难度: 0.004019
+Development Phase : 0.002760
+Share Bonus : 0.001804
+Cash flow risk(0:low; 1: high): 0.001272
+
+Label: Net Cash 1/ Sales %
+Min Error: 0.011330
+Mean Error: 13.265836
+Median Error: 7.804643
+Max Error: 81.896040
+Feature importance:
+Total Liabilities/Total Assets % : 0.036526
+Cash from Ops./Net Income% : 0.034236
+Rev YOY % : 0.034038
+Net Income Margin % : 0.033949
+Cash from Ops./EBITDA % : 0.033647
+Net Property, Plant & Equipment/ Total Assets % : 0.032834
+Total Debt/Equity % : 0.031109
+Return on Assets % : 0.031046
+Total Asset Turnover : 0.030057
+Avg. Days Payable Out.  (Days): 0.029359
+Total Liabilities  ($USDmm, Current rate): 0.028540
+Avg. Days Sales Out.  (Days): 0.028226
+EBITDA Margin % : 0.027917
+Avg. Cash Conversion Cycle  (Days): 0.027603
+Capital Expenditure  ($USDmm, Current rate): 0.027222
+Return on Equity % : 0.027156
+Gross Margin % : 0.026804
+Other Operating Exp. Total  ($USDmm, Current rate): 0.026614
+Total Revenue  ($USDmm, Current rate): 0.026014
+Cost Of Goods Sold  ($USDmm, Current rate): 0.025358
+R&D Exp./Total Revenue % : 0.025214
+EBITDA  ($USDmm, Current rate): 0.025119
+Net Income  ($USDmm, Current rate): 0.024974
+Depreciation & Amort., Total  ($USDmm, Current rate): 0.024940
+Cash from Ops.  ($USDmm, Current rate): 0.024562
+Total Assets  ($USDmm, Current rate): 0.024388
+Goodwill/Total Revenue % : 0.023929
+Repurchase of Common Stock ($USDmm, Current rate): 0.023756
+Avg. Days Inventory Out.  (Days): 0.023680
+Goodwill ($USDmm, Current rate): 0.022690
+Net Property, Plant & Equipment  ($USDmm, Current rate): 0.022625
+Cash Acquisitions/Total Revenue % : 0.020825
+Number of Employees / Total Revenue [LTM]  (Latest): 0.020142
+R&D Exp.  ($USDmm, Current rate): 0.018707
+Cash Acquisitions ($USDmm, Current rate): 0.017721
+Payout Ratio  (%): 0.017500
+Year Founded: 0.017022
+Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.008705
+准入资本市场难度: 0.003795
+Industry Dummy: 0.003625
+Development Phase : 0.003385
+Cash flow risk(0:low; 1: high): 0.002318
+Share Bonus : 0.002123
+
+Label: Net Cash 1/ Sales %
+Min Error: 0.002727
+Mean Error: 16.480224
+Median Error: 7.430108
+Max Error: 148.419374
+Feature importance:
+Total Liabilities/Total Assets % : 0.038415
+Net Income Margin % : 0.037087
+Rev YOY % : 0.035707
+Net Property, Plant & Equipment/ Total Assets % : 0.034711
+Total Debt/Equity % : 0.033691
+Cash from Ops./EBITDA % : 0.033513
+Gross Margin % : 0.033370
+Cash from Ops./Net Income% : 0.032935
+Avg. Cash Conversion Cycle  (Days): 0.032055
+Avg. Days Payable Out.  (Days): 0.031904
+Return on Assets % : 0.030999
+Avg. Days Sales Out.  (Days): 0.030511
+Total Asset Turnover : 0.029407
+EBITDA Margin % : 0.027518
+Cost Of Goods Sold  ($USDmm, Current rate): 0.027385
+Total Revenue  ($USDmm, Current rate): 0.026850
+Avg. Days Inventory Out.  (Days): 0.026454
+Other Operating Exp. Total  ($USDmm, Current rate): 0.025825
+Total Liabilities  ($USDmm, Current rate): 0.024903
+Capital Expenditure  ($USDmm, Current rate): 0.024687
+EBITDA  ($USDmm, Current rate): 0.024602
+Total Assets  ($USDmm, Current rate): 0.024575
+Net Income  ($USDmm, Current rate): 0.024428
+Cash from Ops.  ($USDmm, Current rate): 0.023814
+R&D Exp./Total Revenue % : 0.022923
+Return on Equity % : 0.022773
+Goodwill/Total Revenue % : 0.022577
+Net Property, Plant & Equipment  ($USDmm, Current rate): 0.022147
+Goodwill ($USDmm, Current rate): 0.021394
+Depreciation & Amort., Total  ($USDmm, Current rate): 0.021282
+Cash Acquisitions/Total Revenue % : 0.020419
+Repurchase of Common Stock ($USDmm, Current rate): 0.020417
+Cash Acquisitions ($USDmm, Current rate): 0.018157
+R&D Exp.  ($USDmm, Current rate): 0.018091
+Year Founded: 0.017506
+Payout Ratio  (%): 0.017433
+Number of Employees / Total Revenue [LTM]  (Latest): 0.016994
+Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.007355
+准入资本市场难度: 0.004401
+Industry Dummy: 0.003361
+Development Phase : 0.003042
+Cash flow risk(0:low; 1: high): 0.002243
+Share Bonus : 0.002137
+
+Total Min: 0.019047
+Total Mean: 22.610056
+Total Median: 7.804592
+Total Max: 1580.296816

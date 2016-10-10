@@ -1,0 +1,27 @@
+Label: Total Cash & ST Investments/Avg. monthly cash outflow Month[FY 1997]
+Min Error: 	0.058325
+Mean Error: 	0.988586
+Median Error: 	0.492798
+Max Error: 	4.210116
+Feature importance:
+	Total Asset Turnover : 0.052413
+	Net Property, Plant & Equipment/ Total Assets % : 0.050883
+	Rev YOY % : 0.047461
+	Net Income Margin % : 0.044983
+	Avg. Cash Conversion Cycle  (Days): 0.044163
+	Cash from Ops./Net Income% : 0.043841
+	R&D Exp./Total Revenue % : 0.042995
+	Gross Margin % : 0.041319
+	Total Liabilities/Total Assets % : 0.041044
+	Return on Equity % : 0.041011
+	Avg. Days Payable Out.  (Days): 0.038587
+	Total Debt/Equity % : 0.036312
+	Goodwill/Total Revenue % : 0.034879
+	Payout Ratio  (%): 0.022113
+	准入资本市场难度: 0.012791
+	Cash flow risk(0:low; 1: high): 0.002204
+
+Total Min: 0.058325
+Total Mean: 0.988586
+Total Median: 0.492798
+Total Max: 4.210116

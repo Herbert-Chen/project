@@ -1,5 +1,5 @@
 	Label: ∆Total Cash & ST Investments/ Rev % [FY 1998] ($USDmm, Current rate)
-	Average Min Error: 	0.032186
-	Average Mean Error: 	5.298681
-	Average Median Error: 	2.872552
-	Average Max Error: 	41.183512
+	Average Min Error: 	0.015685
+	Average Mean Error: 	5.543048
+	Average Median Error: 	2.480326
+	Average Max Error: 	122.438505

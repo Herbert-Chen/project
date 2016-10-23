@@ -1,0 +1,5 @@
+	Label: Total Cash & ST Investments/Total Assets % [FY 2010]
+	Average Min Error: 	2.378481
+	Average Mean Error: 	7.604648
+	Average Median Error: 	5.288208
+	Average Max Error: 	15.147254

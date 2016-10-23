@@ -22,7 +22,7 @@
     <SUITE FILE_PATH="coverage/src$pred_A3_via_A1_A2.coverage" NAME="pred_A3_via_A1-A2 Coverage Results" MODIFIED="1474262761598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$A3_pred_A3.coverage" NAME="A3_pred_A3 Coverage Results" MODIFIED="1474435844945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$pred_cx_by_reduced_elem__YTD.coverage" NAME="pred_cx_by_reduced_elem&amp;-YTD Coverage Results" MODIFIED="1473841075846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/src$A3_ARIMA.coverage" NAME="A3_ARIMA Coverage Results" MODIFIED="1475726406003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$A3_ARIMA.coverage" NAME="A3_ARIMA Coverage Results" MODIFIED="1476687027583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$timeseries_A2_A3.coverage" NAME="timeseries_A2&amp;A3 Coverage Results" MODIFIED="1473647134290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$ES.coverage" NAME="ES Coverage Results" MODIFIED="1474941834227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$test_stationarity.coverage" NAME="test_stationarity Coverage Results" MODIFIED="1474858497293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -60,38 +60,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A3_ARIMA.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="A3_ARIMA.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/A3_ARIMA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="148" column="34" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
+            <state relative-caret-position="19">
+              <caret line="455" column="52" selection-start-line="455" selection-start-column="52" selection-end-line="455" selection-end-column="52" />
               <folding>
                 <element signature="n#!!doc" expanded="false" />
-                <element signature="e#56#106#0" expanded="true" />
+                <element signature="e#591#608#0" expanded="false" />
                 <element signature="e#897#934#0" expanded="false" />
                 <element signature="e#945#980#0" expanded="false" />
-                <element signature="e#1106#1670#0" expanded="false" />
+                <element signature="e#1170#1734#0" expanded="false" />
+                <element signature="e#1918#2027#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seasonal.py" pinned="false" current-in-tab="true">
-        <entry file="file://C:/Anaconda2/Lib/site-packages/statsmodels/tsa/seasonal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1349">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filtertools.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Anaconda2/Lib/site-packages/statsmodels/tsa/filters/filtertools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -99,9 +80,11 @@
       <file leaf-file-name="test_stationarity.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_stationarity.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="76">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="e#23#69#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -304,14 +287,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../cash-burn-rate/8.27/EnterpCashPredict/src" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/A1_A2_pred_A3.py" />
@@ -659,9 +642,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33990896" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36646435" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1036,14 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_stationarity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1137,29 +1112,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A3_ARIMA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="148" column="34" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#56#106#0" expanded="true" />
-            <element signature="e#897#934#0" expanded="false" />
-            <element signature="e#945#980#0" expanded="false" />
-            <element signature="e#1106#1670#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Anaconda2/Lib/site-packages/statsmodels/tsa/seasonal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1349">
+        <state relative-caret-position="19">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_stationarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#23#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A3_ARIMA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="455" column="52" selection-start-line="455" selection-start-column="52" selection-end-line="455" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#591#608#0" expanded="false" />
+            <element signature="e#897#934#0" expanded="false" />
+            <element signature="e#945#980#0" expanded="false" />
+            <element signature="e#1170#1734#0" expanded="false" />
+            <element signature="e#1918#2027#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

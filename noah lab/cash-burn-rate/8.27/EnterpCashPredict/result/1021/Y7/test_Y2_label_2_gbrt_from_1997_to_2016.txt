@@ -1,0 +1,47 @@
+	Label: Total Cash & ST Investments/Total Revenue % [FY 1997]
+	Min Error: 	2.488990
+	Mean Error: 	12.033956
+	Median Error: 	11.108566
+	Max Error: 	18.192175
+	Feature importance:
+		Gross Margin % : 0.030230
+		Net Property, Plant & Equipment/ Total Assets % : 0.029723
+		Net Income Margin % : 0.028394
+		Total Asset Turnover : 0.027416
+		Cash from Ops./Net Income% : 0.026649
+		Rev YOY % : 0.026415
+		Goodwill/Total Asset % : 0.024641
+		Avg. Cash Conversion Cycle  (Days): 0.024095
+		Return on Equity % : 0.023345
+		Total Liabilities/Total Assets % : 0.023324
+		R&D Exp./Total Revenue % : 0.022772
+		Total Debt/Equity % : 0.021168
+		Payout Ratio  (%): 0.008961
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.006793
+		cash flow risk: 0.004075
+		Dev_label: 0.000000
+
+	Total Min: 2.488990
+	Total Mean: 12.033956
+	Total Median: 11.108566
+	Total Max: 18.192175
+	prediction and real value:
+	1998:	17.192175    -1.000000
+	1999:	17.192175    -1.000000
+	2000:	17.192175    -1.000000
+	2001:	17.192175    -1.000000
+	2002:	17.192175    -1.000000
+	2003:	17.192175    -1.000000
+	2004:	17.192175    -1.000000
+	2005:	17.192175    -1.000000
+	2006:	18.892576    14.762565
+	2007:	21.040686    12.419083
+	2008:	17.226134    14.737144
+	2009:	19.268622    23.822644
+	2010:	20.847512    24.404430
+	2011:	20.715915    30.379955
+	2012:	24.747584    30.570444
+	2013:	23.554586    32.538443
+	2014:	25.552786    34.282606
+	2015:	21.345809    36.792888
+	2016:	20.588939    31.697506

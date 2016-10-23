@@ -1,0 +1,35 @@
+	Label: Net Cash 1/ Sales %[FY 2010]
+	Min Error: 	3.059909
+	Mean Error: 	6.254581
+	Median Error: 	4.623119
+	Max Error: 	12.209234
+	Feature importance:
+		Avg. Days Payable Out.  (Days): 0.025250
+		R&D Exp./Total Revenue % : 0.017769
+		Gross Margin % : 0.015475
+		Total Asset Turnover : 0.011006
+		Total Debt/Equity % : 0.010960
+		Net Property, Plant & Equipment/ Total Assets % : 0.009509
+		Total Liabilities/Total Assets % : 0.009039
+		Goodwill/Total Asset % : 0.008826
+		Avg. Days Sales Out.  (Days): 0.006348
+		Cash from Ops./Net Income% : 0.006252
+		Net Income Margin % : 0.005619
+		Rev YOY % : 0.005458
+		Avg. Cash Conversion Cycle  (Days): 0.005343
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.002695
+		Payout Ratio  (%): 0.001995
+		cash flow risk: 0.001457
+		Dev_label: 0.000000
+
+	Total Min: 3.059909
+	Total Mean: 6.254581
+	Total Median: 4.623119
+	Total Max: 12.209234
+	prediction and real value:
+	2011:	11.071766    23.281000
+	2012:	10.835688    20.602759
+	2013:	20.053380    23.113289
+	2014:	21.024861    24.646376
+	2015:	21.415115    27.039837
+	2016:	21.114413    24.359445

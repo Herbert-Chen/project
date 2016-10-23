@@ -1,0 +1,35 @@
+	Label: Net Cash Burn Ratio 1=Net Cash 1/ Avg. monthly cash outflow %[FY 2010]
+	Min Error: 	0.671534
+	Mean Error: 	1.345561
+	Median Error: 	1.313080
+	Max Error: 	2.115569
+	Feature importance:
+		Gross Margin % : 0.017454
+		Total Debt/Equity % : 0.010836
+		R&D Exp./Total Revenue % : 0.010776
+		Goodwill/Total Asset % : 0.009983
+		Avg. Days Sales Out.  (Days): 0.006099
+		Total Asset Turnover : 0.005939
+		Net Property, Plant & Equipment/ Total Assets % : 0.005918
+		Total Liabilities/Total Assets % : 0.005583
+		Net Income Margin % : 0.004251
+		Cash from Ops./Net Income% : 0.004062
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.003398
+		Return on Equity % : 0.002940
+		Avg. Cash Conversion Cycle  (Days): 0.002880
+		Rev YOY % : 0.001875
+		Payout Ratio  (%): 0.001675
+		cash flow risk: 0.001332
+		Dev_label: 0.000000
+
+	Total Min: 0.671534
+	Total Mean: 1.345561
+	Total Median: 1.313080
+	Total Max: 2.115569
+	prediction and real value:
+	2011:	1.298439    3.414008
+	2012:	1.099640    2.761420
+	2013:	2.434534    3.106068
+	2014:	2.410301    3.408626
+	2015:	2.286043    3.790149
+	2016:	2.233162    3.355216

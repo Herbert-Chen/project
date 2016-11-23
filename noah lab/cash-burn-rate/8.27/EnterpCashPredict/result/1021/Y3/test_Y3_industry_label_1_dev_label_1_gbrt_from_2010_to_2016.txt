@@ -1,0 +1,42 @@
+	Label: Total Cash & ST Investments/Avg. monthly cash outflow Month[FY 2010]
+	Min Error: 	0.600723
+	Mean Error: 	0.880826
+	Median Error: 	0.763625
+	Max Error: 	1.272584
+	Feature importance:
+		Gross Margin % : 0.013578
+		R&D Exp./Total Revenue % : 0.009600
+		Net Income Margin % : 0.009158
+		EBITDA Margin % : 0.008800
+		Total Asset Turnover : 0.008120
+		cash flow risk: 0.007419
+		Total Liabilities/Total Assets % : 0.006297
+		Return on Assets % : 0.006113
+		Net Property, Plant & Equipment/ Total Assets % : 0.005428
+		Total Debt/Equity % : 0.005397
+		Goodwill/Total Asset % : 0.004758
+		Rev YOY % : 0.004738
+		Avg. Days Sales Out.  (Days): 0.004336
+		Cash from Ops./Net Income% : 0.003912
+		Cash from Ops./EBITDA % : 0.003700
+		Avg. Cash Conversion Cycle  (Days): 0.003667
+		Capex/Rev %: 0.003646
+		Return on Equity % : 0.003602
+		Repurchase of Common Stock ($USDmm, Current rate): 0.003528
+		Number of Employees (Latest): 0.003406
+		Avg. Days Inventory Out.  (Days): 0.003153
+		Avg. Days Payable Out.  (Days): 0.003081
+		Payout Ratio  (%): 0.002242
+		分红状况2010: 0.000321
+
+	Total Min: 0.600723
+	Total Mean: 0.880826
+	Total Median: 0.763625
+	Total Max: 1.272584
+	prediction and real value:
+	2011:	3.182441    4.455024
+	2012:	4.747031    4.097404
+	2013:	4.973386    4.372663
+	2014:	3.986712    4.741329
+	2015:	3.922456    5.157226
+	2016:	3.593311    4.365944

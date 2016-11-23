@@ -1,0 +1,44 @@
+	Label: Total Cash & ST Investments/Total Revenue % [FY 2010]
+	Min Error: 	0.287869
+	Mean Error: 	4.962926
+	Median Error: 	4.907162
+	Max Error: 	11.389436
+	Feature importance:
+		R&D Exp./Total Revenue % : 0.012736
+		Total Asset Turnover : 0.010652
+		Gross Margin % : 0.009651
+		Total Revenue  ($USDmm, Current rate): 0.008853
+		EBITDA Margin % : 0.008736
+		Net Income Margin % : 0.007530
+		cash flow risk: 0.007393
+		Cash from Ops./EBITDA % : 0.007052
+		Goodwill/Total Asset % : 0.006900
+		Rev YOY % : 0.006675
+		Avg. Cash Conversion Cycle  (Days): 0.006476
+		Total Liabilities/Total Assets % : 0.005580
+		Total Debt/Equity % : 0.005375
+		Net Property, Plant & Equipment/ Total Assets % : 0.005325
+		Avg. Days Sales Out.  (Days): 0.004853
+		Cash from Ops./Net Income% : 0.004375
+		Cash Acquisitions/Total Revenue % : 0.004104
+		Capex/Rev %: 0.004008
+		Avg. Days Inventory Out.  (Days): 0.003837
+		Return on Equity % : 0.003760
+		Number of Employees (Latest): 0.003443
+		Return on Assets % : 0.003257
+		Avg. Days Payable Out.  (Days): 0.002627
+		Payout Ratio  (%): 0.002369
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.002102
+		分红状况2010: 0.000334
+
+	Total Min: 0.287869
+	Total Mean: 4.962926
+	Total Median: 4.907162
+	Total Max: 11.389436
+	prediction and real value:
+	2011:	18.990519    30.379955
+	2012:	36.556388    30.570444
+	2013:	37.605976    32.538443
+	2014:	36.582588    34.282606
+	2015:	37.080757    36.792888
+	2016:	36.444295    31.697506

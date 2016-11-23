@@ -1,0 +1,5 @@
+	Label: Net Cash 1/ Sales %[FY 1998]
+	Average Min Error: 	0.000470
+	Average Mean Error: 	8.781667
+	Average Median Error: 	4.352380
+	Average Max Error: 	134.431132

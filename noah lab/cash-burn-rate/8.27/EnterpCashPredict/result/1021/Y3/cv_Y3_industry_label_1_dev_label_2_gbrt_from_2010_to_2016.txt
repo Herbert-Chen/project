@@ -1,0 +1,5 @@
+	Label: Total Cash & ST Investments/Avg. monthly cash outflow Month[FY 2010]
+	Average Min Error: 	0.042917
+	Average Mean Error: 	1.574161
+	Average Median Error: 	0.787404
+	Average Max Error: 	9.359267

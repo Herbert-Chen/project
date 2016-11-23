@@ -1,0 +1,5 @@
+	Label: Net Cash 1/ Sales %[FY 2010]
+	Average Min Error: 	0.020171
+	Average Mean Error: 	10.766341
+	Average Median Error: 	5.760270
+	Average Max Error: 	69.724321

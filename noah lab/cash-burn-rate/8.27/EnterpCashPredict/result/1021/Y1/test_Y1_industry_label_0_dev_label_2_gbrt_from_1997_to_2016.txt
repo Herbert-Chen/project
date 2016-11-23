@@ -1,0 +1,73 @@
+	Label: Total Cash & ST Investments [FY 1997] ($USDmm, Current rate)
+	Min Error: 	175.182824
+	Mean Error: 	2037.384204
+	Median Error: 	411.964787
+	Max Error: 	9865.024953
+	Feature importance:
+		Net Property, Plant & Equipment/ Total Assets % : 0.034140
+		Total Liabilities [FY 2015] ($USDmm, Current rate): 0.032993
+		Rev YOY % : 0.029194
+		Total Asset Turnover : 0.028146
+		Avg. Days Payable Out.  (Days): 0.026075
+		R&D Exp.  ($USDmm, Current rate): 0.025982
+		Capex/Rev %: 0.025771
+		R&D Exp./Total Revenue % : 0.024316
+		Cash from Ops./EBITDA % : 0.024088
+		Gross Margin % : 0.024033
+		Total Liabilities/Total Assets % : 0.024030
+		Net Property, Plant & Equipment  ($USDmm, Current rate): 0.023984
+		Avg. Cash Conversion Cycle  (Days): 0.023963
+		Capital Expenditure  ($USDmm, Current rate): 0.023661
+		Other Operating Exp. Total  ($USDmm, Current rate): 0.023609
+		Total Liabilities  ($USDmm, Current rate): 0.023533
+		Total Revenue  ($USDmm, Current rate): 0.023464
+		Net Income  ($USDmm, Current rate): 0.023341
+		Repurchase of Common Stock ($USDmm, Current rate): 0.023019
+		Cash from Ops.  ($USDmm, Current rate): 0.022655
+		EBITDA  ($USDmm, Current rate): 0.022581
+		Cash from Ops./Net Income% : 0.022530
+		Return on Assets % : 0.022386
+		Avg. Days Sales Out.  (Days): 0.021941
+		Cost Of Goods Sold  ($USDmm, Current rate): 0.021634
+		Net Income Margin % : 0.021235
+		Avg. Days Inventory Out.  (Days): 0.020556
+		Depreciation & Amort., Total  ($USDmm, Current rate): 0.019516
+		Return on Equity % : 0.019299
+		EBITDA Margin % : 0.018960
+		Total Debt/Equity % : 0.017562
+		Cash Acquisitions/Total Revenue % : 0.017148
+		Goodwill/Total Revenue % : 0.015959
+		Goodwill/Total Asset % : 0.015167
+		cash flow risk: 0.014685
+		Payout Ratio  (%): 0.014463
+		Goodwill ($USDmm, Current rate): 0.013940
+		Cash Acquisitions ($USDmm, Current rate): 0.013475
+		Number of Employees (Latest): 0.012409
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.005767
+		准入资本市场难度: 0.004790
+		Dev_label: 0.000000
+
+	Total Min: 175.182824
+	Total Mean: 2037.384204
+	Total Median: 411.964787
+	Total Max: 9865.024953
+	prediction and real value:
+	1998:	520.994229    -1.000000
+	1999:	410.964787    -1.000000
+	2000:	410.964787    -1.000000
+	2001:	410.964787    -1.000000
+	2002:	410.964787    -1.000000
+	2003:	410.964787    -1.000000
+	2004:	410.964787    -1.000000
+	2005:	410.964787    -1.000000
+	2006:	1600.937113    883.029000
+	2007:	880.923176    1056.106000
+	2008:	2134.797385    1892.266000
+	2009:	4159.246570    4504.069230
+	2010:	5833.431705    5492.608990
+	2011:	5904.792662    8373.673190
+	2012:	6062.914397    9413.097010
+	2013:	6392.270736    10818.372640
+	2014:	7385.601652    12372.827650
+	2015:	7624.640577    16010.509030
+	2016:	9040.288477    18905.313430

@@ -35,7 +35,7 @@ algo = 'gbrt'   # rf, gbrt
 
 
 ###路径，使用前一定要检查文件夹是否存在不然报错
-var_name='Y9'         ###变量名，Y1，Y2...
+var_name='Y8'         ###变量名，Y1，Y2...
 folder_name='../result/0827/'+var_name+'/'      ###文件夹名,最后一定要包含/
 
 ###文件中定义的格式：
@@ -131,8 +131,8 @@ def get_cleaned_dataset(df_train, df_test,colsList, industry_label):
     #     return upperArray, col_names
     # else:
     for indexes in colsList:
-        tmpArray = np.array(df_train[indexes].values)
-        testTmpArray = np.array(df_test[indexes].values)
+        tmpArray = np.array(df_train.iloc[:,indexes].values)
+        testTmpArray = np.array(df_test.iloc[:,indexes].values)
         if count == 0:
             upperArray = tmpArray
             upperTestArray = testTmpArray
@@ -396,12 +396,18 @@ if __name__ == '__main__':
                 pyplot.legend()
                 pyplot.close()
 
-                future_Data = pd.read_excel('../data/16-20_Y8-9.xlsx', sheetname='Sheet1')
-                future_Data = future_Data.fillna(0.0)
-                datalist=[[2,0,3.668574],[2,0,3.668574],[2,0,3.668574],[2,0,3.668574],[2,0,3.668574]]
-                for i in range(len(list(future_Data.values)[0])):
-                    datalist[i%5].append(list(future_Data.values)[0][i])
-
-                pred_future=model.predict(np.array(datalist))
+                # future_Data = pd.read_excel('../data/16-20_Y8-9.xlsx', sheetname='Sheet1')
+                # future_Data = future_Data.fillna(0.0)
+                # datalist=[[2,0,3.668574],[2,0,3.668574],[2,0,3.668574],[2,0,3.668574],[2,0,3.668574]]
+                # for i in range(len(list(future_Data.values)[0])):
+                #     datalist[i%5].append(list(future_Data.values)[0][i])
+                #
+                # pred_future=model.predict(np.array(datalist))
                 print '\tindustry_label:%s' % str(industry_labels)
-                print '\t'+str(pred_future)
+                future_Data = pd.read_excel('../data/future_' + var_name + '_1123.xlsx', sheetname='Sheet1')
+                pred_future = model.predict(np.array(future_Data.values))
+                print '\t',
+                for num in range(len(pred_future)):
+                    print str(pred_future[num]) + '\t',
+                print
+

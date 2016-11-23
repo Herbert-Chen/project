@@ -1,0 +1,44 @@
+	Label: Net Cash 1/ Sales %[FY 2010]
+	Min Error: 	2.962666
+	Mean Error: 	7.571506
+	Median Error: 	6.838460
+	Max Error: 	15.725536
+	Feature importance:
+		Total Liabilities/Total Assets % : 0.027119
+		Net Property, Plant & Equipment/ Total Assets % : 0.024972
+		Net Income Margin % : 0.024428
+		Cash Acquisitions/Total Revenue % : 0.024408
+		Goodwill/Total Asset % : 0.023332
+		Capex/Rev %: 0.023024
+		Avg. Days Payable Out.  (Days): 0.022760
+		Rev YOY % : 0.022629
+		Cash from Ops./EBITDA % : 0.022393
+		Gross Margin % : 0.022207
+		Total Debt/Equity % : 0.021793
+		Total Asset Turnover : 0.021695
+		Avg. Days Sales Out.  (Days): 0.021614
+		EBITDA Margin % : 0.020880
+		Return on Equity % : 0.019778
+		R&D Exp./Total Revenue % : 0.019496
+		Cash from Ops./Net Income% : 0.019370
+		Return on Assets % : 0.018697
+		Avg. Cash Conversion Cycle  (Days): 0.018377
+		Repurchase of Common Stock ($USDmm, Current rate): 0.015384
+		Avg. Days Inventory Out.  (Days): 0.013995
+		Payout Ratio  (%): 0.011788
+		Number of Employees (Latest): 0.011192
+		cash flow risk: 0.011142
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.004783
+		分红状况2010: 0.001741
+
+	Total Min: 2.962666
+	Total Mean: 7.571506
+	Total Median: 6.838460
+	Total Max: 15.725536
+	prediction and real value:
+	2011:	20.318334    23.281000
+	2012:	4.877223    20.602759
+	2013:	18.174259    23.113289
+	2014:	17.404053    24.646376
+	2015:	18.914952    27.039837
+	2016:	17.924849    24.359445

@@ -1,0 +1,73 @@
+	Label: Total Cash & ST Investments [FY 1997] ($USDmm, Current rate)
+	Min Error: 	289.366389
+	Mean Error: 	1170.179357
+	Median Error: 	434.668681
+	Max Error: 	3937.915407
+	Feature importance:
+		Net Property, Plant & Equipment/ Total Assets % : 0.018396
+		Capex/Rev %: 0.017490
+		Total Liabilities [FY 2015] ($USDmm, Current rate): 0.016867
+		Avg. Days Sales Out.  (Days): 0.016864
+		Rev YOY % : 0.016299
+		Avg. Days Inventory Out.  (Days): 0.016128
+		Cash from Ops./EBITDA % : 0.016043
+		Total Liabilities/Total Assets % : 0.016029
+		Avg. Days Payable Out.  (Days): 0.015919
+		Total Liabilities  ($USDmm, Current rate): 0.015034
+		Depreciation & Amort., Total  ($USDmm, Current rate): 0.014980
+		Goodwill ($USDmm, Current rate): 0.014671
+		EBITDA  ($USDmm, Current rate): 0.014606
+		Total Asset Turnover : 0.014358
+		Net Income Margin % : 0.014300
+		Net Property, Plant & Equipment  ($USDmm, Current rate): 0.014055
+		Cash from Ops./Net Income% : 0.013454
+		Return on Equity % : 0.013270
+		Goodwill/Total Asset % : 0.013265
+		Capital Expenditure  ($USDmm, Current rate): 0.013262
+		Other Operating Exp. Total  ($USDmm, Current rate): 0.013208
+		Avg. Cash Conversion Cycle  (Days): 0.012792
+		Total Debt/Equity % : 0.012442
+		Repurchase of Common Stock ($USDmm, Current rate): 0.012233
+		Net Income  ($USDmm, Current rate): 0.011962
+		Cash from Ops.  ($USDmm, Current rate): 0.011816
+		Gross Margin % : 0.011779
+		Return on Assets % : 0.011694
+		Goodwill/Total Revenue % : 0.011633
+		Cash Acquisitions ($USDmm, Current rate): 0.011190
+		EBITDA Margin % : 0.011135
+		R&D Exp.  ($USDmm, Current rate): 0.010257
+		Total Revenue  ($USDmm, Current rate): 0.010043
+		R&D Exp./Total Revenue % : 0.009714
+		Cost Of Goods Sold  ($USDmm, Current rate): 0.009187
+		Cash Acquisitions/Total Revenue % : 0.008485
+		Payout Ratio  (%): 0.005995
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.002249
+		cash flow risk: 0.001775
+		Number of Employees (Latest): 0.001469
+		准入资本市场难度: 0.000653
+		Dev_label: 0.000000
+
+	Total Min: 289.366389
+	Total Mean: 1170.179357
+	Total Median: 434.668681
+	Total Max: 3937.915407
+	prediction and real value:
+	1998:	321.663477    -1.000000
+	1999:	288.366389    -1.000000
+	2000:	288.366389    -1.000000
+	2001:	288.366389    -1.000000
+	2002:	288.366389    -1.000000
+	2003:	288.366389    -1.000000
+	2004:	288.366389    -1.000000
+	2005:	288.366389    -1.000000
+	2006:	1468.555615    883.029000
+	2007:	2088.928242    1056.106000
+	2008:	2326.934681    1892.266000
+	2009:	4133.853232    4504.069230
+	2010:	4423.070475    5492.608990
+	2011:	7073.553688    8373.673190
+	2012:	5813.227855    9413.097010
+	2013:	6880.457233    10818.372640
+	2014:	10338.020134    12372.827650
+	2015:	14278.110298    16010.509030
+	2016:	15118.016205    18905.313430

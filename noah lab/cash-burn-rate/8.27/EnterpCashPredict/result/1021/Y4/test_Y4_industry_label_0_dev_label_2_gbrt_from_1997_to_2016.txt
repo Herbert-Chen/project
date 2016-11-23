@@ -1,0 +1,73 @@
+	Label: Net Cash 1=Total Cash & ST Investments-Debt [FY 1997]($USDmm, Current rate)
+	Min Error: 	75.476503
+	Mean Error: 	2252.817359
+	Median Error: 	1332.155903
+	Max Error: 	9274.790089
+	Feature importance:
+		Total Liabilities [FY 2015] ($USDmm, Current rate): 0.034120
+		Rev YOY % : 0.030971
+		Capex/Rev %: 0.030936
+		Net Property, Plant & Equipment/ Total Assets % : 0.029142
+		Cash from Ops./EBITDA % : 0.029050
+		Cash from Ops./Net Income% : 0.028810
+		Avg. Days Payable Out.  (Days): 0.027956
+		Total Liabilities/Total Assets % : 0.027208
+		EBITDA Margin % : 0.026209
+		Total Asset Turnover : 0.026103
+		Net Income  ($USDmm, Current rate): 0.026097
+		Avg. Cash Conversion Cycle  (Days): 0.025594
+		R&D Exp./Total Revenue % : 0.025033
+		Total Liabilities  ($USDmm, Current rate): 0.024730
+		Repurchase of Common Stock ($USDmm, Current rate): 0.024584
+		Net Income Margin % : 0.024337
+		Total Debt/Equity % : 0.024261
+		Cash from Ops.  ($USDmm, Current rate): 0.024198
+		Avg. Days Sales Out.  (Days): 0.024112
+		Gross Margin % : 0.023737
+		Other Operating Exp. Total  ($USDmm, Current rate): 0.023667
+		Total Revenue  ($USDmm, Current rate): 0.023659
+		Return on Assets % : 0.023114
+		Avg. Days Inventory Out.  (Days): 0.022746
+		Cost Of Goods Sold  ($USDmm, Current rate): 0.021683
+		Return on Equity % : 0.021499
+		EBITDA  ($USDmm, Current rate): 0.021171
+		Net Property, Plant & Equipment  ($USDmm, Current rate): 0.020556
+		Depreciation & Amort., Total  ($USDmm, Current rate): 0.020363
+		Capital Expenditure  ($USDmm, Current rate): 0.020124
+		R&D Exp.  ($USDmm, Current rate): 0.019175
+		Goodwill/Total Asset % : 0.019174
+		Goodwill/Total Revenue % : 0.018369
+		Cash Acquisitions ($USDmm, Current rate): 0.016200
+		Payout Ratio  (%): 0.014340
+		Number of Employees (Latest): 0.012976
+		Goodwill ($USDmm, Current rate): 0.012695
+		Cash Acquisitions/Total Revenue % : 0.012677
+		cash flow risk: 0.011228
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.009037
+		准入资本市场难度: 0.005359
+		Dev_label: 0.000000
+
+	Total Min: 75.476503
+	Total Mean: 2252.817359
+	Total Median: 1332.155903
+	Total Max: 9274.790089
+	prediction and real value:
+	1998:	1773.397141    -1.000000
+	1999:	1331.155903    -1.000000
+	2000:	1331.155903    -1.000000
+	2001:	1331.155903    -1.000000
+	2002:	1331.155903    -1.000000
+	2003:	1331.155903    -1.000000
+	2004:	1331.155903    -1.000000
+	2005:	1331.155903    -1.000000
+	2006:	258.099336    341.686000
+	2007:	607.956497    683.433000
+	2008:	1005.059477    1518.358000
+	2009:	1934.471682    2388.832690
+	2010:	2801.501213    3019.825160
+	2011:	3654.387595    6416.977470
+	2012:	3364.562575    6343.897710
+	2013:	4445.645004    7684.700080
+	2014:	4075.205385    8895.046000
+	2015:	4483.062818    11766.446750
+	2016:	5253.890741    14528.680830

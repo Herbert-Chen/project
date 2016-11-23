@@ -1,0 +1,57 @@
+	Label: Total Cash & ST Investments/Total Assets % [FY 1997]
+	Min Error: 	0.452930
+	Mean Error: 	2.499527
+	Median Error: 	0.801664
+	Max Error: 	13.327017
+	Feature importance:
+		Rev YOY % : 0.052062
+		Net Property, Plant & Equipment/ Total Assets % : 0.050319
+		Total Liabilities/Total Assets % : 0.049923
+		Capex/Rev %: 0.049433
+		Total Asset Turnover : 0.048875
+		Cash from Ops./EBITDA % : 0.048194
+		Avg. Days Sales Out.  (Days): 0.045331
+		Avg. Cash Conversion Cycle  (Days): 0.045139
+		Gross Margin % : 0.044996
+		Net Income Margin % : 0.044776
+		Total Debt/Equity % : 0.044242
+		Avg. Days Payable Out.  (Days): 0.042380
+		Return on Equity % : 0.042125
+		Return on Assets % : 0.042113
+		EBITDA Margin % : 0.041230
+		Cash from Ops./Net Income% : 0.040919
+		Goodwill/Total Asset % : 0.040633
+		R&D Exp./Total Revenue % : 0.036958
+		Avg. Days Inventory Out.  (Days): 0.035765
+		Cash Acquisitions ($USDmm, Current rate): 0.030229
+		Number of Employees (Latest): 0.029802
+		Payout Ratio  (%): 0.027786
+		Repurchase of Common Stock ($USDmm, Current rate): 0.026596
+		cash flow risk: 0.024415
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.015759
+		Dev_label: 0.000000
+
+	Total Min: 0.452930
+	Total Mean: 2.499527
+	Total Median: 0.801664
+	Total Max: 13.327017
+	prediction and real value:
+	1998:	-0.198336    -1.000000
+	1999:	-0.198336    -1.000000
+	2000:	-0.198336    -1.000000
+	2001:	-0.198336    -1.000000
+	2002:	-0.198336    -1.000000
+	2003:	-0.198336    -1.000000
+	2004:	-0.198336    -1.000000
+	2005:	-0.198336    -1.000000
+	2006:	10.475978    15.347279
+	2007:	13.481163    14.088583
+	2008:	17.505082    17.052152
+	2009:	11.901332    25.228349
+	2010:	19.341075    26.048134
+	2011:	28.826349    30.984893
+	2012:	27.627706    32.160083
+	2013:	33.297746    34.117597
+	2014:	29.531767    33.571086
+	2015:	36.131773    34.230227
+	2016:	35.304386    33.644046

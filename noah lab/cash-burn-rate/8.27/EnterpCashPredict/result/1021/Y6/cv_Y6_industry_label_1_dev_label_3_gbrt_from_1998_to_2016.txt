@@ -1,0 +1,5 @@
+	Label: Net Cash Burn Ratio 1=Net Cash 1/ Avg. monthly cash outflow %[FY 1998]
+	Average Min Error: 	0.014062
+	Average Mean Error: 	2.451229
+	Average Median Error: 	1.423969
+	Average Max Error: 	15.786650

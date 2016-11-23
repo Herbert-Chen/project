@@ -7,7 +7,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 import pandas as pd
 import numpy as np
 from sklearn import cross_validation
-from plot import ArkPlot
+# from plot import ArkPlot
 import sys
 from matplotlib import pyplot
 from scipy.stats import pearsonr
@@ -46,8 +46,8 @@ folder_name='../result/1021/'+var_name+'/'      ###文件夹名,最后一定要�
 # industry_labels=2
 
 ###生成路径，function为 cv,contrast,test...,type为png，txt
-def gen_path(function,type):
-    return folder_name + function +'_'+ var_name  + '_label_'+ str(industry_labels) + '_' + algo + '_from_' + str(year_start) + '_to_' + str(year_end) + '.'+type
+# def gen_path(function,type):
+#     return folder_name + function +'_'+ var_name  + '_industry_label_'+ str(industry_labels) + '_dev_label_'+str(dev_label) +'_'+ algo + '_from_' + str(year_start) + '_to_' + str(year_end) + '.'+type
 
 
 
@@ -149,7 +149,7 @@ def get_cleaned_dataset(df_train, df_test,colsList, industry_label,dev_label):
     # else:
     for indexes in colsList:
         tmpArray = np.array(df_train.iloc[:,indexes].values)
-        testTmpArray = np.array(df_test[indexes].values)
+        testTmpArray = np.array(df_test.iloc[:,indexes].values)
         if count == 0:
             upperArray = tmpArray
             upperTestArray = testTmpArray
@@ -195,6 +195,13 @@ def compute_error(true_y, pred_y):
 
 if __name__ == '__main__':
     for var_name in ['Y2','Y3','Y5','Y6','Y7']:
+        folder_name = '../result/1021/' + var_name + '/'
+        def gen_path(function, type):
+            return folder_name + function + '_' + var_name + '_industry_label_' + str(
+                industry_labels) + '_dev_label_' + str(dev_label) + '_' + algo + '_from_' + str(
+                year_start) + '_to_' + str(year_end) + '.' + type
+
+
         for year_start in [1997,2010]:
             if var_name == 'Y2':
                 # 削减变量Y2
@@ -221,7 +228,12 @@ if __name__ == '__main__':
                 col_name_dict = {'Net Cash 1 / Sales %': 776}
                 otherFeatureList = [12, 25,993]
                 baseFeatureList = [56, 76, 116, 136, 156, 256, 276, 296, 416, 436, 496, 516, 556, 896]
-                ###x标签变换
+            #     ###x标签变换
+            # otherFeatureList = [ 22, 23, 24, 25,27,993]  # unique features
+            # # position that years features first occur
+            # baseFeatureList = [34, 54, 74, 94, 114, 134, 154, 174, 194, 214, 234, 254, 274,
+            #                    294, 314, 334, 354, 374, 394, 414, 434, 474, 494, 514, 534,
+            #                    554, 594, 614, 634, 654, 794, 814, 834, 854, 874, 894, 914]
             year_end = 2016
             data_start = 1997
             # print 'year:%d'%year_start
@@ -237,9 +249,11 @@ if __name__ == '__main__':
 
             for industry_labels in [[],0,1,2]:
         ###所有变量循环
-                for dev_label in [[],2,3]:
+                for dev_label in [2,3]:
 
                     for k, v in col_name_dict.items():
+
+                        print var_name+'_industrylabel_'+str(industry_labels)+'_devlabel_'+str(dev_label)+'_'+str(year_start)+'-'+str(year_end)
 
                         ###y标签变换
                         labelCol = v + year_gap - 1  # label column number (the year of 1998)
@@ -339,6 +353,13 @@ if __name__ == '__main__':
                         logger.write("\tAverage Max Error: \t%f\n" % (sum(max_error)/len(max_error)))
                         logger.close()
 
+                        print '交叉验证'
+                        print "\tLabel: %s" % label_name
+                        print "\tAverage Min Error: \t%f" % (sum(min_error)/len(min_error))
+                        print "\tAverage Mean Error: \t%f" % (sum(mean_error)/len(mean_error))
+                        print "\tAverage Median Error: \t%f" % (sum(median_error)/len(median_error))
+                        print "\tAverage Max Error: \t%f" % (sum(max_error)/len(max_error))
+                        print
                         ###HW上验证
 
                         # print train_data_set.shape
@@ -403,6 +424,17 @@ if __name__ == '__main__':
                             logger.write("\t%d:\t%f    %f\n"%(year_start+1+i,float(pred_y[i]),float(test_label_set[i])))
                         logger.close()
 
+                        print '华为上验证：'
+                        print "\tMin Error: \t%f" % np.min(error)
+                        print "\tMean Error: \t%f" % np.mean(error)
+                        print "\tMedian Error: \t%f" % np.median(error)
+                        print "\tMax Error: \t%f" % np.max(error)
+                        print '\tFeature importance:'
+                        for i in xrange(len(ranking_index)):
+                            print "\t\t%s: %f" % (
+                            feature_ranking_list[i].replace('[FY %s]' % year_start, '').replace('[FY%s]' % year_start, ''),
+                            importance_ranking_list[i])
+                        print
                         plt_hw = ArkPlot()
                         plt_hw_out_name = gen_path('test','png')
 
@@ -434,13 +466,15 @@ if __name__ == '__main__':
                         ###预测16-20
                         future_Data = pd.read_excel('../data/future_'+var_name+'.xlsx', sheetname='Sheet1')
                         pred_future = model.predict(np.array(future_Data.values))
-                        print var_name
-                        print 'year:%d-2015' % year_start
-                        print 'industry_labels' + str(industry_labels)
-                        print 'dev_label' + str(dev_label)
+                        # print var_name
+                        # print 'year:%d-2015' % year_start
+                        # print 'industry_labels' + str(industry_labels)
+                        # print 'dev_label' + str(dev_label)
+                        # print var_name+'_industrylabel_'+str(industry_labels)+'_devlabel_'+str(dev_label)+'_'+str(year_start)+'-'+str(year_end)
+                        print '预测未来：16-20'
                         for num in range(len(pred_future)):
                             print str(pred_future[num]) + '\t',
-                    print '\n'
+                    print '\n\n'
 
             print
         print

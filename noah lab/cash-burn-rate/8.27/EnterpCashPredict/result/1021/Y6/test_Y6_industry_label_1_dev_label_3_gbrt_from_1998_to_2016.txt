@@ -1,0 +1,56 @@
+	Label: Net Cash Burn Ratio 1=Net Cash 1/ Avg. monthly cash outflow %[FY 1998]
+	Min Error: 	0.052412
+	Mean Error: 	5.748033
+	Median Error: 	0.711569
+	Max Error: 	14.189031
+	Feature importance:
+		Total Liabilities/Total Assets % : 0.052018
+		Capex/Rev %: 0.049907
+		Net Income Margin % : 0.049867
+		Net Property, Plant & Equipment/ Total Assets % : 0.049141
+		Rev YOY % : 0.048850
+		Total Revenue  ($USDmm, Current rate): 0.046773
+		Return on Assets % : 0.046236
+		Return on Equity % : 0.045567
+		Cash from Ops./EBITDA % : 0.045237
+		Avg. Days Sales Out.  (Days): 0.044826
+		Cash from Ops./Net Income% : 0.044715
+		Avg. Days Payable Out.  (Days): 0.044389
+		Total Asset Turnover : 0.044260
+		Gross Margin % : 0.043938
+		Goodwill/Total Revenue % : 0.043418
+		Avg. Cash Conversion Cycle  (Days): 0.040116
+		R&D Exp./Total Revenue % : 0.038433
+		Total Debt/Equity % : 0.037237
+		Cash Acquisitions/Total Revenue % : 0.036830
+		Repurchase of Common Stock ($USDmm, Current rate): 0.033318
+		Avg. Days Inventory Out.  (Days): 0.029605
+		cash flow risk: 0.027152
+		Number of Employees (Latest): 0.022341
+		Payout Ratio  (%): 0.019945
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.013067
+		分红状况1998: 0.002816
+
+	Total Min: 0.052412
+	Total Mean: 5.748033
+	Total Median: 0.711569
+	Total Max: 14.189031
+	prediction and real value:
+	1999:	13.189031    -1.000000
+	2000:	13.189031    -1.000000
+	2001:	13.189031    -1.000000
+	2002:	13.189031    -1.000000
+	2003:	13.189031    -1.000000
+	2004:	13.189031    -1.000000
+	2005:	13.189031    -1.000000
+	2006:	1.562528    0.799120
+	2007:	0.380647    1.040378
+	2008:	1.250036    1.571765
+	2009:	1.813382    1.865794
+	2010:	2.036173    1.906623
+	2011:	4.209451    3.414008
+	2012:	3.115521    2.761420
+	2013:	3.221934    3.106068
+	2014:	3.299945    3.408626
+	2015:	3.597436    3.790149
+	2016:	4.002951    3.355216

@@ -1,0 +1,5 @@
+	Label: Net Cash 1=Total Cash & ST Investments-Debt [FY 2010]($USDmm, Current rate)
+	Average Min Error: 	11.010253
+	Average Mean Error: 	1708.602980
+	Average Median Error: 	370.404657
+	Average Max Error: 	22296.830190

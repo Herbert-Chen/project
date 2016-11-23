@@ -1,5 +1,0 @@
-	Label: Total Cash & ST Investments/Avg. monthly cash outflow Month[FY 1997]
-	Average Min Error: 	0.019033
-	Average Mean Error: 	1.953516
-	Average Median Error: 	1.215271
-	Average Max Error: 	9.157489

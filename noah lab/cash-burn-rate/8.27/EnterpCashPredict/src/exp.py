@@ -99,7 +99,7 @@ if __name__ == '__main__':
     rs = cross_validation.ShuffleSplit(data_set_no_zero.shape[0], n_iter=5, test_size=0.1, train_size=0.9,
                                         random_state=None)  # 10 fold cross validation start
 
-    logger_file_name = './cv_' + str(labelCol) + '.txt'
+    logger_file_name = '../result/cv_' + str(labelCol) + '.txt'
     logger = open(logger_file_name, 'w')
     min_error = []
     mean_error = []

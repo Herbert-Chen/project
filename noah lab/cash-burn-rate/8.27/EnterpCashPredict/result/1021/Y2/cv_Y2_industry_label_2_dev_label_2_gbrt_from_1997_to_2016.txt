@@ -1,0 +1,5 @@
+	Label: Total Cash & ST Investments/Total Revenue % [FY 1997]
+	Average Min Error: 	0.000122
+	Average Mean Error: 	6.915785
+	Average Median Error: 	2.955787
+	Average Max Error: 	215.266145

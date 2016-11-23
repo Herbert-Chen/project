@@ -52,7 +52,7 @@ else:
 
 ###python3里面要修改，pd里面当前列号-1，如果要计数需要
 colnum=(int(predict_month)/100-2014)*12+int(predict_month)%100+1
-last_colnum=(int(201608)/100-2014)*12+int(predict_month)%100+1+2
+last_colnum=(int(201608)/100-2014)*12+int(201608)%100+1+2
 def transform(df):
     data_and_label = []
     for i in range(0, total_colnum+1):
@@ -397,7 +397,7 @@ train_and_label_data = transform(oriData)
 for train_year in [12]:
     print train_year
     for i in range(total_colnum,total_colnum+1):
-        slide_pred={'year_start':'201509','year_end':'201612','size':3}
+        slide_pred={'year_start':'201609','year_end':'201701','size':1}
         col_start = (int(slide_pred['year_start']) / 100 - 2014) * 12 + int(slide_pred['year_start']) % 100 + 1
         col_end = (int(slide_pred['year_end']) / 100 - 2014) * 12 + int(slide_pred['year_end']) % 100 + 1
         real_data = list(oriData.iloc[i, col_start:col_end + 1].values)
@@ -453,7 +453,7 @@ for train_year in [12]:
             # pd.DataFrame(result_trend.fittedvalues).plot()
             # pd.DataFrame(trend[train_year/4:-train_year/4]).plot()
 
-            model_seasonal = ARMA(seasonal, order=(1,0))
+            model_seasonal = ARMA(seasonal, order=(3,0))
             result_seasonal = model_seasonal.fit(disp=-1)
             # pd.DataFrame(result_seasonal.fittedvalues).plot()
             # pd.DataFrame(seasonal).plot()

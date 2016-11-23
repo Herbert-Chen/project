@@ -1,29 +1,29 @@
 	Label: ∆Total Cash & ST Investment/Rev s % [FY 2007] ($USDmm, Current rate)
-	Min Error: 	1.958256
-	Mean Error: 	4.621629
-	Median Error: 	3.667263
-	Max Error: 	8.239367
+	Min Error: 	1.752147
+	Mean Error: 	4.426985
+	Median Error: 	5.355680
+	Max Error: 	6.173128
 	Feature importance:
-		Total Assets YOY %  : 0.040753
-		Rev YOY % : 0.040612
-		∆Gross Margin % : 0.040551
-		Capex/Rev %: 0.038132
-		∆NI Margin % : 0.035579
-		R&D Exp./Total Revenue % : 0.030852
-		Cash flow risk: 0.029883
-		Payout Ratio  (%): 0.029466
-		Cash Acquisitions/Total Revenue % : 0.026708
-		Inflation (CPI) % in 2007: 0.022460
-		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.017202
-		USD LIBOR 3M % 2007: 0.009470
-		EUR LIBOR 3M % 2007: 0.008734
-		是否支付股利或股票回购2007: 0.002599
+		Total Assets YOY %  : 0.043704
+		Rev YOY % : 0.039967
+		Capex/Rev %: 0.039098
+		∆Gross Margin % : 0.037917
+		∆NI Margin % : 0.033653
+		R&D Exp./Total Revenue % : 0.027527
+		Cash flow risk: 0.027357
+		Cash Acquisitions/Total Revenue % : 0.026744
+		Inflation (CPI) % in 2007: 0.024434
+		Payout Ratio  (%): 0.024347
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.014652
+		EUR LIBOR 3M % 2007: 0.008735
+		USD LIBOR 3M % 2007: 0.008700
+		是否支付股利或股票回购2007: 0.003165
 
-	Total Min: 1.958256
-	Total Mean: 4.621629
-	Total Median: 3.667263
-	Total Max: 8.239367
+	Total Min: 1.752147
+	Total Mean: 4.426985
+	Total Median: 5.355680
+	Total Max: 6.173128
 	prediction and real value:
-	2008:	10.179355    6.512092
-	2009:	5.574821    13.814188
-	2010:	6.350477    4.392221
+	2008:	12.685220    6.512092
+	2009:	8.458508    13.814188
+	2010:	2.640074    4.392221

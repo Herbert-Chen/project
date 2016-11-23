@@ -1,0 +1,60 @@
+	Label: Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Min Error: 	710.649874
+	Mean Error: 	4515.169032
+	Median Error: 	1402.781484
+	Max Error: 	16276.752483
+	Feature importance:
+		Rev YOY % : 0.031189
+		Total Assets [FY 2008] ($USDmm, Current rate): 0.030063
+		Avg. Days Sales Out.  (Days): 0.028777
+		Cash from Ops.  ($USDmm, Current rate): 0.028417
+		Capex/Rev %: 0.028205
+		Cash from Ops./EBITDA % : 0.027908
+		Cash from Ops./Net Income% : 0.027602
+		Net Property, Plant & Equipment/ Total Assets % : 0.027126
+		Total Asset Turnover : 0.027106
+		Avg. Cash Conversion Cycle  (Days): 0.025963
+		Avg. Days Payable Out.  (Days): 0.025577
+		Capital Expenditure  ($USDmm, Current rate): 0.025510
+		Net Income Margin % : 0.024460
+		Avg. Days Inventory Out.  (Days): 0.024039
+		Gross Margin % : 0.023359
+		Net Property, Plant & Equipment  ($USDmm, Current rate): 0.022863
+		Total Liabilities  ($USDmm, Current rate): 0.022460
+		Return on Equity % : 0.022404
+		Total Revenue  ($USDmm, Current rate): 0.021684
+		Cost Of Goods Sold  ($USDmm, Current rate): 0.021433
+		Return on Assets % : 0.021303
+		Total Debt/Equity % : 0.021267
+		EBITDA Margin % : 0.020933
+		Other Operating Exp. Total  ($USDmm, Current rate): 0.020506
+		EBITDA  ($USDmm, Current rate): 0.020114
+		Cash Acquisitions/Total Revenue % : 0.019645
+		Depreciation & Amort., Total  ($USDmm, Current rate): 0.018943
+		Net Income  ($USDmm, Current rate): 0.018553
+		Total Liabilities/Total Assets % : 0.018404
+		Goodwill ($USDmm, Current rate): 0.017328
+		Payout Ratio  (%): 0.017243
+		Goodwill/Total Revenue % : 0.016733
+		Cash Acquisitions ($USDmm, Current rate): 0.016653
+		Goodwill/Total Asset % : 0.016591
+		Repurchase of Common Stock ($USDmm, Current rate): 0.014933
+		R&D Exp.  ($USDmm, Current rate): 0.014724
+		R&D Exp./Total Revenue % : 0.014709
+		Number of Employees (Latest): 0.009708
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.007151
+		cash flow risk: 0.005338
+		准入资本市场难度: 0.005078
+		Dev_label: 0.000000
+
+	Total Min: 710.649874
+	Total Mean: 4515.169032
+	Total Median: 1402.781484
+	Total Max: 16276.752483
+	prediction and real value:
+	2011:	6968.503401    8373.673190
+	2012:	8195.851633    9413.097010
+	2013:	16899.176128    10818.372640
+	2014:	28649.580133    12372.827650
+	2015:	14610.115850    16010.509030
+	2016:	18194.663556    18905.313430

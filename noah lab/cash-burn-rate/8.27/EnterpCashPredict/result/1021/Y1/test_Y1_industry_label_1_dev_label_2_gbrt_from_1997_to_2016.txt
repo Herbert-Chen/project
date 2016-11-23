@@ -1,0 +1,73 @@
+	Label: Total Cash & ST Investments [FY 1997] ($USDmm, Current rate)
+	Min Error: 	1.935984
+	Mean Error: 	2413.017213
+	Median Error: 	171.600999
+	Max Error: 	10245.933009
+	Feature importance:
+		Total Liabilities [FY 2015] ($USDmm, Current rate): 0.038857
+		Cash from Ops./EBITDA % : 0.037140
+		Rev YOY % : 0.034859
+		Total Liabilities/Total Assets % : 0.034601
+		Capex/Rev %: 0.033716
+		EBITDA Margin % : 0.030862
+		Return on Assets % : 0.030263
+		Net Income Margin % : 0.029732
+		Cash from Ops./Net Income% : 0.029148
+		Total Revenue  ($USDmm, Current rate): 0.028768
+		Net Property, Plant & Equipment/ Total Assets % : 0.027816
+		Net Income  ($USDmm, Current rate): 0.027735
+		Cash from Ops.  ($USDmm, Current rate): 0.027122
+		Cash Acquisitions ($USDmm, Current rate): 0.026856
+		Goodwill/Total Asset % : 0.026750
+		Return on Equity % : 0.026474
+		Net Property, Plant & Equipment  ($USDmm, Current rate): 0.025792
+		Total Asset Turnover : 0.024772
+		Gross Margin % : 0.024723
+		Cash Acquisitions/Total Revenue % : 0.024654
+		Total Liabilities  ($USDmm, Current rate): 0.024603
+		Avg. Days Payable Out.  (Days): 0.024271
+		EBITDA  ($USDmm, Current rate): 0.023636
+		Cost Of Goods Sold  ($USDmm, Current rate): 0.023213
+		Depreciation & Amort., Total  ($USDmm, Current rate): 0.022930
+		Goodwill ($USDmm, Current rate): 0.022376
+		Capital Expenditure  ($USDmm, Current rate): 0.022315
+		Payout Ratio  (%): 0.022132
+		Repurchase of Common Stock ($USDmm, Current rate): 0.021691
+		Avg. Days Sales Out.  (Days): 0.021490
+		Goodwill/Total Revenue % : 0.021438
+		R&D Exp./Total Revenue % : 0.021037
+		Other Operating Exp. Total  ($USDmm, Current rate): 0.021019
+		Total Debt/Equity % : 0.020145
+		Avg. Cash Conversion Cycle  (Days): 0.019902
+		Number of Employees (Latest): 0.017801
+		R&D Exp.  ($USDmm, Current rate): 0.015339
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.012807
+		Avg. Days Inventory Out.  (Days): 0.012019
+		cash flow risk: 0.010935
+		准入资本市场难度: 0.008260
+		Dev_label: 0.000000
+
+	Total Min: 1.935984
+	Total Mean: 2413.017213
+	Total Median: 171.600999
+	Total Max: 10245.933009
+	prediction and real value:
+	1998:	-17.472538    -1.000000
+	1999:	-2.935984    -1.000000
+	2000:	-2.935984    -1.000000
+	2001:	-2.935984    -1.000000
+	2002:	-2.935984    -1.000000
+	2003:	-2.935984    -1.000000
+	2004:	-2.935984    -1.000000
+	2005:	-2.935984    -1.000000
+	2006:	896.151958    883.029000
+	2007:	884.505001    1056.106000
+	2008:	1005.836916    1892.266000
+	2009:	3509.129543    4504.069230
+	2010:	4252.556923    5492.608990
+	2011:	4578.801570    8373.673190
+	2012:	3488.391357    9413.097010
+	2013:	5610.376228    10818.372640
+	2014:	5001.692576    12372.827650
+	2015:	5764.576021    16010.509030
+	2016:	8938.797367    18905.313430

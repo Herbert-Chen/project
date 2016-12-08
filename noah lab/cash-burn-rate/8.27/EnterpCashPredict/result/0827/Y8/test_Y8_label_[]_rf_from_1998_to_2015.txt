@@ -1,0 +1,48 @@
+	Label: ∆Total Cash & ST Investments [FY 1998] ($USDmm, Current rate)
+	Min Error: 	2.441221
+	Mean Error: 	601.950247
+	Median Error: 	91.596591
+	Max Error: 	2814.251021
+	Feature importance:
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.244710
+		Total Assets YOY %  : 0.132355
+		R&D Exp./Total Revenue % : 0.091449
+		Rev YOY % : 0.055935
+		Payout Ratio  (%): 0.054515
+		USD LIBOR 3M % 1998: 0.053141
+		∆Gross Margin % : 0.049184
+		Cash flow risk: 0.045287
+		∆EBITDA Margin % : 0.045146
+		Capex/Rev %: 0.042965
+		Cash Acquisitions/Total Revenue % : 0.038547
+		EUR LIBOR 3M YOY % 1998: 0.034547
+		Inflation (CPI) % in 1998: 0.024043
+		EUR LIBOR 3M %1998: 0.022833
+		USD LIBOR 3M YOY % 1998: 0.020242
+		∆USD LIBOR 3M % 1998: 0.016461
+		Industry Dummy: 0.014460
+		∆EUR LIBOR 3M % 1998: 0.012313
+		是否支付股利或股票回购1998: 0.001867
+
+	Total Min: 2.441221
+	Total Mean: 601.950247
+	Total Median: 91.596591
+	Total Max: 2814.251021
+	prediction and real value:
+	1999:	-3.856945    -1.000000
+	2000:	-3.774925    -1.000000
+	2001:	-3.441221    -1.000000
+	2002:	4.765690    -1.000000
+	2003:	8.022883    -1.000000
+	2004:	10.704978    -1.000000
+	2005:	5.965260    -1.000000
+	2006:	-7.636652    -1.000000
+	2007:	81.480409    173.077000
+	2008:	193.208607    836.160000
+	2009:	693.305439    2611.803230
+	2010:	731.702832    988.539760
+	2011:	767.697825    2881.064200
+	2012:	184.286655    1039.423820
+	2013:	650.715108    1405.275630
+	2014:	816.667149    1554.455010
+	2015:	823.430359    3637.681380

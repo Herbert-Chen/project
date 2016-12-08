@@ -31,7 +31,7 @@ sys.setdefaultencoding('utf-8')
 # year_list = [x + year_gap + 1 + data_start for x in range(year_last)]
 
 ###算法，随机森林，GBRT
-algo = 'gbrt'   # rf, gbrt
+algo = 'rf'   # rf, gbrt
 
 
 ###路径，使用前一定要检查文件夹是否存在不然报错
@@ -173,7 +173,7 @@ def compute_error(true_y, pred_y):
 
 if __name__ == '__main__':
 
-    for year_start,year_end in [(1998,2015),(2010,2015),(1999,2002),(2007,2010)]:
+    for year_start,year_end in [(1998,2015),(2010,2015),(1999,2002),(2007,2010)]:#(1998,2015),(2010,2015),(1999,2002),(2007,2010)
         if var_name=='Y8':
             col_name_dict = {'∆Total Cash & ST Investments': 111}
             otherFeatureList = [9, 13, 16]  ###删掉12,13,12在后面有，13为标签
@@ -203,15 +203,15 @@ if __name__ == '__main__':
                     if year_start==1998:
                         otherFeatureList = [16]  ###删掉12,13,12在后面有，13为标签
                         baseFeatureList = [39, 57, 93, 149, 207, 261, 279, 297, 315, 333, 351, 387]
-                        future_Data = pd.read_excel('../data/future_2_Y9_2_1998_1123.xlsx', sheetname='Sheet1')
+                        future_Data = pd.read_excel('../data/future_2_Y9_2_1998_1114.xlsx', sheetname='Sheet1')
                     elif industry_labels==[]:
                         otherFeatureList = [9, 13, 16]  ###删掉12,13,12在后面有，13为标签
                         baseFeatureList = [39, 57, 93, 149, 207, 261, 279, 297, 315, 333, 351,387]
-                        future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_all_1123.xlsx', sheetname='Sheet1')
+                        future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_all_1114.xlsx', sheetname='Sheet1')
                     elif industry_labels==2:
                         otherFeatureList = [13, 16]  ###删掉12,13,12在后面有，13为标签
                         baseFeatureList = [39, 57, 93, 149, 207, 261, 279, 297, 315, 333, 351,387]
-                        future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_label2_1123.xlsx', sheetname='Sheet1')
+                        future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_label2_1114.xlsx', sheetname='Sheet1')
                     # baseFeatureList = [369]
                     for i in range(len(otherFeatureList)):  ###
                         otherFeatureList[i] -= 1
@@ -253,77 +253,77 @@ if __name__ == '__main__':
                 # print 'test_feature_set:%s' % str(test_feature_set.shape)
                 # print 'test_label_set:%s' % str(test_label_set.shape)
 
-
-                ###交叉验证绘图
-                plt = ArkPlot()
-                plt_out_name = gen_path('cv','png')
-                rs = cross_validation.ShuffleSplit(train_data_set.shape[0], n_iter=5, test_size=0.1, train_size=0.9,
-                                                   random_state=None)  # 10 fold cross validation start
-
-                # logger_file_name = '../result/1.2/cv_Y2' + algo +  '_gap_' +str(year_gap) + '_last_'+str(year_last) +  '.txt'
+#####################################################################
+                # ###交叉验证绘图
+                # plt = ArkPlot()
+                # plt_out_name = gen_path('cv','png')
+                # rs = cross_validation.ShuffleSplit(train_data_set.shape[0], n_iter=5, test_size=0.1, train_size=0.9,
+                #                                    random_state=None)  # 10 fold cross validation start
+                #
+                # # logger_file_name = '../result/1.2/cv_Y2' + algo +  '_gap_' +str(year_gap) + '_last_'+str(year_last) +  '.txt'
+                # # logger = open(logger_file_name, 'w')
+                # min_error = []
+                # mean_error = []
+                # median_error = []
+                # max_error = []
+                # count = 0
+                # err_data = []
+                # plot_label = []
+                # plot_max_error = -1
+                # for train_index, test_index in rs:
+                #     # logger.write("Label: \t%s\n" % label_name)
+                #     # print count + 1
+                #     count += 1
+                #     train_x = train_feature_set[train_index, :]
+                #     train_y = train_label_set[train_index]
+                #     test_x = train_feature_set[test_index, :]
+                #     test_y = train_label_set[test_index]
+                #
+                #     if algo == 'rf':
+                #         model = RandomForestRegressor(n_estimators=1000, criterion='mse', max_depth=None, min_samples_split=2,
+                #                                       max_features=0.5, n_jobs=-1)
+                #     elif algo == 'gbrt':
+                #         model = GradientBoostingRegressor(loss='huber', learning_rate=0.01, n_estimators=10000,
+                #                                           min_samples_split=2,
+                #                                           max_depth=7, max_features='sqrt', alpha=0.9)##n_estimators=1000,max_depth=5
+                #
+                #     model.fit(train_x, train_y)
+                #     pred_y = model.predict(test_x)
+                #
+                #     error = compute_error(test_y, pred_y)
+                #     plot_max_error = max(np.max(error), plot_max_error)
+                #     err_sorted = sorted(error)
+                #     err_data.append(err_sorted)
+                #     plot_label.append('cv' + str(count))
+                #
+                #     min_error.append(np.min(error))
+                #     mean_error.append(np.mean(error))
+                #     median_error.append(np.median(error))
+                #     max_error.append(np.max(error))
+                #
+                #     label = ['benchmark', 'one-layer model', 'two-layer model']
+                #     params = {
+                #         'data_batch': err_data,
+                #         'label_batch': plot_label,
+                #         'fname': plt_out_name,
+                #         'title': label_name,
+                #         'xlabel': 'error',
+                #         'ylabel': 'percentage',
+                #         # 'xlim': [0, plot_max_error * 0.5]
+                #         'xlim': [0, 160]
+                #     }
+                #     plt.cdf(**params)
+                #
+                # ###交叉验证的文档，最大最小。。。的平均
+                # logger_file_name = gen_path('cv', 'txt')
                 # logger = open(logger_file_name, 'w')
-                min_error = []
-                mean_error = []
-                median_error = []
-                max_error = []
-                count = 0
-                err_data = []
-                plot_label = []
-                plot_max_error = -1
-                for train_index, test_index in rs:
-                    # logger.write("Label: \t%s\n" % label_name)
-                    # print count + 1
-                    count += 1
-                    train_x = train_feature_set[train_index, :]
-                    train_y = train_label_set[train_index]
-                    test_x = train_feature_set[test_index, :]
-                    test_y = train_label_set[test_index]
-
-                    if algo == 'rf':
-                        model = RandomForestRegressor(n_estimators=1000, criterion='mse', max_depth=None, min_samples_split=2,
-                                                      max_features=0.5, n_jobs=-1)
-                    elif algo == 'gbrt':
-                        model = GradientBoostingRegressor(loss='huber', learning_rate=0.1, n_estimators=1000,
-                                                          min_samples_split=2,
-                                                          max_depth=5, max_features='sqrt', alpha=0.9)
-
-                    model.fit(train_x, train_y)
-                    pred_y = model.predict(test_x)
-
-                    error = compute_error(test_y, pred_y)
-                    plot_max_error = max(np.max(error), plot_max_error)
-                    err_sorted = sorted(error)
-                    err_data.append(err_sorted)
-                    plot_label.append('cv' + str(count))
-
-                    min_error.append(np.min(error))
-                    mean_error.append(np.mean(error))
-                    median_error.append(np.median(error))
-                    max_error.append(np.max(error))
-
-                    label = ['benchmark', 'one-layer model', 'two-layer model']
-                    params = {
-                        'data_batch': err_data,
-                        'label_batch': plot_label,
-                        'fname': plt_out_name,
-                        'title': label_name,
-                        'xlabel': 'error',
-                        'ylabel': 'percentage',
-                        # 'xlim': [0, plot_max_error * 0.5]
-                        'xlim': [0, 160]
-                    }
-                    plt.cdf(**params)
-
-                ###交叉验证的文档，最大最小。。。的平均
-                logger_file_name = gen_path('cv', 'txt')
-                logger = open(logger_file_name, 'w')
-                logger.write("\tLabel: %s\n" % label_name)
-                logger.write("\tAverage Min Error: \t%f\n" % (sum(min_error)/len(min_error)))
-                logger.write("\tAverage Mean Error: \t%f\n" % (sum(mean_error)/len(mean_error)))
-                logger.write("\tAverage Median Error: \t%f\n" % (sum(median_error)/len(median_error)))
-                logger.write("\tAverage Max Error: \t%f\n" % (sum(max_error)/len(max_error)))
-                logger.close()
-
+                # logger.write("\tLabel: %s\n" % label_name)
+                # logger.write("\tAverage Min Error: \t%f\n" % (sum(min_error)/len(min_error)))
+                # logger.write("\tAverage Mean Error: \t%f\n" % (sum(mean_error)/len(mean_error)))
+                # logger.write("\tAverage Median Error: \t%f\n" % (sum(median_error)/len(median_error)))
+                # logger.write("\tAverage Max Error: \t%f\n" % (sum(max_error)/len(max_error)))
+                # logger.close()
+#############################################################################################################
                 ###HW上验证
 
                 # print train_data_set.shape
@@ -346,85 +346,87 @@ if __name__ == '__main__':
                                                       max_depth=5, max_features='sqrt', alpha=0.9)
 
                 model.fit(train_feature_set, train_label_set)
-                pred_y = model.predict(test_feature_set)
-
-                error = compute_error(test_label_set, pred_y)
-                plot_max_error = max(np.max(error), plot_max_error)
-                err_sorted = sorted(error)
-                err_data.append(err_sorted)
-                plot_label.append('test')
-                min_error.append(np.min(error))
-                mean_error.append(np.mean(error))
-                median_error.append(np.median(error))
-                max_error.append(np.max(error))
-
-                ranking_index = np.argsort(-model.feature_importances_)
-                importance_ranking_list = model.feature_importances_[ranking_index]
-                feature_ranking_list = col_names[ranking_index]
-
-
-                ###写测试log
-                logger_file_name = gen_path('test','txt')
-                logger = open(logger_file_name, 'w')
-                logger.write("\tLabel: %s\n" % label_name)
-                logger.write("\tMin Error: \t%f\n" % np.min(error))
-                logger.write("\tMean Error: \t%f\n" % np.mean(error))
-                logger.write("\tMedian Error: \t%f\n" % np.median(error))
-                logger.write("\tMax Error: \t%f\n" % np.max(error))
-                logger.write('\tFeature importance:\n')
-                for i in xrange(len(ranking_index)):
-                    logger.write("\t\t%s: %f\n" % (
-                    feature_ranking_list[i].replace('[FY %s]' % year_start, '').replace('[FY%s]' % year_start, ''),
-                    importance_ranking_list[i]))
-                logger.write('\n')
-
-                # log total error indexes
-                logger.write("\tTotal Min: %f\n" % np.mean(np.array(min_error)))
-                logger.write("\tTotal Mean: %f\n" % np.mean(np.array(mean_error)))
-                logger.write("\tTotal Median: %f\n" % np.mean(np.array(median_error)))
-                logger.write("\tTotal Max: %f\n" % np.mean(np.array(max_error)))
-                logger.write("\tprediction and real value:\n" )
-                for i in range(len(pred_y)):
-                    logger.write("\t%d:\t%f    %f\n"%(year_start+1+i,float(pred_y[i]),float(test_label_set[i])))
-                logger.close()
-
-                plt_hw = ArkPlot()
-                plt_hw_out_name = gen_path('test','png')
-
-                params = {
-                    'data_batch': err_data,
-                    'label_batch': plot_label,
-                    'fname': plt_hw_out_name,
-                    'title': label_name,
-                    'xlabel': 'error',
-                    'ylabel': 'percentage',
-                    # 'xlim': [0, plot_max_error * 0.2]
-                    'xlim': [0, 160]
-                }
-
-                plt_hw.cdf(**params)
-
-                # pyplot.figure()，对比预测与实际值
-                ###以10-16为例，实际上是11-16，所以下方修改
-                pyplot.plot(year_list, pred_y, label='prediction', color='red')
-                pyplot.plot(year_list, test_label_set, label='ground truth', color='black')
-                pyplot.title(k)
-                pyplot.xlabel('year')
-                pyplot.savefig(gen_path('contrast','png'))
-                pyplot.legend()
-                pyplot.close()
-
+                # pred_y = model.predict(test_feature_set)
+                #
+                # error = compute_error(test_label_set, pred_y)
+                # plot_max_error = max(np.max(error), plot_max_error)
+                # err_sorted = sorted(error)
+                # err_data.append(err_sorted)
+                # plot_label.append('test')
+                # min_error.append(np.min(error))
+                # mean_error.append(np.mean(error))
+                # median_error.append(np.median(error))
+                # max_error.append(np.max(error))
+                #
+                # ranking_index = np.argsort(-model.feature_importances_)
+                # importance_ranking_list = model.feature_importances_[ranking_index]
+                # feature_ranking_list = col_names[ranking_index]
+                #
+                #
+                # ###写测试log
+                # logger_file_name = gen_path('test','txt')
+                # logger = open(logger_file_name, 'w')
+                # logger.write("\tLabel: %s\n" % label_name)
+                # logger.write("\tMin Error: \t%f\n" % np.min(error))
+                # logger.write("\tMean Error: \t%f\n" % np.mean(error))
+                # logger.write("\tMedian Error: \t%f\n" % np.median(error))
+                # logger.write("\tMax Error: \t%f\n" % np.max(error))
+                # logger.write('\tFeature importance:\n')
+                # for i in xrange(len(ranking_index)):
+                #     logger.write("\t\t%s: %f\n" % (
+                #     feature_ranking_list[i].replace('[FY %s]' % year_start, '').replace('[FY%s]' % year_start, ''),
+                #     importance_ranking_list[i]))
+                # logger.write('\n')
+                #
+                # # log total error indexes
+                # logger.write("\tTotal Min: %f\n" % np.mean(np.array(min_error)))
+                # logger.write("\tTotal Mean: %f\n" % np.mean(np.array(mean_error)))
+                # logger.write("\tTotal Median: %f\n" % np.mean(np.array(median_error)))
+                # logger.write("\tTotal Max: %f\n" % np.mean(np.array(max_error)))
+                # logger.write("\tprediction and real value:\n" )
+                # for i in range(len(pred_y)):
+                #     logger.write("\t%d:\t%f    %f\n"%(year_start+1+i,float(pred_y[i]),float(test_label_set[i])))
+                # logger.close()
+                #
+                # plt_hw = ArkPlot()
+                # plt_hw_out_name = gen_path('test','png')
+                #
+                # params = {
+                #     'data_batch': err_data,
+                #     'label_batch': plot_label,
+                #     'fname': plt_hw_out_name,
+                #     'title': label_name,
+                #     'xlabel': 'error',
+                #     'ylabel': 'percentage',
+                #     # 'xlim': [0, plot_max_error * 0.2]
+                #     'xlim': [0, 160]
+                # }
+                #
+                # plt_hw.cdf(**params)
+                #
+                # # pyplot.figure()，对比预测与实际值
+                # ###以10-16为例，实际上是11-16，所以下方修改
+                # pyplot.plot(year_list, pred_y, label='prediction', color='red')
+                # pyplot.plot(year_list, test_label_set, label='ground truth', color='black')
+                # pyplot.title(k)
+                # pyplot.xlabel('year')
+                # pyplot.savefig(gen_path('contrast','png'))
+                # pyplot.legend()
+                # pyplot.close()
+##############################################################################################################3
                 # future_Data = pd.read_excel('../data/16-20_Y8-9.xlsx', sheetname='Sheet1')
                 # future_Data = future_Data.fillna(0.0)
                 # datalist=[[2,0,3.668574],[2,0,3.668574],[2,0,3.668574],[2,0,3.668574],[2,0,3.668574]]
                 # for i in range(len(list(future_Data.values)[0])):
                 #     datalist[i%5].append(list(future_Data.values)[0][i])
-                if year_start == 1998:
-                    future_Data = pd.read_excel('../data/future_2_Y9_2_1998.xlsx', sheetname='Sheet1')
-                elif industry_labels == []:
-                    future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_all.xlsx', sheetname='Sheet1')
-                elif industry_labels == 2:
-                    future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_label2.xlsx', sheetname='Sheet1')
+
+
+                # if year_start == 1998:
+                #     future_Data = pd.read_excel('../data/future_2_Y9_2_1998.xlsx', sheetname='Sheet1')
+                # elif industry_labels == []:
+                #     future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_all.xlsx', sheetname='Sheet1')
+                # elif industry_labels == 2:
+                #     future_Data = pd.read_excel('../data/future_2_Y9_2_!1998_label2.xlsx', sheetname='Sheet1')
                 datalist=future_Data.iloc[:,:].values
                 pred_future=model.predict(np.array(datalist))
                 print '\tindustry_label:%s' % str(industry_labels)

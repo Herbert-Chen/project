@@ -1,0 +1,36 @@
+	Label: ∆Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Min Error: 	342.841529
+	Mean Error: 	1501.715004
+	Median Error: 	1118.795863
+	Max Error: 	2967.107324
+	Feature importance:
+		Total Assets YOY %  : 0.257942
+		Rev YOY % : 0.125920
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.122916
+		Cash flow risk: 0.112332
+		∆Gross Margin % : 0.070772
+		R&D Exp./Total Revenue % : 0.060992
+		∆EBITDA Margin % : 0.052494
+		Capex/Rev %: 0.045383
+		Payout Ratio  (%): 0.034284
+		Cash Acquisitions/Total Revenue % : 0.032229
+		Inflation (CPI) % in 2010: 0.025788
+		EUR LIBOR 3M % 2010: 0.013357
+		EUR LIBOR 3M YOY % 2010: 0.012122
+		USD LIBOR 3M YOY % 2010: 0.010811
+		∆USD LIBOR 3M % 2010: 0.008434
+		USD LIBOR 3M % 2010: 0.007522
+		∆EUR LIBOR 3M % 2010: 0.006473
+		是否支付股利或股票回购2010: 0.000230
+		Industry Dummy: 0.000000
+
+	Total Min: 342.841529
+	Total Mean: 1501.715004
+	Total Median: 1118.795863
+	Total Max: 2967.107324
+	prediction and real value:
+	2011:	535.903003    2881.064200
+	2012:	1382.265349    1039.423820
+	2013:	286.479767    1405.275630
+	2014:	819.785904    1554.455010
+	2015:	670.574056    3637.681380

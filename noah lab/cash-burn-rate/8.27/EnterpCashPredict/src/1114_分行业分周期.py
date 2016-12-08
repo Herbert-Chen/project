@@ -32,7 +32,7 @@ sys.setdefaultencoding('utf-8')
 # year_list = [x + year_gap + 1 + data_start for x in range(year_last)]
 
 ###算法，随机森林，GBRT
-algo = 'gbrt'   # rf, gbrt
+algo = 'rf'   # rf, gbrt
 dev_label_start=976
 dev_label_start=dev_label_start-1
 ###路径，使用前一定要检查文件夹是否存在不然报错
@@ -334,7 +334,7 @@ if __name__ == '__main__':
             # baseFeatureList = [34, 54, 74, 94, 114, 134, 154, 174, 194, 214, 234, 254, 274,
             #                    294, 314, 334, 354, 374, 394, 414, 434, 474, 494, 514, 534,
             #                    554, 594, 614, 634, 654, 794, 814, 834, 854, 874, 894, 914]
-            year_end = 2016
+            # year_end = 2016
             data_start = 1997
             # print 'year:%d'%year_start
             # ###起止时间计算，生成时间的list，起始时间与97年间隔，持续时间
@@ -484,19 +484,19 @@ if __name__ == '__main__':
                         model.fit(train_feature_set, train_label_set)
                         pred_y = model.predict(test_feature_set)
 
-                        error = compute_error(test_label_set, pred_y)
-                        plot_max_error = max(np.max(error), plot_max_error)
-                        err_sorted = sorted(error)
-                        err_data.append(err_sorted)
-                        plot_label.append('test')
-                        min_error.append(np.min(error))
-                        mean_error.append(np.mean(error))
-                        median_error.append(np.median(error))
-                        max_error.append(np.max(error))
-
-                        ranking_index = np.argsort(-model.feature_importances_)
-                        importance_ranking_list = model.feature_importances_[ranking_index]
-                        feature_ranking_list = col_names[ranking_index]
+                        # error = compute_error(test_label_set, pred_y)
+                        # plot_max_error = max(np.max(error), plot_max_error)
+                        # err_sorted = sorted(error)
+                        # err_data.append(err_sorted)
+                        # plot_label.append('test')
+                        # min_error.append(np.min(error))
+                        # mean_error.append(np.mean(error))
+                        # median_error.append(np.median(error))
+                        # max_error.append(np.max(error))
+                        #
+                        # ranking_index = np.argsort(-model.feature_importances_)
+                        # importance_ranking_list = model.feature_importances_[ranking_index]
+                        # feature_ranking_list = col_names[ranking_index]
 
 
                         # ###写测试log
@@ -561,7 +561,7 @@ if __name__ == '__main__':
                         # pyplot.close()
 
                         ###预测16-20
-                        future_Data = pd.read_excel('../data/future_' + var_name + '_1123.xlsx', sheetname='Sheet1')
+                        future_Data = pd.read_excel('../data/future_' + var_name + '_1110.xlsx', sheetname='Sheet1')
                         pred_future = model.predict(np.array(future_Data.values))
                         # print var_name
                         # print 'year:%d-2015' % year_start

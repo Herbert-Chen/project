@@ -1,0 +1,42 @@
+	Label: ∆Total Cash & ST Investments/ Rev % [FY 1998] ($USDmm, Current rate)
+	Min Error: 	0.015939
+	Mean Error: 	1.489487
+	Median Error: 	0.177716
+	Max Error: 	7.386224
+	Feature importance:
+		Total Assets YOY %  : 0.298373
+		Rev YOY % : 0.229466
+		∆Gross Margin % : 0.122280
+		R&D Exp./Total Revenue % : 0.099957
+		Cash flow risk: 0.053550
+		Cash Acquisitions/Total Revenue % : 0.050318
+		∆NI Margin % : 0.029221
+		Capex/Rev %: 0.028537
+		Inflation (CPI) % in 1998: 0.026753
+		USD LIBOR 3M % 1998: 0.022734
+		Payout Ratio  (%): 0.017312
+		EUR LIBOR 3M %1998: 0.014507
+		是否支付股利或股票回购1998: 0.006993
+
+	Total Min: 0.015939
+	Total Mean: 1.489487
+	Total Median: 0.177716
+	Total Max: 7.386224
+	prediction and real value:
+	1999:	-1.163902    -1.000000
+	2000:	-1.123609    -1.000000
+	2001:	-1.015939    -1.000000
+	2002:	-1.058942    -1.000000
+	2003:	-0.822284    -1.000000
+	2004:	-0.883752    -1.000000
+	2005:	-0.893576    -1.000000
+	2006:	-1.131486    -1.000000
+	2007:	2.154095    2.035267
+	2008:	6.250468    6.512092
+	2009:	7.624399    13.814188
+	2010:	6.483291    4.392221
+	2011:	9.912300    10.452593
+	2012:	6.138999    3.375685
+	2013:	6.339533    4.226651
+	2014:	11.693305    4.307081
+	2015:	11.322541    8.359560

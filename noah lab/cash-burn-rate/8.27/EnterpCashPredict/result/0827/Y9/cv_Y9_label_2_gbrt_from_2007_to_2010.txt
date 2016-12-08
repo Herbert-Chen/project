@@ -1,5 +1,5 @@
 	Label: ∆Total Cash & ST Investment/Rev s % [FY 2007] ($USDmm, Current rate)
-	Average Min Error: 	0.141695
-	Average Mean Error: 	4.792357
-	Average Median Error: 	2.668092
-	Average Max Error: 	18.121100
+	Average Min Error: 	0.242358
+	Average Mean Error: 	5.215222
+	Average Median Error: 	2.985218
+	Average Max Error: 	20.800489

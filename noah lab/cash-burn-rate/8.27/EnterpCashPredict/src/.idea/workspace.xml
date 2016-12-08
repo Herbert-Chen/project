@@ -16,24 +16,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/src$1110_Y2_Y7devlabel_new.coverage" NAME="1110_Y2-Y7削减变量——devlabel_new Coverage Results" MODIFIED="1479876546026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/src$delta_Y9_2.coverage" NAME="delta_Y9_2 Coverage Results" MODIFIED="1479871302598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$test.coverage" NAME="test Coverage Results" MODIFIED="1480589372131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$1110_Y2_Y7devlabel_new.coverage" NAME="1110_Y2-Y7削减变量——devlabel_new Coverage Results" MODIFIED="1480574678403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$delta_Y9_2.coverage" NAME="delta_Y9_2 Coverage Results" MODIFIED="1480574624217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$test4_Y9.coverage" NAME="test4_Y9 Coverage Results" MODIFIED="1480604184641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$ARIMA_Y1_Y7.coverage" NAME="ARIMA_Y1-Y7 Coverage Results" MODIFIED="1479871640003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1_2_reduced_x_2_phase_Y3.coverage" NAME="1.2_reduced-x&amp;2-phase_Y3 Coverage Results" MODIFIED="1472133611608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1020_imporve_Y6_Y7.coverage" NAME="1020_imporve_Y6_Y7 Coverage Results" MODIFIED="1477024121026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1_2_reduced_x_2_phase_Y2_Y3.coverage" NAME="1.2_reduced-x&amp;2-phase_Y2&amp;Y3 Coverage Results" MODIFIED="1472109178130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$.coverage" NAME="发展周期 Coverage Results" MODIFIED="1477029221016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$ARIMA_Y2_Y6.coverage" NAME="ARIMA_Y2_Y6 Coverage Results" MODIFIED="1476256361609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/src$1114_.coverage" NAME="1114_分行业分周期 Coverage Results" MODIFIED="1479870211184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$1114_.coverage" NAME="1114_分行业分周期 Coverage Results" MODIFIED="1480574680417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1480597518504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$API.coverage" NAME="API Coverage Results" MODIFIED="1477459483265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$pearson_Y2_Y7.coverage" NAME="pearson_Y2-Y7 Coverage Results" MODIFIED="1473050220649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/src$delta.coverage" NAME="delta Coverage Results" MODIFIED="1479871253102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$delta.coverage" NAME="delta Coverage Results" MODIFIED="1480574598260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1028_Y1_Y7.coverage" NAME="1028_Y1-Y7全变量交叉验证 Coverage Results" MODIFIED="1478412744113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$pearson.coverage" NAME="pearson Coverage Results" MODIFIED="1473048327457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$exp.coverage" NAME="exp Coverage Results" MODIFIED="1477459795993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1106_Y2_Y7.coverage" NAME="1106_Y2-Y7削减变量预测 Coverage Results" MODIFIED="1478761198408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1_x_all_x_industry_phase.coverage" NAME="1.x_all-x&amp;industry&amp;phase Coverage Results" MODIFIED="1473046584617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$debugtest.coverage" NAME="debugtest Coverage Results" MODIFIED="1479125439226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1480596742049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$1_1_ori_x_10_16.coverage" NAME="1.1_ori-x&amp;10-16 Coverage Results" MODIFIED="1472040341550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -45,103 +49,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="debugtest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/debugtest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="151" column="47" selection-start-line="151" selection-start-column="39" selection-end-line="151" selection-end-column="47" />
-              <folding>
-                <element signature="e#25#75#0" expanded="true" />
-                <element signature="e#358#367#0" expanded="false" />
-                <element signature="e#836#848#0" expanded="false" />
-                <element signature="e#3747#4205#0" expanded="false" />
-                <element signature="e#4207#4214#0" expanded="false" />
-                <element signature="e#5002#5020#0" expanded="false" />
-                <element signature="e#5928#5935#0" expanded="false" />
-                <element signature="e#6107#6189#0" expanded="false" />
-                <element signature="e#6254#6472#0" expanded="false" />
-                <element signature="e#6474#6481#0" expanded="false" />
-                <element signature="e#6667#6792#0" expanded="false" />
-                <element signature="e#20458#20903#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ARIMA_Y1-Y7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ARIMA_Y1-Y7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="265" column="59" selection-start-line="265" selection-start-column="59" selection-end-line="265" selection-end-column="59" />
-              <folding>
-                <element signature="e#1293#1450#0" expanded="false" />
-                <element signature="e#1454#1526#0" expanded="false" />
-                <element signature="e#3850#4308#0" expanded="false" />
-                <element signature="e#4310#4317#0" expanded="false" />
-                <element signature="e#4552#5754#0" expanded="false" />
-                <element signature="e#5757#5764#0" expanded="false" />
-                <element signature="e#5936#6018#0" expanded="false" />
-                <element signature="e#6083#6301#0" expanded="false" />
-                <element signature="e#6303#6310#0" expanded="false" />
-                <element signature="e#6496#6621#0" expanded="false" />
-                <element signature="e#6797#7033#0" expanded="false" />
-                <element signature="e#7085#7342#0" expanded="false" />
-                <element signature="e#7394#7628#0" expanded="false" />
-                <element signature="e#7680#7939#0" expanded="false" />
-                <element signature="e#7991#8234#0" expanded="false" />
-                <element signature="e#8286#8535#0" expanded="false" />
-                <element signature="e#8587#8855#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1110_Y2-Y7削减变量——devlabel_new.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1110_Y2-Y7削减变量——devlabel_new.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="579" column="0" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1114_分行业分周期.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1114_分行业分周期.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="231" column="47" selection-start-line="231" selection-start-column="20" selection-end-line="231" selection-end-column="47" />
-              <folding>
-                <element signature="e#886#898#0" expanded="false" />
-                <element signature="e#3797#4255#0" expanded="false" />
-                <element signature="e#4257#4264#0" expanded="false" />
-                <element signature="e#4509#7047#0" expanded="false" />
-                <element signature="e#7050#7057#0" expanded="false" />
-                <element signature="e#7229#7311#0" expanded="false" />
-                <element signature="e#7376#7594#0" expanded="false" />
-                <element signature="e#7596#7603#0" expanded="false" />
-                <element signature="e#7789#7914#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delta.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/delta.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7638">
-              <caret line="409" column="51" selection-start-line="409" selection-start-column="51" selection-end-line="409" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="delta_Y9_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/delta_Y9_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3800">
-              <caret line="207" column="79" selection-start-line="207" selection-start-column="79" selection-end-line="207" selection-end-column="79" />
+            <state relative-caret-position="19">
+              <caret line="204" column="99" selection-start-line="0" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1110_Y2-Y7削减变量——devlabel_new.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1110_Y2-Y7削减变量——devlabel_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7258">
+              <caret line="561" column="57" selection-start-line="0" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+              <folding>
+                <element signature="e#884#896#0" expanded="false" />
+                <element signature="e#3795#4253#0" expanded="false" />
+                <element signature="e#4255#4262#0" expanded="false" />
+                <element signature="e#4507#7215#0" expanded="false" />
+                <element signature="e#7218#7225#0" expanded="false" />
+                <element signature="e#7397#7479#0" expanded="false" />
+                <element signature="e#7544#7762#0" expanded="false" />
+                <element signature="e#7764#7771#0" expanded="false" />
+                <element signature="e#7957#8082#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3781">
+              <caret line="307" column="16" selection-start-line="307" selection-start-column="16" selection-end-line="307" selection-end-column="101" />
+              <folding>
+                <element signature="e#1273#1345#0" expanded="false" />
+                <element signature="e#1687#1694#0" expanded="false" />
+                <element signature="e#2614#3072#0" expanded="false" />
+                <element signature="e#3074#3081#0" expanded="false" />
+                <element signature="e#3316#4518#0" expanded="false" />
+                <element signature="e#4521#4528#0" expanded="false" />
+                <element signature="e#4700#4782#0" expanded="false" />
+                <element signature="e#4786#4793#0" expanded="false" />
+                <element signature="e#4979#5104#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1114_分行业分周期.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1114_分行业分周期.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4336">
+              <caret line="239" column="37" selection-start-line="239" selection-start-column="37" selection-end-line="239" selection-end-column="37" />
+              <folding>
+                <element signature="e#356#365#0" expanded="false" />
+                <element signature="e#884#896#0" expanded="false" />
+                <element signature="e#3795#4253#0" expanded="false" />
+                <element signature="e#4255#4262#0" expanded="false" />
+                <element signature="e#4507#7045#0" expanded="false" />
+                <element signature="e#7048#7055#0" expanded="false" />
+                <element signature="e#7227#7309#0" expanded="false" />
+                <element signature="e#7374#7592#0" expanded="false" />
+                <element signature="e#7594#7601#0" expanded="false" />
+                <element signature="e#7787#7912#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5453">
+              <caret line="466" column="30" selection-start-line="466" selection-start-column="30" selection-end-line="466" selection-end-column="82" />
+              <folding>
+                <element signature="e#884#896#0" expanded="false" />
+                <element signature="e#3795#4253#0" expanded="false" />
+                <element signature="e#4255#4262#0" expanded="false" />
+                <element signature="e#4507#7215#0" expanded="false" />
+                <element signature="e#7218#7225#0" expanded="false" />
+                <element signature="e#7397#7479#0" expanded="false" />
+                <element signature="e#7544#7762#0" expanded="false" />
+                <element signature="e#7764#7771#0" expanded="false" />
+                <element signature="e#7957#8082#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test4_Y9.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test4_Y9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+              <folding>
+                <element signature="e#6336#20452#0" expanded="false" />
+                <element signature="e#8459#8467#0" expanded="false" />
+                <element signature="e#9681#9688#0" expanded="false" />
+                <element signature="e#14261#20425#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,11 +188,15 @@
         <option value="$PROJECT_DIR$/1028_Y1-Y7全变量交叉验证.py" />
         <option value="$PROJECT_DIR$/1106_Y2-Y7削减变量预测.py" />
         <option value="$PROJECT_DIR$/debugtest.py" />
-        <option value="$PROJECT_DIR$/1114_分行业分周期.py" />
-        <option value="$PROJECT_DIR$/delta_Y9_2.py" />
-        <option value="$PROJECT_DIR$/delta.py" />
         <option value="$PROJECT_DIR$/ARIMA_Y1-Y7.py" />
+        <option value="$PROJECT_DIR$/delta.py" />
+        <option value="$PROJECT_DIR$/delta_Y9_2.py" />
         <option value="$PROJECT_DIR$/1110_Y2-Y7削减变量——devlabel_new.py" />
+        <option value="$PROJECT_DIR$/1114_分行业分周期.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$PROJECT_DIR$/test4_Y9.py" />
       </list>
     </option>
   </component>
@@ -194,9 +207,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -223,6 +237,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,8 +259,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +277,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1110_Y2-Y7削减变量——devlabel_new">
+  <component name="RunManager" selected="Python.test4_Y9">
     <configuration default="false" name="1114_分行业分周期" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +296,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="delta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,12 +309,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="src" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="delta_Y9_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,12 +327,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="src" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delta_Y9_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ARIMA_Y1-Y7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -331,12 +345,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="src" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ARIMA_Y1-Y7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="1110_Y2-Y7削减变量——devlabel_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test4_Y9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -349,7 +363,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="src" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1110_Y2-Y7削减变量——devlabel_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test4_Y9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -564,17 +578,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.1114_分行业分周期" />
-      <item index="1" class="java.lang.String" itemvalue="Python.delta" />
-      <item index="2" class="java.lang.String" itemvalue="Python.delta_Y9_2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ARIMA_Y1-Y7" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1110_Y2-Y7削减变量——devlabel_new" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test4_Y9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1110_Y2-Y7削减变量——devlabel_new" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ARIMA_Y1-Y7" />
-        <item index="2" class="java.lang.String" itemvalue="Python.delta_Y9_2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.delta" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test4_Y9" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
         <item index="4" class="java.lang.String" itemvalue="Python.1114_分行业分周期" />
       </list>
     </recent_temporary>
@@ -605,27 +619,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21623673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25037822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40486258" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6677741" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6677741" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5780731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6579378" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5780731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -653,59 +667,11 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="26" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3059">
-          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.1_ori-x&amp;10-16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="106" column="45" selection-start-line="104" selection-start-column="19" selection-end-line="106" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.x_all-x&amp;industry&amp;phase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="150" column="97" selection-start-line="150" selection-start-column="97" selection-end-line="150" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="137" column="24" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y2&amp;Y3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#434#478#0" expanded="false" />
-            <element signature="e#798#1256#0" expanded="false" />
-            <element signature="e#1259#1266#0" expanded="false" />
-            <element signature="e#1471#1828#0" expanded="false" />
-            <element signature="e#1830#1837#0" expanded="false" />
-            <element signature="e#2622#2629#0" expanded="false" />
-            <element signature="e#2801#2883#0" expanded="false" />
-            <element signature="e#2886#2893#0" expanded="false" />
-            <element signature="e#3079#3204#0" expanded="false" />
-            <element signature="e#9469#9642#0" expanded="false" />
-            <element signature="e#9684#9881#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.2_reduced-x&amp;2-phase_Y3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4731">
@@ -738,20 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="22" selection-start-line="15" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#25#75#0" expanded="true" />
-            <element signature="e#358#367#0" expanded="false" />
-            <element signature="e#836#848#0" expanded="false" />
-            <element signature="e#3747#4205#0" expanded="false" />
-            <element signature="e#4207#4214#0" expanded="false" />
-            <element signature="e#5002#5020#0" expanded="false" />
-            <element signature="e#5928#5935#0" expanded="false" />
-            <element signature="e#6107#6189#0" expanded="false" />
-            <element signature="e#6254#6472#0" expanded="false" />
-            <element signature="e#6474#6481#0" expanded="false" />
-            <element signature="e#6667#6792#0" expanded="false" />
-            <element signature="e#20458#20903#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -853,13 +805,6 @@
     <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/884504192/__builtin__.py" />
     <entry file="file://C:/Anaconda2/Lib/site-packages/statsmodels/tsa/tsatools.py" />
     <entry file="file://C:/Anaconda2/Lib/site-packages/statsmodels/tsa/stattools.py" />
-    <entry file="file://$PROJECT_DIR$/test_stationarity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3059">
@@ -947,92 +892,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/debugtest.py">
+    <entry file="file://E:/Program Files (x86)/Anaconda2/Lib/site-packages/sklearn/ensemble/gradient_boosting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="151" column="47" selection-start-line="151" selection-start-column="39" selection-end-line="151" selection-end-column="47" />
-          <folding>
-            <element signature="e#25#75#0" expanded="true" />
-            <element signature="e#358#367#0" expanded="false" />
-            <element signature="e#836#848#0" expanded="false" />
-            <element signature="e#3747#4205#0" expanded="false" />
-            <element signature="e#4207#4214#0" expanded="false" />
-            <element signature="e#5002#5020#0" expanded="false" />
-            <element signature="e#5928#5935#0" expanded="false" />
-            <element signature="e#6107#6189#0" expanded="false" />
-            <element signature="e#6254#6472#0" expanded="false" />
-            <element signature="e#6474#6481#0" expanded="false" />
-            <element signature="e#6667#6792#0" expanded="false" />
-            <element signature="e#20458#20903#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="1609" column="27" selection-start-line="1609" selection-start-column="27" selection-end-line="1609" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_stationarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ARIMA_Y1-Y7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="265" column="59" selection-start-line="265" selection-start-column="59" selection-end-line="265" selection-end-column="59" />
-          <folding>
-            <element signature="e#1293#1450#0" expanded="false" />
-            <element signature="e#1454#1526#0" expanded="false" />
-            <element signature="e#3850#4308#0" expanded="false" />
-            <element signature="e#4310#4317#0" expanded="false" />
-            <element signature="e#4552#5754#0" expanded="false" />
-            <element signature="e#5757#5764#0" expanded="false" />
-            <element signature="e#5936#6018#0" expanded="false" />
-            <element signature="e#6083#6301#0" expanded="false" />
-            <element signature="e#6303#6310#0" expanded="false" />
-            <element signature="e#6496#6621#0" expanded="false" />
-            <element signature="e#6797#7033#0" expanded="false" />
-            <element signature="e#7085#7342#0" expanded="false" />
-            <element signature="e#7394#7628#0" expanded="false" />
-            <element signature="e#7680#7939#0" expanded="false" />
-            <element signature="e#7991#8234#0" expanded="false" />
-            <element signature="e#8286#8535#0" expanded="false" />
-            <element signature="e#8587#8855#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="265" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="374" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1114_分行业分周期.py">
+    <entry file="file://$PROJECT_DIR$/debugtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="231" column="47" selection-start-line="231" selection-start-column="20" selection-end-line="231" selection-end-column="47" />
-          <folding>
-            <element signature="e#886#898#0" expanded="false" />
-            <element signature="e#3797#4255#0" expanded="false" />
-            <element signature="e#4257#4264#0" expanded="false" />
-            <element signature="e#4509#7047#0" expanded="false" />
-            <element signature="e#7050#7057#0" expanded="false" />
-            <element signature="e#7229#7311#0" expanded="false" />
-            <element signature="e#7376#7594#0" expanded="false" />
-            <element signature="e#7596#7603#0" expanded="false" />
-            <element signature="e#7789#7914#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="151" column="47" selection-start-line="151" selection-start-column="39" selection-end-line="151" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="463" column="30" selection-start-line="463" selection-start-column="30" selection-end-line="463" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/delta.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7638">
-          <caret line="409" column="51" selection-start-line="409" selection-start-column="51" selection-end-line="409" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="2872">
+          <caret line="406" column="66" selection-start-line="0" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/delta_Y9_2.py">
+    <entry file="file://$PROJECT_DIR$/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3800">
-          <caret line="207" column="79" selection-start-line="207" selection-start-column="79" selection-end-line="207" selection-end-column="79" />
-          <folding />
+        <state relative-caret-position="5453">
+          <caret line="466" column="30" selection-start-line="466" selection-start-column="30" selection-end-line="466" selection-end-column="82" />
+          <folding>
+            <element signature="e#884#896#0" expanded="false" />
+            <element signature="e#3795#4253#0" expanded="false" />
+            <element signature="e#4255#4262#0" expanded="false" />
+            <element signature="e#4507#7215#0" expanded="false" />
+            <element signature="e#7218#7225#0" expanded="false" />
+            <element signature="e#7397#7479#0" expanded="false" />
+            <element signature="e#7544#7762#0" expanded="false" />
+            <element signature="e#7764#7771#0" expanded="false" />
+            <element signature="e#7957#8082#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1110_Y2-Y7削减变量——devlabel_new.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="579" column="0" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
+        <state relative-caret-position="7258">
+          <caret line="561" column="57" selection-start-line="0" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+          <folding>
+            <element signature="e#884#896#0" expanded="false" />
+            <element signature="e#3795#4253#0" expanded="false" />
+            <element signature="e#4255#4262#0" expanded="false" />
+            <element signature="e#4507#7215#0" expanded="false" />
+            <element signature="e#7218#7225#0" expanded="false" />
+            <element signature="e#7397#7479#0" expanded="false" />
+            <element signature="e#7544#7762#0" expanded="false" />
+            <element signature="e#7764#7771#0" expanded="false" />
+            <element signature="e#7957#8082#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3781">
+          <caret line="307" column="16" selection-start-line="307" selection-start-column="16" selection-end-line="307" selection-end-column="101" />
+          <folding>
+            <element signature="e#1273#1345#0" expanded="false" />
+            <element signature="e#1687#1694#0" expanded="false" />
+            <element signature="e#2614#3072#0" expanded="false" />
+            <element signature="e#3074#3081#0" expanded="false" />
+            <element signature="e#3316#4518#0" expanded="false" />
+            <element signature="e#4521#4528#0" expanded="false" />
+            <element signature="e#4700#4782#0" expanded="false" />
+            <element signature="e#4786#4793#0" expanded="false" />
+            <element signature="e#4979#5104#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4_Y9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="e#6336#20452#0" expanded="false" />
+            <element signature="e#8459#8467#0" expanded="false" />
+            <element signature="e#9681#9688#0" expanded="false" />
+            <element signature="e#14261#20425#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delta_Y9_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="204" column="99" selection-start-line="0" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1114_分行业分周期.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4336">
+          <caret line="239" column="37" selection-start-line="239" selection-start-column="37" selection-end-line="239" selection-end-column="37" />
+          <folding>
+            <element signature="e#356#365#0" expanded="false" />
+            <element signature="e#884#896#0" expanded="false" />
+            <element signature="e#3795#4253#0" expanded="false" />
+            <element signature="e#4255#4262#0" expanded="false" />
+            <element signature="e#4507#7045#0" expanded="false" />
+            <element signature="e#7048#7055#0" expanded="false" />
+            <element signature="e#7227#7309#0" expanded="false" />
+            <element signature="e#7374#7592#0" expanded="false" />
+            <element signature="e#7594#7601#0" expanded="false" />
+            <element signature="e#7787#7912#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

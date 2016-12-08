@@ -1,0 +1,5 @@
+	Label: ∆Total Cash & ST Investments [FY 2010] ($USDmm, Current rate)
+	Average Min Error: 	6.247429
+	Average Mean Error: 	1040.802085
+	Average Median Error: 	380.181717
+	Average Max Error: 	11680.786389

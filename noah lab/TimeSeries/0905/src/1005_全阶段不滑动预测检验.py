@@ -351,18 +351,18 @@ for predict_month,month_num in {'201611':2}.items():#{'201506':7,'201512':7,'201
 
         model_trend = ARMA(trend[train_year/2:-train_year/2], order=(1, 0))
         result_trend = model_trend.fit(disp=-1)
-        pd.DataFrame(result_trend.fittedvalues).plot()
-        pd.DataFrame(trend[train_year/2:-train_year/2]).plot()
+        # pd.DataFrame(result_trend.fittedvalues).plot()
+        # pd.DataFrame(trend[train_year/2:-train_year/2]).plot()
 
         model_seasonal = ARMA(seasonal, order=(4,0))
         result_seasonal = model_seasonal.fit()
-        pd.DataFrame(result_seasonal.fittedvalues).plot()
-        pd.DataFrame(seasonal).plot()
+        # pd.DataFrame(result_seasonal.fittedvalues).plot()
+        # pd.DataFrame(seasonal).plot()
 
         model_residual = ARMA(residual[train_year/2:-train_year/2], order=(1, 0))
         result_residual = model_residual.fit(disp=-1)
-        pd.DataFrame(result_residual.fittedvalues).plot()
-        pd.DataFrame(residual[train_year/2:-train_year/2]).plot()
+        # pd.DataFrame(result_residual.fittedvalues).plot()
+        # pd.DataFrame(residual[train_year/2:-train_year/2]).plot()
 
         # fit_data=result_residual.fittedvalues+result_seasonal.fittedvalues[train_year/2:-train_year/2]+result_trend.fittedvalues
         # plt.figure()

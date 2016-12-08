@@ -1,0 +1,30 @@
+	Label: ∆Total Cash & ST Investments/ Rev % [FY 1999] ($USDmm, Current rate)
+	Min Error: 	0.126408
+	Mean Error: 	0.182119
+	Median Error: 	0.176915
+	Max Error: 	0.243034
+	Feature importance:
+		Total Assets YOY % : 0.476170
+		Rev YOY % : 0.141135
+		Cash flow risk: 0.070033
+		Cash Acquisitions/Total Revenue % : 0.059048
+		∆Gross Margin % : 0.053196
+		R&D Exp./Total Revenue % : 0.047855
+		∆NI Margin % : 0.037280
+		Capex/Rev %: 0.030926
+		Payout Ratio  (%): 0.020310
+		Inflation (CPI) % in 1999: 0.016817
+		Issuer Credit Rating - Foreign Currency LT [Latest] (Rating): 0.011995
+		是否支付股利或股票回购1999: 0.010243
+		Industry Dummy: 0.009328
+		USD LIBOR 3M % 1999: 0.008113
+		EUR LIBOR 3M %1999: 0.007551
+
+	Total Min: 0.126408
+	Total Mean: 0.182119
+	Total Median: 0.176915
+	Total Max: 0.243034
+	prediction and real value:
+	2000:	-1.243034    -1.000000
+	2001:	-1.126408    -1.000000
+	2002:	-1.176915    -1.000000

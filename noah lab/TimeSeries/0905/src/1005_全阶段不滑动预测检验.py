@@ -39,9 +39,9 @@ xlabel = [x for x in range(33)]
 
 
 
-predict_month = '201611'
+predict_month = '201612'
 ###两条路径，一个行数,两个序列
-train_year = 12
+train_year = 6
 var_name = 'A'
 if var_name == 'A':
     total_colnum = 172
@@ -321,7 +321,7 @@ train_and_label_data = transform(oriData)
 
 
 
-for predict_month,month_num in {'201611':2}.items():#{'201506':7,'201512':7,'201606':7,'201608':5}.items():
+for predict_month,month_num in {'201612':1}.items():#{'201506':7,'201512':7,'201606':7,'201608':5}.items():
     for i in range(total_colnum,total_colnum+1):
         print predict_month
         print month_num
@@ -349,17 +349,17 @@ for predict_month,month_num in {'201611':2}.items():#{'201506':7,'201512':7,'201
         # test_stationarity.draw_acf_pacf(seasonal)
         # test_stationarity.draw_acf_pacf(residual)
 
-        model_trend = ARMA(trend[train_year/2:-train_year/2], order=(1, 0))
+        model_trend = ARMA(trend[train_year/2:-train_year/2], order=(3, 0))
         result_trend = model_trend.fit(disp=-1)
         # pd.DataFrame(result_trend.fittedvalues).plot()
         # pd.DataFrame(trend[train_year/2:-train_year/2]).plot()
 
-        model_seasonal = ARMA(seasonal, order=(4,0))
-        result_seasonal = model_seasonal.fit()
+        # model_seasonal = ARMA(seasonal, order=(4,0))
+        # result_seasonal = model_seasonal.fit(disp=-1)
         # pd.DataFrame(result_seasonal.fittedvalues).plot()
         # pd.DataFrame(seasonal).plot()
 
-        model_residual = ARMA(residual[train_year/2:-train_year/2], order=(1, 0))
+        model_residual = ARMA(residual[train_year/2:-train_year/2], order=(1, 1))
         result_residual = model_residual.fit(disp=-1)
         # pd.DataFrame(result_residual.fittedvalues).plot()
         # pd.DataFrame(residual[train_year/2:-train_year/2]).plot()
@@ -375,10 +375,15 @@ for predict_month,month_num in {'201611':2}.items():#{'201506':7,'201512':7,'201
         # print
         # print 'the next %d month:'%month_num
 
-        future_result=result_residual.predict(0, colnum-1 - train_year / 2 + month_num - 1)[-month_num:] + result_seasonal.predict(
-            0, colnum -1+ month_num - 1)[-month_num:] + result_trend.predict(0,
-                                                                                colnum-1 - train_year / 2 + month_num - 1)[
-                                                           -month_num:]
+        # future_result=result_residual.predict(0, colnum-1 - train_year / 2 + month_num - 1)[-month_num:] + result_seasonal.predict(
+        #     0, colnum -1+ month_num - 1)[-month_num:] + result_trend.predict(0,
+        #                                                                         colnum-1 - train_year / 2 + month_num - 1)[
+        #                                                    -month_num:]
+
+        future_result = result_residual.predict(0, colnum - 1 - train_year / 2 + month_num - 1)[
+                        -month_num:] + np.array(seasonal[len(seasonal)%train_year:len(seasonal)%train_year+month_num]) + result_trend.predict(0,
+                                                                               colnum - 1 - train_year / 2 + month_num - 1)[
+                                                          -month_num:]
         # for k in range(month_num):
         #     print future_result[k]
         # colnum = (int(predict_month) / 100 - 2014) * 12 + int(predict_month) % 100 + 1

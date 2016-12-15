@@ -52,7 +52,7 @@
       <file leaf-file-name="delta_Y9_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/delta_Y9_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="3743">
               <caret line="204" column="99" selection-start-line="0" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
               <folding />
             </state>
@@ -102,8 +102,8 @@
       <file leaf-file-name="1114_分行业分周期.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1114_分行业分周期.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4336">
-              <caret line="239" column="37" selection-start-line="239" selection-start-column="37" selection-end-line="239" selection-end-column="37" />
+            <state relative-caret-position="473">
+              <caret line="346" column="50" selection-start-line="346" selection-start-column="50" selection-end-line="346" selection-end-column="50" />
               <folding>
                 <element signature="e#356#365#0" expanded="false" />
                 <element signature="e#884#896#0" expanded="false" />
@@ -143,7 +143,7 @@
       <file leaf-file-name="test4_Y9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test4_Y9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="3116">
               <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
               <folding>
                 <element signature="e#6336#20452#0" expanded="false" />
@@ -238,7 +238,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -259,6 +258,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -622,7 +622,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25037822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40486258" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -934,24 +934,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5453">
-          <caret line="466" column="30" selection-start-line="466" selection-start-column="30" selection-end-line="466" selection-end-column="82" />
-          <folding>
-            <element signature="e#884#896#0" expanded="false" />
-            <element signature="e#3795#4253#0" expanded="false" />
-            <element signature="e#4255#4262#0" expanded="false" />
-            <element signature="e#4507#7215#0" expanded="false" />
-            <element signature="e#7218#7225#0" expanded="false" />
-            <element signature="e#7397#7479#0" expanded="false" />
-            <element signature="e#7544#7762#0" expanded="false" />
-            <element signature="e#7764#7771#0" expanded="false" />
-            <element signature="e#7957#8082#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1110_Y2-Y7削减变量——devlabel_new.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7258">
@@ -967,6 +949,14 @@
             <element signature="e#7764#7771#0" expanded="false" />
             <element signature="e#7957#8082#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delta_Y9_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3743">
+          <caret line="204" column="99" selection-start-line="0" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -988,31 +978,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test4_Y9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
-          <folding>
-            <element signature="e#6336#20452#0" expanded="false" />
-            <element signature="e#8459#8467#0" expanded="false" />
-            <element signature="e#9681#9688#0" expanded="false" />
-            <element signature="e#14261#20425#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/delta_Y9_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="204" column="99" selection-start-line="0" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1114_分行业分周期.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4336">
-          <caret line="239" column="37" selection-start-line="239" selection-start-column="37" selection-end-line="239" selection-end-column="37" />
+        <state relative-caret-position="473">
+          <caret line="346" column="50" selection-start-line="346" selection-start-column="50" selection-end-line="346" selection-end-column="50" />
           <folding>
             <element signature="e#356#365#0" expanded="false" />
             <element signature="e#884#896#0" expanded="false" />
@@ -1024,6 +993,37 @@
             <element signature="e#7374#7592#0" expanded="false" />
             <element signature="e#7594#7601#0" expanded="false" />
             <element signature="e#7787#7912#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5453">
+          <caret line="466" column="30" selection-start-line="466" selection-start-column="30" selection-end-line="466" selection-end-column="82" />
+          <folding>
+            <element signature="e#884#896#0" expanded="false" />
+            <element signature="e#3795#4253#0" expanded="false" />
+            <element signature="e#4255#4262#0" expanded="false" />
+            <element signature="e#4507#7215#0" expanded="false" />
+            <element signature="e#7218#7225#0" expanded="false" />
+            <element signature="e#7397#7479#0" expanded="false" />
+            <element signature="e#7544#7762#0" expanded="false" />
+            <element signature="e#7764#7771#0" expanded="false" />
+            <element signature="e#7957#8082#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4_Y9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3116">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="e#6336#20452#0" expanded="false" />
+            <element signature="e#8459#8467#0" expanded="false" />
+            <element signature="e#9681#9688#0" expanded="false" />
+            <element signature="e#14261#20425#0" expanded="false" />
           </folding>
         </state>
       </provider>
